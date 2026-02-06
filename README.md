@@ -2,12 +2,12 @@
 
 Vira Saienko 713784 (2026)
 
-*I never knew that many brands and shops inside Cribbs Causeway mall until I built this website 😅*
-
 The website is available via this link: [https://sweet-orchard.github.io/unit10-cribbs-causeway-project/
 ](https://sweet-orchard.github.io/unit10-cribbs-causeway-project/)
 
-This Github repository link: ...
+This Github repository link: [https://github.com/sweet-orchard/unit10-cribbs-causeway-project](https://github.com/sweet-orchard/unit10-cribbs-causeway-project)
+
+*I never knew that many brands and shops inside Cribbs Causeway mall until I built this website 😅*
 
 The little webpage was built to solve navigation problems that customers may experience. It has a sidebar on the left showing all the stores with search and category filters, a main map area in the middle with upper and lower floors. Also, it has a promotion banner at the top that changes the text every 5 seconds AND accessibility features including text size customization, dark mode, language selection, screen reader labels, and high-contrast mode. 
 
