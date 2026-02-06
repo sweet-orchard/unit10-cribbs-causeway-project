@@ -124,7 +124,7 @@ Blue (#003A70) conveys professionalism and trust. Gold accents (#c5a059) add lux
 
 **Content Management: Include a news or promotions section that can be easily updated**
 
-Currently implemented with rotating promotional banner cycling every 5 seconds. Uses JSON data structure that can be updated by stuff. Future enhancement: web-based admin panel with form editor, image upload, preview, and scheduling. Architecture supports this expansion without rebuilding - just add management layer on top of existing JSON system.
+I built a promotional banner at the top that rotates through different offers every 5 seconds. The promotional content is stored in JSON files, so staff can update it by editing the text. It's pretty straightforward - just change the message in the file and it shows up on the banner automatically.
 
 **Instant Multilingual Translation: Translate the entire site into every language in the world instantly and perfectly**
 
@@ -134,13 +134,13 @@ Not 100% feasable. Current implementation supports English, French, Japanese thr
 
 In the beginning of my desining process I had a look at some references and examples of mall map ideas. The main inspiration I took was from the official [Cribbs Causeway website](https://www.mallcribbs.com/stores/cribbs-store-map/). I made sure that the information about the shops and brands is accurate as possible and then I thought about how to enhance the existing mall map and make it accessible for various people.
 
-I started by sketching different layout ideas, but I focused more on making the website functional than perfecting the design. Sometimes during the design phase, I think I can code that kind of design, but then during development, I realise I can't do it or don't have enough time to finish before the deadline. That's why I stuck with the first original layout that came in my mind and only then I make design adjustments along the way.
+I started by sketching different layout ideas, but I focused more on making the website functional than perfecting the design. Sometimes during the design phase, I think I can code that kind of design, but then during development, I realise I can't do it or don't have enough time to finish before the deadline. That's why I stick with the first original layout that comes in my mind and only then I make design adjustments along the way.
 
 These are my early sketches: 
 
 <img width="1280" height="964" alt="image" src="https://github.com/user-attachments/assets/03d5512d-915b-4cc2-a68a-16035a3f63ac" />
 
-These first sketches missed some client requirements such as promotion section and also the slide bar in different location from the actual design. But the bottom-left sketch is probably the most similar to the final design.
+These first sketches are missing some client requirements such as promotion section and also the slide bar in different location from the actual design. But the bottom-left sketch is probably the most similar to the final design.
 
 I’ve used Figma to create svg shops and then integrate it into my website. Here’s the link: https://www.figma.com/design/duxIfnsS9T08sN36SocMmH/Cribbs-Causeway-Project?node-id=0-1&t=RJ57bXfLCPmVxqok-1
 
@@ -158,7 +158,7 @@ I organised stores into clear categories: Fashion, Food & Drink, Health & Beauty
 
 ### Technical Details
 
-The system needs to run on touchscreen kiosks you see in shopping centres. I'm assuming a 40-55 inch touchscreen monitor with 1920x1080 resolution minimum, a decent processor to handle the animations smoothly, at least 4GB RAM for the browser, and internet connection for loading some external libraries. The whole application is under 50MB including images, so it loads quickly.
+The system needs to run on touchscreen kiosks customers see in shopping centres. I'm assuming a 40-55 inch touchscreen monitor with 1920x1080 resolution minimum, a decent processor to handle the animations smoothly, at least 4GB RAM for the browser, and internet connection for loading some external libraries. The whole application is under 50MB including images, so it loads quickly.
 
 For software, any modern web browser works - Chrome, Firefox, Safari, Edge. It needs JavaScript enabled and local storage for remembering user preferences like theme and language. I used HTML5 for the structure, CSS3 for styling, and JavaScript for all the interactive features. Store data lives in JSON files which makes it easy to update. The map is SVG format so it scales perfectly and I can make individual stores clickable.
 
@@ -194,9 +194,9 @@ The accessibility features are probably the strongest part of my solution. Most 
 
 Multi-language support makes a big difference. Bristol gets lots of international visitors, and being able to switch to French or Japanese instantly makes them feel welcome. The translations cover interface text, store names, and categories. It updates without reloading the page which keeps the experience smooth.
 
-Search and filtering work really well. You start typing a store name and results appear immediately - no waiting, no clicking search buttons. Combined with category filters, you can go from 100+ stores to exactly what you need in seconds. This is way faster than scrolling through alphabetical lists like traditional directories.
+Search and filtering work really well. Users start typing a store name and results appear immediately - no waiting, no clicking search buttons. Combined with category filters, you can go from 100+ stores to exactly what you need in seconds. This is way faster than scrolling through alphabetical lists like traditional directories.
 
-The interactive map helps people understand where they're going. You can zoom in and out, pan around, switch between upper and lower floors, and click stores to see details. When you select a store from the list, it highlights on the map too, which connects the directory and spatial layout in your head.
+The interactive map helps people understand where they're going. Users can zoom in and out, pan around, switch between upper and lower floors, and click stores to see details. When they select a store from the list, it highlights on the map too, which connects the directory and spatial layout in users' head.
 
 Responsive design is a bonus. I built it for kiosks but it also works on tablets and phones. The shopping centre could potentially let people access it on their own devices, extending the system beyond physical terminals.
 
@@ -212,7 +212,7 @@ Internet dependency is a weakness. The system loads Tailwind CSS and Font Awesom
 
 Route planning is missing. Users can see where a store is, but the system doesn't tell them how to get there. In a massive shopping centre, knowing "it's over there" isn't always enough. People want step-by-step directions like "go straight, turn left at Costa Coffee, store is on your right."
 
-Real-time features don't exist. Store hours are hardcoded in the data file. The system can't show things like temporary closures, current wait times, or live events. You'd need backend integration for that, which I didn't implement.
+Real-time features don't exist. Store hours are hardcoded in the data file. The system can't show things like temporary closures, current wait times, or live events. The website would need backend integration for that, which I didn't implement.
 
 ### 👍 How HCI Principles Help
 
@@ -220,13 +220,13 @@ The director wanted to improve shopper experience and ensure accessibility. I us
 
 User-centred design means I researched existing wayfinding systems first, found their problems (tiny text, confusing layouts, zero accessibility), and fixed those issues in my solution. Instead of guessing what users want, I built around actual needs.
 
-Visibility principle ensures users can see all their options. Large buttons, obvious icons, clear labels - nobody has to guess what they can click. Everything available is right there in front of you.
+Visibility principle ensures users can see all their options. Large buttons, obvious icons, clear labels - nobody has to guess what they can click. Everything available is right there in front of them.
 
-Feedback happens instantly. Buttons change colour when you hover, search updates as you type, map animates when you interact with it. This constant feedback builds confidence that the system is working.
+Feedback happens instantly. Buttons change colour when users hover, search updates as they type, map animates when users interact with it. This constant feedback builds confidence that the system is working.
 
 Consistency makes learning easier. All buttons look similar, all active states use the same blue, all modals follow the same pattern. Once you learn one interaction, you know how the rest work.
 
-Error prevention means the system handles mistakes gracefully. Search shows partial matches if you misspell something. Category filters can be cleared easily. You can't "break" anything through normal use.
+Error prevention means the system handles mistakes gracefully. Search shows partial matches if users misspell something. Category filters can be cleared easily. Users can't "break" anything through normal use.
 
 Recognition over recall means users don't have to remember store names. They can browse categories or explore the map visually. The interface shows what exists rather than making people memorise it.
 
@@ -262,7 +262,7 @@ My web solution balances these options. It's more sophisticated than posters, mo
 | mapShapes.json | Data | JSON | SVG shape coordinates for map stores | Own work |
 | mapDefs.json | Data | JSON | Map definitions and structure | Cribbs Website |
 | Store logos | Images | PNG | Brand logos for 100+ stores (placeholders) | Various sources |
-| Header images | Images | WebP, JPEG | Store header images for detail panels | Various sources* |
+| Header images | Images | WebP, JPEG | Store header images for detail panels | Various sources |
 | Mall map graphics | Vector | SVG | Upper and lower floor maps with clickable areas | Own work (Figma) |
 | Cribbs Causeway logo | Image | PNG/WebP | Official mall branding | Client provided* |
 | Tailwind CSS | Library | CSS Framework | Loaded from CDN (https://cdn.tailwindcss.com) | MIT License |
@@ -368,7 +368,7 @@ My web solution balances these options. It's more sophisticated than posters, mo
 
 **Testing Summary**: All 49 tests passed successfully. The interface functions correctly across different devices, meets accessibility standards, and performs smoothly.
 
-Before testing, several bugs and issues arised.
+Before testing, several bugs and issues appeared.
 
 Some of these were:
 
@@ -401,7 +401,7 @@ Some of these were:
 
 The feedback was overwhelmingly positive. The search functionality and accessibility features received particular praise, with multiple users commenting on how intuitive and responsive the system felt. Users found the interface significantly faster than traditional directory boards, with 89% stating they would prefer this system over asking staff for directions. The most appreciated features were instant search results (mentioned by 92% of testers) and the visual map layout (mentioned by 87%).
 
-Even though users liked the system, they suggested improvements. The top request was directions that show you how to walk from where you are to the store you picked. People also wanted live information displayed - current deals, parking space availability, and icon lables showing what the icons mean.
+Even though users liked the system, they suggested improvements. The top request was directions that show you how to walk from where you are to the store customers picked. People also wanted live information displayed - current deals, parking space availability, and icon lables showing what the icons mean.
 
 ### 🔧 Improvements Based on Testing
 
@@ -457,7 +457,7 @@ The solution demonstrates high quality through:
 
 **Visual polish**: Smooth animations, consistent spacing, professional colour palette, high-quality images, attention to typographic details.
 
-**Performance**: Fast load times, responsive interactions, efficient rendering, optimized assets.
+**Performance**: Fast load times, responsive interactions, efficient rendering, optimised assets.
 
 **Reliability**: No bugs found during testing, graceful handling of edge cases, stable across extended use.
 
@@ -509,6 +509,7 @@ The solution's compatibility extends beyond just working on different devices:
 - Increased size of store cards after some users struggled to tap them
 - Made category filter buttons more visually distinct based on confusion about selected state
 - Added promotional banner rotation after suggestion it felt static
+- Added icon labels section for better understanding what they mean
 
 **Development changes from feedback**:
 
@@ -527,7 +528,7 @@ The solution's compatibility extends beyond just working on different devices:
 
 **Comprehensive accessibility implementation**: Going beyond basic requirements to include multiple accessibility features (text sizing, high contrast, keyboard nav, screen reader support, reduced motion) makes this solution truly inclusive. Many wayfinding systems ignore accessibility, but mine makes it a priority.
 
-**Fast, responsive search**: The instant search functionality sets this apart from systems that require hitting enter or clicking a search button. Results appear as you type, creating a fluid, modern experience.
+**Fast, responsive search**: The instant search functionality sets this apart from systems that require hitting enter or clicking a search button. Results appear as users type, creating a fluid, modern experience.
 
 **Multi-language support**: Including French and Japanese translations demonstrates consideration for international visitors. The translation system is extensible, making it easy to add more languages in the future.
 
@@ -553,10 +554,6 @@ The solution's compatibility extends beyond just working on different devices:
 
 
 ## 👉 Recommendations for Future Improvements
-
-Based on my evaluation and user feedback, here are concrete recommendations to enhance the solution:
-
-### High Priority Improvements
 
 **1. Add pathfinding and directions**
 
@@ -584,8 +581,6 @@ Connect to backend APIs to display dynamic information:
 
 This would make the system more valuable by providing up-to-date information users can rely on.
 
-### Medium Priority Improvements
-
 **4. Add facilities to the map**
 
 Include toilets, baby changing rooms, ATMs, customer service desks, fire exits, and disabled access points on the category section. Make these searchable and filterable just like stores. This addresses a common user need that the current system overlooks.
@@ -607,8 +602,6 @@ Create a native or progressive web app that shoppers can access on their phones.
 **7. Add visual map editor**
 
 Create a graphical tool for editing the SVG map without code knowledge. This could be a separate admin application where users click to add store locations, draw shapes, and label areas. This removes the technical barrier for map updates.
-
-### Lower Priority Improvements
 
 **8. Include store reviews and ratings**
 
@@ -666,7 +659,7 @@ I managed my time effectively by breaking the project into clear phases:
 
 **Week 6: Documentation** - Wrote comprehensive documentation, created diagrams, compiled asset tables, reflected on the process.
 
-This structured approach prevented last-minute rushing and ensured I had time for testing and refinement. The only problem that I had is that I was thinking the deadline for the assignement would be 3 days later. My documentation at that point wasn’t ready and I was a bit stressed. However, because I did my best in the previous areas such as development/testing, I completed the work luckily on time. For the future, I’d recommend myself to check the deadline date, just to make sure I’m on track with the time.
+This structured approach prevented last-minute rushing and ensured I had time for testing and refinement. The only problem that I had is that I was thinking the deadline for the assignement was 3 days later. My documentation at that point wasn’t ready and I was a bit stressed. However, because I did my best in the previous stages such as development/testing/research, I completed the work luckily on time. For the future, I’d recommend myself to check the deadline date, just to make sure I’m on track with the time.
 
 **Areas where I fell behind**: The map creation took longer than expected. Drawing SVG shapes for each store location was tedious and required multiple iterations to get coordinates accurate. Probably, I could make functional only some of the shops… (just for prototype and focus on other topics).
 
@@ -709,7 +702,7 @@ Reflecting on this project, I recognise several personal strengths and areas for
 - Strong technical implementation skills
 - Good attention to detail in visual design
 - Systematic approach to problem-solving
-- Designed a professional-looking website
+- Designing a professional-looking website
 - Receptiveness to feedback
 - Commitment to accessibility and inclusive design
 
