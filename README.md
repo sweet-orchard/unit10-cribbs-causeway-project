@@ -186,7 +186,7 @@ Every interaction gives immediate feedback. Buttons change colour when you hover
 Consistency is crucial. All buttons have the same rounded corners and hover effects. All active states use the same blue highlight. All modals follow the same layout pattern. When everything looks consistent, users learn the interface faster.
 
 
-## Evaluation
+## ✏️ Evaluation
 
 ### What Works Well
 
@@ -214,7 +214,7 @@ Route planning is missing. Users can see where a store is, but the system doesn'
 
 Real-time features don't exist. Store hours are hardcoded in the data file. The system can't show things like temporary closures, current wait times, or live events. You'd need backend integration for that, which I didn't implement.
 
-### How HCI Principles Help
+### 👍 How HCI Principles Help
 
 The director wanted to improve shopper experience and ensure accessibility. I used HCI principles to achieve this:
 
@@ -233,7 +233,7 @@ Recognition over recall means users don't have to remember store names. They can
 Flexibility accommodates different users. Fast typers use search, casual browsers use categories, visual people explore the map. Everyone gets what they need.
 
 
-## Alternative Approaches
+## 👀 Alternative Approaches
 
 I considered other solutions before settling on this web-based interface:
 
@@ -247,9 +247,8 @@ I considered other solutions before settling on this web-based interface:
 
 My web solution balances these options. It's more sophisticated than posters, more practical than AR apps, more scalable than staff desks, and more reliable than voice in noisy environments. Though it should complement staff, not replace them - humans handle complex situations better.
 
----
 
-## Assets and Sources
+## 🖼️ Assets and Sources
 
 ### Asset Table
 
@@ -271,7 +270,6 @@ My web solution balances these options. It's more sophisticated than posters, mo
 | Design sketches | Images | JPEG | Hand-drawn initial layout concepts | Own work |
 | Mall photos | Images | JPEG | Reference photos taken at Cribbs Causeway | Own work |
 
-* In production, proper licensing would be obtained from retailers and brand owners. Current implementation uses placeholder images for demonstration purposes.
 
 ### Project Statistics
 
@@ -298,9 +296,8 @@ My web solution balances these options. It's more sophisticated than posters, mo
 - **Tailwind CSS (CDN)** - Rapid styling with utility classes, MIT licensed
 - **Font Awesome (CDN)** - Professional icon set, free tier license
 
----
 
-## Testing Process
+## 🧪 Testing Process
 
 ### Test Plan
 
@@ -381,7 +378,7 @@ Some of these were:
 - When I clicked on a store in the shop list, the hover card didn't move when I panned the map, which prevented me from seeing hover cards for other shops.
 - Some shops didn't display their images and logos correctly, even though I linked them properly. This was because of the apostrophe character in their names (**L'Occitane, Thérapie Clinic**).
 
-### User Feedback Questionnaire
+### ⁉️ User Feedback Questionnaire
 
 **Questionnaire Questions:**
 
@@ -406,7 +403,7 @@ The feedback was overwhelmingly positive. The search functionality and accessibi
 
 Even though users liked the system, they suggested improvements. The top request was directions that show you how to walk from where you are to the store you picked. People also wanted live information displayed - current deals, parking space availability, and icon lables showing what the icons mean.
 
-### Improvements Based on Testing
+### 🔧 Improvements Based on Testing
 
 **Improvement 1: Search placeholder text**
 
@@ -420,11 +417,11 @@ Even though users liked the system, they suggested improvements. The top request
 - Solution: added the icon index on the top of the map
 - Result: better understanding for all users
 
----
+<br>
 
 ## Review of Development Process and Outcomes
 
-### Suitability for Audience and Purpose
+### 👯 Suitability for Audience and Purpose
 
 The digital wayfinding solution successfully meets the needs of Cribbs Causeway's diverse audience. The shopping centre serves families, elderly visitors, young professionals, tourists, and people with disabilities. My interface accommodates all these groups through:
 
@@ -440,7 +437,7 @@ The digital wayfinding solution successfully meets the needs of Cribbs Causeway'
 
 The solution fulfills its purpose of helping people navigate the shopping centre effectively while reducing staff burden in answering directional questions.
 
-### Ease of Use
+### ☑️ Ease of Use
 
 The interface prioritises ease of use through several design decisions:
 
@@ -452,7 +449,7 @@ The interface prioritises ease of use through several design decisions:
 
 User testing confirmed ease of use, with participants completing tasks successfully on first attempt with no training.
 
-### Quality and Portability
+### 🎖️ Quality and Portability
 
 The solution demonstrates high quality through:
 
@@ -473,7 +470,7 @@ The solution demonstrates high quality through:
 
 Being built on web standards (HTML, CSS, JavaScript) ensures the solution will work on any device with a modern browser, making it highly portable. The responsive design automatically adapts to different screen sizes without requiring separate versions.
 
-### Compatibility with Other Platforms
+### 📲 Compatibility with Other Platforms
 
 The solution's compatibility extends beyond just working on different devices:
 
@@ -492,7 +489,7 @@ The solution's compatibility extends beyond just working on different devices:
 
 **Future extensibility**: The modular code structure allows new features to be added without rewriting existing functionality. For example, adding route directions or loyalty program integration would slot into the existing architecture.
 
-### Legal and Ethical Considerations
+### ⚖️ Legal and Ethical Considerations
 
 **Accessibility requirements**: Under the Equality Act 2010, public services must be accessible to people with disabilities. My solution exceeds minimum requirements by implementing WCAG 2.1 AA standards, demonstrating the shopping centre's commitment to inclusion.
 
@@ -504,9 +501,7 @@ The solution's compatibility extends beyond just working on different devices:
 
 **Inclusive design ethics**: By prioritising accessibility from the start rather than as an afterthought, the solution treats all users with equal respect. This reflects ethical values of inclusion and equity.
 
-### Impact of Feedback on Design and Development
-
-User feedback significantly shaped the final product:
+### ✧ Impact of Feedback on Design and Development ✧
 
 **Design changes from feedback**:
 
@@ -528,7 +523,7 @@ User feedback significantly shaped the final product:
 - Route directions: While highly requested, this requires complex pathfinding algorithms and real-time location tracking. I decided this was beyond the scope of the initial version but documented it as a future enhancement.
 - Social features: Some users wanted to share favourite stores or see reviews. This would require user accounts and server infrastructure, adding complexity. I prioritized getting core wayfinding features right first.
 
-### Strengths of the Solution
+### ⊕ Strengths of the Solution
 
 **Comprehensive accessibility implementation**: Going beyond basic requirements to include multiple accessibility features (text sizing, high contrast, keyboard nav, screen reader support, reduced motion) makes this solution truly inclusive. Many wayfinding systems ignore accessibility, but mine makes it a priority.
 
@@ -542,7 +537,7 @@ User feedback significantly shaped the final product:
 
 **Cross-device compatibility**: The responsive design ensures the solution works whether deployed on large kiosks, tablets, or even phones, providing flexibility for the shopping centre.
 
-### Weaknesses of the Solution
+### ⊖ Weaknesses of the Solution
 
 **No wayfinding directions**: While users can see where stores are located, the system doesn't provide turn-by-turn directions or suggest the best route. This is a significant limitation for large shopping centres where visual location alone may not be enough.
 
@@ -557,7 +552,7 @@ User feedback significantly shaped the final product:
 **Map complexity for non-technical users**: Creating and updating the SVG map requires specialized knowledge. This makes it difficult for the shopping centre to add new stores or modify the layout without hiring developers.
 
 
-## Recommendations for Future Improvements
+## 👉 Recommendations for Future Improvements
 
 Based on my evaluation and user feedback, here are concrete recommendations to enhance the solution:
 
@@ -645,7 +640,7 @@ This helps the shopping centre understand user behaviour and make informed decis
 
 ## Evaluation of Personal Performance
 
-### Skills, Knowledge, and Behaviour
+### 👩‍💻 Skills, Knowledge, and Behaviour
 
 **Technical skills demonstrated**: This project has shown my abilities in HTML5, CSS3, modern JavaScript, SVG manipulation, responsive design, accessibility implementation, and JSON data structure design. I successfully created a complex interactive application from scratch, demonstrating strong front-end development skills.
 
@@ -657,7 +652,7 @@ This helps the shopping centre understand user behaviour and make informed decis
 
 **Creativity**: While following the brief's requirements, I added creative touches like the rotating promotional banner, multi-language support, theme options, and smooth animations. These enhancements demonstrate initiative and creative thinking beyond just meeting minimum requirements.
 
-### Time Management and Planning
+### 🕦 Time Management and Planning
 
 I managed my time effectively by breaking the project into clear phases:
 
@@ -677,7 +672,7 @@ This structured approach prevented last-minute rushing and ensured I had time fo
 
 **Areas where I was ahead**: The accessibility implementation went faster than expected because I designed with accessibility in mind from the start rather than adding it at the end. This reinforced the value of inclusive design principles.
 
-### Use of Feedback
+### 💬 Use of Feedback
 
 Feedback was essential to improving my solution. I actively sought input from:
 
