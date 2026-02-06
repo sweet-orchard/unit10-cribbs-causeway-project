@@ -647,7 +647,7 @@ This helps the shopping centre understand user behaviour and make informed decis
 
 ### Skills, Knowledge, and Behaviour
 
-**Technical skills demonstrated**: This project has shown my abilities in HTML5, CSS3, modern JavaScript (ES6+), SVG manipulation, responsive design, accessibility implementation, and JSON data structure design. I successfully created a complex interactive application from scratch, demonstrating strong front-end development skills.
+**Technical skills demonstrated**: This project has shown my abilities in HTML5, CSS3, modern JavaScript, SVG manipulation, responsive design, accessibility implementation, and JSON data structure design. I successfully created a complex interactive application from scratch, demonstrating strong front-end development skills.
 
 **HCI knowledge applied**: I applied HCI principles throughout the design process, from initial research and user needs analysis through to interface design and usability testing. Understanding concepts like Fitts's Law, Hick's Law, feedback loops, and accessibility guidelines allowed me to make informed design decisions rather than just guessing what might work.
 
