@@ -1,0 +1,765 @@
+<!DOCTYPE html>
+<html lang="en" style="font-size: 16px">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>cribbs causeway | navigate the mall</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body class="flex flex-col md:flex-row">
+    <a href="#mainContent" class="skip-link">Skip to main content</a>
+    <div class="promo-banner" role="region" aria-label="News and promotions">
+      <span id="promoText" aria-live="polite">Early Valentine’s deals: 15% OFF jewelry ❤️</span>
+    </div>
+    <div id="srStatus" class="sr-only" role="status" aria-live="polite"></div>
+    <!-- Mobile Header
+    <header
+      class="bg-white p-2 z-50 border-b border-slate-100 md:hidden shadow-sm flex flex-col items-center"
+    >
+      <div class="logo-container max-w-[150px]">
+        <div class="logo-img-wrapper" style="height: 32px">
+          <img
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY5G6pgr8sj2CNdWnCV8c3kJmHwJxmNE1xVg&s"
+            alt="Logo"
+            class="logo-img"
+          />
+        </div>
+        <span class="logo-text-main" style="font-size: 0.85rem"
+          >cribbs causeway</span
+        >
+        <div class="logo-divider"></div>
+        <span
+          class="logo-text-sub"
+          style="font-size: 0.5rem"
+          data-i18n="navigate_mall"
+          >navigate the mall</span
+        >
+      </div>
+    </header> -->
+
+    <!-- Sidebar -->
+    <aside
+      id="sidebarPanel"
+      class="w-full md:w-80 h-[45vh] md:h-full border-r border-slate-200 z-40 shadow-xl overflow-hidden sidebar-view"
+      role="complementary"
+      aria-label="Store directory"
+    >
+      <div id="sidebarSlider">
+        <!-- Directory View -->
+        <section id="directoryView" class="sidebar-view">
+          <div class="p-4 border-b border-slate-100 bg-white">
+            <div class="logo-container mb-3 px-2 mobile-hide">
+              <div class="logo-img-wrapper">
+                <img
+                  src="/assets/logos/Cribbs logo dark.png"
+                  data-light-src="/assets/logos/Cribbs logo dark.png"
+                  data-dark-src="/assets/logos/Cribbs logo white.png"
+                  alt="Cribbs Causeway logo"
+                  class="logo-img"
+                />
+              </div>
+              <h1 class="logo-text-main">cribbs causeway</h1>
+              <div class="logo-divider"></div>
+              <h2 class="logo-text-sub" data-i18n="navigate_mall">
+                navigate the mall
+              </h2>
+            </div>
+
+            <div
+              id="mobileSearchWrap"
+              class="md:flex items-center gap-2 hidden"
+            >
+              <div class="relative flex-1">
+                <input
+                  type="text"
+                  id="searchInput"
+                  placeholder="Search brands..."
+                  data-i18n-placeholder="search_placeholder"
+                  aria-label="Search stores"
+                  class="w-full bg-slate-50 border border-slate-200 input-modern py-2 px-10 text-base focus:ring-1 focus:ring-[#003A70] focus:bg-white outline-none transition-all placeholder-slate-400"
+                />
+                <i
+                  class="fa-solid fa-magnifying-glass search-icon absolute left-3.5 top-1/2 -translate-y-1/2 text-slate-400 text-sm"
+                ></i>
+              </div>
+              <button
+                id="mobileMenuBtn"
+                class="md:hidden w-10 h-10 btn-modern border border-slate-200 bg-slate-50 text-slate-700 flex items-center justify-center"
+                title="Close Search"
+              >
+                <i class="fa-solid fa-xmark text-xs"></i>
+              </button>
+            </div>
+
+            <div
+              id="mobileShopBtnWrap"
+              class="md:hidden flex items-center gap-2 w-full"
+            >
+              <div class="mobile-logo-wrapper">
+                <img
+                  src="/assets/logos/Cribbs logo dark.png"
+                  data-light-src="/assets/logos/Cribbs logo dark.png"
+                  data-dark-src="/assets/logos/Cribbs logo white.png"
+                  alt="Cribbs Causeway logo"
+                  class="logo-img"
+                />
+              </div>
+              <button
+                id="mobileShopBtn"
+                class="w-10 h-10 btn-modern border border-slate-200 bg-slate-50 text-slate-700 flex items-center justify-center ml-auto"
+                title="Search Shops"
+              >
+                <i class="fa-solid fa-list text-xs"></i>
+              </button>
+            </div>
+
+            <div
+              id="mobileStoreStats"
+              class="mt-2 text-xs font-bold text-slate-500 flex justify-between uppercase tracking-tight hidden"
+            >
+              <span>
+                <span data-i18n="stores_label">STORES</span>:
+                <span id="storeCount" class="text-slate-900" aria-live="polite">0</span>
+              </span>
+              <span class="text-emerald-600 flex items-center gap-1.5">
+                <i class="fa-solid fa-circle open-status-icon text-[5px]" aria-hidden="true"></i>
+                <span data-i18n="open_label">Open</span>
+              </span>
+            </div>
+          </div>
+
+          <nav
+            class="px-4 py-2 flex flex-wrap gap-1 border-b border-slate-50 shrink-0 mobile-filters"
+            id="categoryContainer"
+            aria-label="Filter categories"
+          ></nav>
+
+          <div
+            id="directoryList"
+            class="flex-1 overflow-y-auto sidebar-scroll p-2 space-y-1 bg-slate-50/50 mobile-directory-list"
+            role="list"
+            aria-live="polite"
+          ></div>
+
+          <div
+            class="p-2.5 bg-slate-50 border-t border-slate-100 text-xs font-bold text-slate-500 flex justify-between uppercase tracking-tight mobile-directory-footer"
+          ></div>
+        </section>
+
+        <!-- Detail View -->
+        <section id="detailView" class="sidebar-view">
+          <div class="p-3 border-b border-slate-100 flex items-center gap-2">
+            <button
+              onclick="showDirectory()"
+              id="backBtn"
+              class="w-8 h-8 btn-modern hover:bg-slate-100 flex items-center justify-center text-slate-500 transition-all"
+              aria-label="Back to store list"
+            >
+              <i class="fa-solid fa-arrow-left text-sm" aria-hidden="true"></i>
+            </button>
+            <span
+              class="text-xs font-bold text-slate-900 tracking-wider uppercase"
+              data-i18n="store_details"
+              >Store Details</span
+            >
+          </div>
+
+          <div id="detailScroll" class="flex-1 overflow-y-auto sidebar-scroll">
+            <!-- STORE DETAILS BACKGROUND -->
+            <div
+              class="h-40 bg-[#0f172a] flex items-center justify-center relative overflow-hidden shrink-0"
+            >
+              <div class="absolute inset-0 opacity-80">
+                <img
+                  id="storeHeroImage"
+                  src="https://digitalassets-retail.cdn-apple.com//retail-image-server/1cd/873/ad8/836/3fc/f96/01b/8b6/643/e9f/29d4f78e-63e5-3fd1-afd3-557373bd51b1_R414_672px_small_2x.png"
+                  class="w-full h-full object-cover mix-blend-overlay"
+                  alt=""
+                />
+              </div>
+              <!-- <div
+                id="storeLogoLarge"
+                class="text-white text-3xl font-black relative z-10 tracking-tighter uppercase"
+              >
+                Logo
+              </div> -->
+            </div>
+
+            <!-- END -->
+
+            <div class="p-4">
+              <span
+                id="storeCategoryDetail"
+                class="text-[10px] font-bold text-[#c5a059] uppercase tracking-widest mb-0.5 block"
+                >Category</span
+              >
+              <h2
+                id="storeNameDetail"
+                class="text-2xl font-bold text-slate-900 mb-4 leading-tight"
+              >
+                Store Name
+              </h2>
+              <div class="space-y-3">
+                <div
+                  class="flex items-center gap-3 text-sm font-medium text-slate-600"
+                >
+                  <div
+                    class="w-9 h-9 bg-slate-50 flex items-center justify-center text-[#003A70] border border-slate-100 shrink-0 btn-modern"
+                  >
+                    <i class="fa-solid fa-clock text-[10px]"></i>
+                  </div>
+                  <div>
+            <p class="text-[0.6rem] uppercase font-bold text-slate-400" data-i18n="hours">
+              Hours
+            </p>
+                    <div id="storeHoursDetail">10:00 AM – 08:00 PM</div>
+                  </div>
+                </div>
+                <div
+                  class="flex items-center gap-3 text-sm font-medium text-slate-600"
+                >
+                  <div
+                    class="w-9 h-9 bg-slate-50 flex items-center justify-center text-[#003A70] border border-slate-100 shrink-0 btn-modern"
+                  >
+                    <i class="fa-solid fa-map-pin text-[10px]"></i>
+                  </div>
+                  <div>
+                    <p class="text-[0.55rem] uppercase font-bold text-slate-400" data-i18n="location">
+                      Location
+                    </p>
+                    <span id="storeLocationDetail">Floor Level</span>
+                  </div>
+                </div>
+
+                <div
+                  class="flex items-center gap-3 text-sm font-medium text-slate-600 mt-5"
+                >
+                  <p
+                    id="storeAboutDetail"
+                    class="text-sm text-slate-900 leading-normal mt-2"
+                  ></p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="p-3 border-t border-slate-100 bg-white">
+            <button
+              id="learnMoreBtn"
+              class="w-full bg-[#003A70] text-white py-3 btn-modern hc-primary font-bold text-xs uppercase tracking-widest shadow-lg hover:bg-[#002A50] transition-all active:scale-95"
+              data-i18n="learn_more"
+            >
+              Learn More
+            </button>
+          </div>
+        </section>
+      </div>
+    </aside>
+    <button
+      id="sidebarToggle"
+      class="sidebar-toggle"
+      type="button"
+      aria-controls="sidebarPanel"
+      aria-expanded="true"
+      aria-label="Toggle sidebar"
+      title="Toggle sidebar"
+    >
+      <i class="fa-solid fa-chevron-left sidebar-toggle-icon" aria-hidden="true"></i>
+    </button>
+
+    <!-- Main Map Content -->
+    <main id="mainContent" class="flex-1 relative overflow-hidden" role="main" aria-describedby="mapDescription">
+      <p id="mapDescription" class="sr-only">
+        Interactive mall map. Use the floor buttons to switch levels and the zoom controls to change view.
+      </p>
+      <div
+        class="absolute top-4 left-4 right-4 flex justify-between items-center z-30 pointer-events-none md:justify-end md:gap-3 promo-offset-top"
+      >
+        <div class="flex gap-2 pointer-events-auto">
+          <button
+            onclick="switchFloor('lower')"
+            id="btn-lower"
+            class="level-btn glass-panel px-6 py-2 btn-modern text-xs font-bold shadow-lg transition-all active:scale-95 uppercase tracking-widest bg-[#003A70] text-white border-transparent"
+            aria-label="Switch to lower floor"
+          >
+            <span class="sr-only">Switch to lower floor</span>
+            <span aria-hidden="true">LOWER</span>
+          </button>
+          <button
+            onclick="switchFloor('upper')"
+            id="btn-upper"
+            class="level-btn glass-panel px-6 py-2 btn-modern text-xs font-bold shadow-lg transition-all active:scale-95 uppercase tracking-widest bg-white text-slate-900 border-slate-200"
+            aria-label="Switch to upper floor"
+          >
+            <span class="sr-only">Switch to upper floor</span>
+            <span aria-hidden="true">UPPER</span>
+          </button>
+        </div>
+
+        <div
+          class="bg-white/90 backdrop-blur-md px-4 py-2.5 btn-modern flex gap-4 shadow-lg pointer-events-auto items-center border border-slate-200"
+        >
+          <button
+            onclick="zoomMap(1.2)"
+            class="text-slate-600 hover:text-slate-900 p-1"
+            aria-label="Zoom in"
+          >
+            <i class="fa-solid fa-plus map-control-icon text-sm" aria-hidden="true"></i>
+          </button>
+          <button
+            onclick="zoomMap(0.8)"
+            class="text-slate-600 hover:text-slate-900 p-1"
+            aria-label="Zoom out"
+          >
+            <i class="fa-solid fa-minus map-control-icon text-sm" aria-hidden="true"></i>
+          </button>
+          <div class="w-px h-4 bg-slate-300"></div>
+          <button
+            onclick="resetView()"
+            class="text-slate-600 hover:text-slate-900 p-1"
+            aria-label="Reset map view"
+          >
+            <i class="fa-solid fa-expand map-control-icon text-sm" aria-hidden="true"></i>
+          </button>
+        </div>
+      </div>
+
+      <div id="mapViewport">
+        <div id="storeHoverCard" class="store-hover-card" aria-hidden="true"></div>
+        <div id="mapContainer">
+          
+
+          <svg
+            width="1256"
+            height="696"
+            viewBox="0 0 1256 696"
+            fill="none"
+            xmlns="http://www.w3.org/2000/svg"
+            xmlns:xlink="http://www.w3.org/1999/xlink"
+            id="mallMapSvg"
+            class="w-full h-full shadow-2xl bg-white border border-slate-200"
+            aria-hidden="true"
+          >
+            <g id="lowerFloorLayer" class="floor-layer"></g>
+            <g id="upperFloorLayer" class="floor-layer floor-hidden">
+              <g id="Extra middle shops"></g>
+              <g id="SHOPS">
+                <g id="group changing places"></g>
+                <g id="group Timpson"></g>
+                <g id="group Eurochange"></g>
+                <g id="group Whittard of Chelsea"></g>
+                <g id="group John Lewis and Partners"></g>
+                <g id="group Marks &#38; Spencer"></g>
+                <g id="group The Perfume Shop"></g>
+                <g id="group  Bubble CiTea"></g>
+                <g id="group Molton Brown"></g>
+                <g id="group Itsu"></g>
+                <g id="group Sweaty Betty"></g>
+                <g id="group Moss Bros"></g>
+                <g id="group Goose &#38; Gander"></g>
+                <g id="group The White Company"></g>
+                <g id="group Hobbs"></g>
+                <g id="group Honest Burgers"></g>
+                <g id="group Tortilla"></g>
+                <g id="group The Shake Lab"></g>
+                <g id="group Wagamama"></g>
+                <g id="group Victorias Secret"></g>
+                <g id="group The Entertainer"></g>
+                <g id="group MenKind"></g>
+                <g id="group Ann Summers"></g>
+                <g id="group Clarks"></g>
+                <g id="group Phase Eight"></g>
+                <g id="group F Hinds"></g>
+                <g id="group Warhammer"></g>
+                <g id="group empty box"></g>
+                <g id="group empty box_2"></g>
+                <g id="group empty box_3"></g>
+                <g id="group empty box_4"></g>
+                <g id="group empty box_5"></g>
+                <g id="group empty box_6"></g>
+                <g id="group empty box upper"></g>
+                <g id="group Nandos"></g>
+                <g id="group Wild Things Play Project"></g>
+                <g id="group Pizza Hut"></g>
+                <g id="group Goldsmiths"></g>
+                <g id="group Krispy Kreme"></g>
+                <g id="group Carluccio&#39;s"></g>
+                <g id="group YO!"></g>
+                <g id="group Chopstix"></g>
+                <g id="group Burger King"></g>
+                <g id="group Chandos Deli"></g>
+                <g id="group Juice Bar"></g>
+                <g id="group the Fragrance Shop"></g>
+                <g id="group Bremont"></g>
+                <g id="group Tag Heuer"></g>
+                <g id="group Patisserie Valerie"></g>
+                <g id="group Pizza Express"></g>
+                <g id="group Greggs"></g>
+                <g id="group Slim Chickens"></g>
+                <g id="group Amazon Locker"></g>
+                <g id="group Hotel Chocolat"></g>
+                <g id="group Next"></g>
+                <g id="group Sky Store"></g>
+                <g id="group Â¡Smash"></g>
+                <g id="group Mango"></g>
+                <g id="group Apple"></g>
+                <g id="group Breitling"></g>
+                <g id="group Boots"></g>
+                <g id="group H&#38;M"></g>
+                <g id="group H Samuel"></g>
+                <g id="group Polestar"></g>
+                <g id="group Lego"></g>
+                <g id="group Costa Coffee"></g>
+                <g id="group Crew Clothing"></g>
+                <g id="group AllSaints"></g>
+                <g id="group Charles Tyrwhitt"></g>
+                <g id="group Seasalt"></g>
+                <g id="group Boss"></g>
+                <g id="group Vodafone"></g>
+                <g id="group ThÃ©rapie Clinic"></g>
+                <g id="group EE"></g>
+                <g id="group Castore"></g>
+                <g id="group L&#39;Occitane"></g>
+                <g id="group Sunglass Hut"></g>
+                <g id="group Tudor"></g>
+                <g id="group Swarovski"></g>
+                <g id="group Fat Face"></g>
+                <g id="group Joules"></g>
+                <g id="group White Stuff"></g>
+                <g id="group Space NK"></g>
+                <g id="group Beaverbrooks"></g>
+              </g>
+              <g id="Exist Help Icons"></g>
+              <g id="Exist signs"></g>
+              <g id="Yellow Guide Rectangles"></g>
+            </g>
+          <defs id="mapDefs"></defs>
+          </svg>
+        </div>
+      </div>
+
+      <div
+        id="mobileBottomMenuWrap"
+        class="fixed bottom-4 left-4 right-4 z-[60] md:hidden flex items-center justify-between gap-2"
+      >
+        <div class="flex items-center gap-2">
+        <button
+          id="mobileFloorUpperBtn"
+          onclick="switchFloor('upper')"
+          class="level-btn glass-panel btn-modern h-12 px-6 text-xs font-bold uppercase tracking-widest bg-white text-slate-900 border-slate-200 shadow-xl"
+          aria-label="Switch to upper floor"
+        >
+          <span class="sr-only">Switch to upper floor</span>
+          <span data-i18n="upper" aria-hidden="true">Upper</span>
+        </button>
+        <button
+          id="mobileFloorLowerBtn"
+          onclick="switchFloor('lower')"
+          class="level-btn glass-panel btn-modern h-12 px-6 text-xs font-bold uppercase tracking-widest bg-white text-slate-900 border-slate-200 shadow-xl"
+          aria-label="Switch to lower floor"
+        >
+          <span class="sr-only">Switch to lower floor</span>
+          <span data-i18n="lower" aria-hidden="true">Lower</span>
+        </button>
+        </div>
+        <div class="flex items-center gap-2">
+          <button
+            onclick="toggleModal(true)"
+            class="w-12 h-12 btn-modern border border-slate-200 bg-white/90 backdrop-blur-md text-slate-800 flex items-center justify-center shadow-xl"
+            title="Interface"
+            aria-label="Open interface settings"
+          >
+            <i class="fa-solid fa-sliders text-sm"></i>
+          </button>
+          <button
+            onclick="toggleAbout(true)"
+            class="w-12 h-12 btn-modern border border-slate-200 bg-white/90 backdrop-blur-md text-slate-800 flex items-center justify-center shadow-xl"
+            title="About"
+            aria-label="Open about dialog"
+          >
+            <i class="fa-solid fa-circle-info text-sm"></i>
+          </button>
+        </div>
+      </div>
+      <div
+        id="desktopBottomMenuWrap"
+        class="fixed bottom-4 right-4 z-[60] hidden md:flex items-center gap-2"
+      >
+          <button
+            onclick="toggleModal(true)"
+            class="w-12 h-12 btn-modern border border-slate-200 bg-white/90 backdrop-blur-md text-slate-800 flex items-center justify-center shadow-xl"
+            title="Interface"
+            aria-label="Open interface settings"
+          >
+            <i class="fa-solid fa-sliders text-sm"></i>
+          </button>
+          <button
+            onclick="toggleAbout(true)"
+            class="w-12 h-12 btn-modern border border-slate-200 bg-white/90 backdrop-blur-md text-slate-800 flex items-center justify-center shadow-xl"
+            title="About"
+            aria-label="Open about dialog"
+          >
+            <i class="fa-solid fa-circle-info text-sm"></i>
+          </button>
+      </div>
+    </main>
+
+    <!-- Preferences Modal -->
+    <div
+      id="settingsModal"
+      class="fixed inset-0 z-[100] modal-overlay flex items-center justify-center p-4 hidden"
+      role="dialog"
+      aria-modal="true"
+      aria-labelledby="settingsTitle"
+    >
+      <div
+        class="bg-white w-full max-w-[340px] shadow-2xl overflow-hidden sidebar-view card-modern h-auto self-center"
+        tabindex="-1"
+      >
+        <div
+          class="p-3 border-b border-slate-100 flex justify-between items-center bg-white"
+        >
+          <h2
+            id="settingsTitle"
+            class="text-xs font-black uppercase tracking-widest text-slate-900"
+          >
+            <span data-i18n="preferences">Preferences</span>
+          </h2>
+          <button
+            onclick="toggleModal(false)"
+            class="w-8 h-8 btn-modern hover:bg-slate-50 flex items-center justify-center text-slate-400"
+            aria-label="Close preferences"
+          >
+            <i class="fa-solid fa-xmark text-sm"></i>
+          </button>
+        </div>
+
+        <div class="p-4 space-y-4 bg-white">
+          <div class="space-y-2">
+            <p
+              class="text-[10px] font-black text-slate-400 uppercase tracking-widest"
+            >
+              <span data-i18n="text_size">Text Size</span>
+            </p>
+            <div class="flex items-center justify-between gap-2">
+              <button
+                onclick="changeFontSize(-1)"
+                class="flex-1 py-2.5 btn-modern pref-btn border border-slate-100 font-bold transition-all text-sm"
+              >
+                A-
+              </button>
+              <button
+                onclick="resetFontSize()"
+                class="flex-1 py-2.5 text-xs font-bold uppercase text-slate-400 btn-modern pref-btn border border-transparent transition-all"
+              >
+                <span data-i18n="default">Default</span>
+              </button>
+              <button
+                onclick="changeFontSize(1)"
+                class="flex-1 py-2.5 btn-modern pref-btn border border-slate-100 font-bold transition-all text-base"
+              >
+                A+
+              </button>
+            </div>
+          </div>
+
+          <div class="space-y-2">
+            <p
+              class="text-[10px] font-black text-slate-400 uppercase tracking-widest"
+            >
+              <span data-i18n="language">Language</span>
+            </p>
+            <div class="grid grid-cols-3 gap-1.5">
+            <button
+              onclick="changeLanguage('en')"
+              class="py-2.5 btn-modern pref-btn border border-slate-100 text-xs font-bold transition-all"
+              aria-label="Change language to English"
+            >
+                English
+              </button>
+            <button
+              onclick="changeLanguage('fr')"
+              class="py-2.5 btn-modern pref-btn border border-slate-100 text-xs font-bold transition-all"
+              aria-label="Changer la langue en français"
+            >
+                Français
+              </button>
+            <button
+              onclick="changeLanguage('ja')"
+              class="py-2.5 btn-modern pref-btn border border-slate-100 text-xs font-bold transition-all"
+              aria-label="日本語に切り替える"
+            >
+                日本語
+              </button>
+            </div>
+          </div>
+
+          <div>
+            <button
+              onclick="toggleDarkMode()"
+              id="darkToggleBtn"
+              class="w-full py-4 px-3 btn-modern bg-slate-50 border border-slate-100 flex justify-between items-center group hover:bg-slate-100 transition-colors"
+              aria-label="Toggle dark theme"
+            >
+              <span class="text-sm font-bold text-slate-700 flex items-center gap-2" data-i18n="dark_theme">
+                <i class="fa-solid fa-moon text-[11px] text-slate-500"></i>
+                Dark Theme
+              </span>
+              <div
+                id="darkToggle"
+                class="w-10 h-5 bg-slate-200 rounded-full relative transition-all"
+              >
+                <div
+                  id="darkDot"
+                  class="absolute left-0.5 top-0.5 w-4 h-4 bg-white rounded-full shadow transition-all"
+                ></div>
+              </div>
+            </button>
+          </div>
+
+          <div class="mt-3">
+            <button
+              onclick="toggleContrast()"
+              id="contrastToggleBtn"
+              class="w-full py-4 px-3 btn-modern bg-slate-50 border border-slate-100 flex justify-between items-center group hover:bg-slate-100 transition-colors"
+              aria-label="Toggle high contrast mode"
+            >
+              <span class="text-sm font-bold text-slate-700 flex items-center gap-2" data-i18n="high_contrast">
+                <i
+                  class="fa-solid fa-circle-half-stroke text-[11px] text-slate-500"
+                ></i>
+                High Contrast Mode
+              </span>
+              <div
+                id="contrastToggle"
+                class="w-10 h-5 bg-slate-200 rounded-full relative transition-all"
+              >
+                <div
+                  id="contrastDot"
+                  class="absolute left-0.5 top-0.5 w-4 h-4 bg-white rounded-full shadow transition-all"
+                ></div>
+              </div>
+            </button>
+          </div>
+        </div>
+
+        <footer class="p-3 bg-slate-50 border-t border-slate-100 flex gap-2">
+          <button
+            onclick="toggleModal(false)"
+            class="w-full bg-[#003A70] text-white py-2 btn-modern hc-primary text-xs font-black uppercase tracking-widest shadow-lg hover:bg-[#002A50] transition-all"
+          >
+            <span data-i18n="apply">Apply</span>
+          </button>
+        </footer>
+      </div>
+    </div>
+
+    <!-- About Modal -->
+    <div
+      id="aboutModal"
+      class="fixed inset-0 z-[100] modal-overlay flex items-center justify-center p-4 hidden"
+      role="dialog"
+      aria-modal="true"
+      aria-labelledby="aboutTitle"
+    >
+      <div
+        class="bg-white w-full max-w-[340px] shadow-2xl overflow-hidden sidebar-view card-modern h-auto self-center"
+        tabindex="-1"
+      >
+        <div
+          class="p-3 border-b border-slate-100 flex justify-between items-center bg-white"
+        >
+          <h2
+            id="aboutTitle"
+            class="text-xs font-black uppercase tracking-widest text-slate-900"
+          >
+            <span data-i18n="about_center">About Center</span>
+          </h2>
+          <button
+            onclick="toggleAbout(false)"
+            class="w-8 h-8 btn-modern hover:bg-slate-50 flex items-center justify-center text-slate-400"
+            aria-label="Close about dialog"
+          >
+            <i class="fa-solid fa-xmark text-sm"></i>
+          </button>
+        </div>
+        <div class="p-4 border-b border-slate-100 bg-white md:hidden">
+          <div class="logo-container max-w-[160px] mx-auto">
+            <div class="logo-img-wrapper" style="height: 32px">
+              <img
+                src="/assets/logos/Cribbs logo dark.png"
+                data-light-src="/assets/logos/Cribbs logo dark.png"
+                data-dark-src="/assets/logos/Cribbs logo white.png"
+                alt="Cribbs Causeway logo"
+                class="logo-img"
+              />
+            </div>
+            <h1 class="logo-text-main" style="font-size: 0.85rem">
+              cribbs causeway
+            </h1>
+            <div class="logo-divider"></div>
+            <h2
+              class="logo-text-sub"
+              style="font-size: 0.5rem"
+              data-i18n="navigate_mall"
+            >
+              navigate the mall
+            </h2>
+          </div>
+        </div>
+
+        <div class="p-5 space-y-4 bg-white">
+          <div class="flex items-start gap-4">
+            <div
+              class="w-10 h-10 bg-slate-50 flex items-center justify-center text-[#003A70] border border-slate-100 shrink-0 btn-modern"
+            >
+              <i class="fa-solid fa-location-dot text-sm"></i>
+            </div>
+            <div>
+              <p
+                class="text-[10px] font-black text-slate-400 uppercase tracking-widest"
+              >
+                <span data-i18n="address">Address</span>
+              </p>
+              <p class="text-sm font-medium text-slate-800">
+                Cribbs Causeway, Patchway,<br />Bristol BS34 5DG
+              </p>
+            </div>
+          </div>
+          <div class="flex items-start gap-4">
+            <div
+              class="w-10 h-10 bg-slate-50 flex items-center justify-center text-emerald-600 border border-slate-100 shrink-0 btn-modern"
+            >
+              <i class="fa-solid fa-phone text-sm"></i>
+            </div>
+            <div>
+              <p
+                class="text-[10px] font-black text-slate-400 uppercase tracking-widest"
+              >
+                <span data-i18n="enquiries">Enquiries</span>
+              </p>
+              <p class="text-sm font-medium text-slate-800">0117 903 0303</p>
+            </div>
+          </div>
+        </div>
+
+        <footer class="p-3 bg-slate-50 border-t border-slate-100">
+          <button
+            onclick="toggleAbout(false)"
+            class="w-full bg-[#003A70] text-white py-2 btn-modern hc-primary text-xs font-black uppercase tracking-widest shadow-lg hover:bg-[#002A50] transition-all"
+          >
+            <span data-i18n="close">Close</span>
+          </button>
+        </footer>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+    <script src="map.js"></script>
+    <script src="mapShapes.json"></script>
+  </body>
+</html>
