@@ -6,6 +6,7 @@ Vira Saienko 713784 (2026)
 
 The website is awailable via this link: [https://sweet-orchard.github.io/unit10-cribbs-causeway-project/
 ](https://sweet-orchard.github.io/unit10-cribbs-causeway-project/)
+
 The little webpage was built to solve navigation problems that customers may experience. It has a sidebar on the left showing all the stores with search and category filters, a main map area in the middle with upper and lower floors. Also, it has a promotion banner at the top that changes the text every 5 seconds AND accessibility features including text size customization, dark mode, language selection, screen reader labels, and high-contrast mode. 
 
 I built everything using HTML, CSS, JavaScript to make it work smoothly on touchscreen kiosks and any other devices or browsers. My website is not only good-looking but also functional, as it provides accurate information about the shops and their locations. I used the real Cribbs Causeway website and visited the mall directly to ensure accuracy. Here you can see some of my pictures I took from there: [GoogleDriveLink](https://drive.google.com/drive/folders/1IiCP4fybY8hBIx2n_q7UAnTzITquxI4T?usp=sharing).
