@@ -264,7 +264,7 @@ My web solution balances these options. It's more sophisticated than posters, mo
 | Store logos | Images | PNG | Brand logos for 100+ stores (placeholders) | Various sources |
 | Header images | Images | WebP, JPEG | Store header images for detail panels | Various sources |
 | Mall map graphics | Vector | SVG | Upper and lower floor maps with clickable areas | Own work (Figma) |
-| Cribbs Causeway logo | Image | PNG/WebP | Official mall branding | Client provided* |
+| Cribbs Causeway logo | Image | PNG/WebP | Official mall branding | Client provided |
 | Tailwind CSS | Library | CSS Framework | Loaded from CDN (https://cdn.tailwindcss.com) | MIT License |
 | Font Awesome | Library | Icon Font | Loaded from CDN (https://cdnjs.cloudflare.com) | Free License |
 | Design sketches | Images | JPEG | Hand-drawn initial layout concepts | Own work |
