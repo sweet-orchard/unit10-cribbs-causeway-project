@@ -238,8 +238,8 @@ My web solution balances these options. It's more sophisticated than posters, mo
 | map.js | Code | JavaScript | Map interactions, zooming, panning, highlighting | Own work |
 | stores.json | Data | JSON | Store information database (names, categories, hours, descriptions, locations) | Own work |
 | mapShapes.json | Data | JSON | SVG shape coordinates for map stores | Own work |
-| mapDefs.json | Data | JSON | Map definitions and structure | Own work |
-| Store logos | Images | PNG | Brand logos for 100+ stores (placeholders) | Retailer IP* |
+| mapDefs.json | Data | JSON | Map definitions and structure | Cribbs Website |
+| Store logos | Images | PNG | Brand logos for 100+ stores (placeholders) | Various sources |
 | Header images | Images | WebP, JPEG | Store header images for detail panels | Various sources* |
 | Mall map graphics | Vector | SVG | Upper and lower floor maps with clickable areas | Own work (Figma) |
 | Cribbs Causeway logo | Image | PNG/WebP | Official mall branding | Client provided* |
