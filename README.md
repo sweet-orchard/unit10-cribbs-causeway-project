@@ -1,11 +1,13 @@
+
 ## Unit 10 Assignment 2 Documentation
 
 Vira Saienko 713784 (2026)
 
-The website is available via this link: [https://sweet-orchard.github.io/unit10-cribbs-causeway-project/
-](https://sweet-orchard.github.io/unit10-cribbs-causeway-project/)
+> [!NOTE]
+> 👉 The website is available via this link: [https://sweet-orchard.github.io/unit10-cribbs-causeway-project/
+](https://sweet-orchard.github.io/unit10-cribbs-causeway-project/) <br>
+> This Github repository link: [https://github.com/sweet-orchard/unit10-cribbs-causeway-project](https://github.com/sweet-orchard/unit10-cribbs-causeway-project)
 
-This Github repository link: [https://github.com/sweet-orchard/unit10-cribbs-causeway-project](https://github.com/sweet-orchard/unit10-cribbs-causeway-project)
 
 *I never knew that many brands and shops inside Cribbs Causeway mall until I built this website 😅*
 
