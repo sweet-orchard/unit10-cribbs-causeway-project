@@ -234,8 +234,8 @@ My web solution balances these options. It's more sophisticated than posters, mo
 | --- | --- | --- | --- | --- |
 | index.html | Code | HTML5 | Main page structure and layout | Own work |
 | styles.css | Code | CSS3 | Custom styling and theme colours | Own work |
-| script.js | Code | JavaScript (ES6+) | Search, filters, language switching, accessibility features | Own work |
-| map.js | Code | JavaScript (ES6+) | Map interactions, zooming, panning, highlighting | Own work |
+| script.js | Code | JavaScript | Search, filters, language switching, accessibility features | Own work |
+| map.js | Code | JavaScript | Map interactions, zooming, panning, highlighting | Own work |
 | stores.json | Data | JSON | Store information database (names, categories, hours, descriptions, locations) | Own work |
 | mapShapes.json | Data | JSON | SVG shape coordinates for map stores | Own work |
 | mapDefs.json | Data | JSON | Map definitions and structure | Own work |
