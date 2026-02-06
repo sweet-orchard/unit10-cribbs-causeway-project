@@ -337,7 +337,7 @@ My web solution balances these options. It's more sophisticated than posters, mo
 
 | Feature | Test Description | Expected Result | Actual Result | Pass/Fail |
 | --- | --- | --- | --- | --- |
-
+| Alt Text | Check all images with screen reader | Descriptive alt text for all images | Store logos, map graphics, UI elements all have descriptive alt attributes | ✅ Pass |
 | Keyboard Nav | Tab through interface | Focus indicators visible on all elements | Clear blue outline | ✅ Pass |
 | Keyboard Nav | Press Enter on store card | Opens store details | Activates correctly | ✅ Pass |
 | Keyboard Nav | Press Escape key | Closes open modals | Modals dismiss | ✅ Pass |
