@@ -700,7 +700,7 @@ I was receptive to criticism and acted on suggestions when they improved the use
 
 **Decision to use JSON for data storage**: Good for development and demonstration, but not practical for production without a management interface. Should have built a basic admin panel.
 
-### My thoughts about myself
+### 🔖 My thoughts about myself
 
 Reflecting on this project, I recognise several personal strengths and areas for growth:
 
