@@ -108,6 +108,27 @@ Cribbs Causeway shopping centre director wants a digital signs solution to help 
 
 **Summary**: Met 11 out of 13 client requirements. The 2 unmet requirements (current location indicator and audio feedback) are documented as future improvements with alternative solutions implemented (screen reader support addresses audio needs differently).
 
+## Record of meetings
+<img alt="image" src="https://github.com/user-attachments/assets/237f132e-ccf8-422f-8682-cc37cfc26aaa" />
+<img alt="image" src="https://github.com/user-attachments/assets/547b97be-756c-4d95-bdd1-d491093c97c4" />
+<img alt="image" src="https://github.com/user-attachments/assets/3cd0a67d-8a4f-44bc-a4e5-9f0c77a66c15" />
+
+## Shopping Centre Meeting
+**Are images accompanied by descriptive alt text for visually impaired users?**
+
+Yes. All images include descriptive alt attributes - store logos describe the brand, map graphics explain locations and floors.
+
+**How does the design reflect the professional and premium image of Cribbs Causeway?**
+
+Blue (#003A70) conveys professionalism and trust. Gold accents (#c5a059) add luxury without overwhelming. Generous whitespace, clean typography, and consistent 8px spacing grid create visual breathing room. Smooth 300ms animations feel polished. High-resolution assets and crisp SVG graphics maintain quality at any zoom level. Consistent design language throughout - same button styles, hover states, and interaction patterns reinforce premium positioning.
+
+**Content Management: Include a news or promotions section that can be easily updated**
+
+Currently implemented with rotating promotional banner cycling every 5 seconds. Uses JSON data structure that can be updated by stuff. Future enhancement: web-based admin panel with form editor, image upload, preview, and scheduling. Architecture supports this expansion without rebuilding - just add management layer on top of existing JSON system.
+
+**Instant Multilingual Translation: Translate the entire site into every language in the world instantly and perfectly**
+
+Not 100% feasable. Current implementation supports English, French, Japanese through manual translation files. It'll be nice to have a translation for every language. However, there are too many languages right now and it will cost money to add all of these and also will affect the website performance because there are too much for page loading.
 
 ## Design Process
 
@@ -316,6 +337,7 @@ My web solution balances these options. It's more sophisticated than posters, mo
 
 | Feature | Test Description | Expected Result | Actual Result | Pass/Fail |
 | --- | --- | --- | --- | --- |
+
 | Keyboard Nav | Tab through interface | Focus indicators visible on all elements | Clear blue outline | ✅ Pass |
 | Keyboard Nav | Press Enter on store card | Opens store details | Activates correctly | ✅ Pass |
 | Keyboard Nav | Press Escape key | Closes open modals | Modals dismiss | ✅ Pass |
@@ -349,7 +371,7 @@ My web solution balances these options. It's more sophisticated than posters, mo
 
 **Testing Summary**: All 49 tests passed successfully. The interface functions correctly across different devices, meets accessibility standards, and performs smoothly.
 
-Before testing, several bugs and issues were identified.
+Before testing, several bugs and issues arised.
 
 Some of these were:
 
@@ -709,7 +731,6 @@ While adding each shop to the mall map, I learned almost every store in Cribbs C
 
 Additionally, I realised I work best when I focus on one thing rather than multitasking. I could do documentation, coding, and designing in parallel, but it's not my cup of tea. I tend to get amazing results when I focus on one thing.
 
----
 
 ## Conclusion
 
