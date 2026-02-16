@@ -1,0 +1,2146 @@
+[
+  {
+    "name": "Marks and Spencer",
+    "categories": [
+      "Food & Drink",
+      "Health & Beauty",
+      "Footwear",
+      "Jewellery & Accessories",
+      "Tech",
+      "Home",
+      "Kids",
+      "Services",
+      "Leisure & Hobbies"
+    ],
+    "floor": "upper",
+    "logo": "assets/logos/Marks and Spencer logo.jpg",
+    "learnMore": "https://www.mallcribbs.com/stores/marks-spencer/",
+    "hours": "8:30am - 8:00pm...",
+    "image": "assets/headers/Marks and Spencer header.webp",
+    "about": "Marks and Spencer in the Mall offers one of the largest ranges in the country including Autograph, Per Una, a garden shop and an extensive Food Hall. We also provide a number of excellent customer services including M&S Money, Customer ordering and Cafe Revive. The choice allows you to do all your shopping under one roof!",
+    "about_fr": "Marks and Spencer au Mall propose l'une des plus grandes gammes du pays, notamment Autograph, Per Una, une jardinerie et un vaste Food Hall. Nous proposons aussi d'excellents services clients, dont M&S Money, la commande client et le Cafe Revive. Ce choix vous permet de faire toutes vos courses sous un meme toit !",
+    "about_ja": "モール内のMarks and Spencerは、Autograph、Per Una、ガーデンショップ、充実したFood Hallを含む国内最大級の品ぞろえを提供しています。M&S Money、カスタマーオーダー、Cafe Revive などの優れたサービスもご用意しています。ここ一か所でお買い物をすべて済ませられます。"
+  },
+  {
+    "name": "The Perfume Shop",
+    "floor": "upper",
+    "categories": [
+      "Health & Beauty",
+      "Leisure & Hobbies"
+    ],
+    "logo": "assets/logos/The Perfume Shop logo.jpg",
+    "hours": "9.30am - 8.00pm...",
+    "image": "assets/headers/The Perfume Shop header.webp",
+    "unit": 142,
+    "learnMore": "https://www.mallcribbs.com/stores/the-perfume-shop/",
+    "about": "The Perfume Shop is the UK’s largest specialist fragrance retailer with over 262 shops nationwide, selling all major designer fragrance brands at value for money prices. The Perfume Shop also gives its customers that little bit more: FREE standard delivery available online, FREE gift wrap service available in store, FREE impartial perfume advice, FREE Rewards Club Membership to earn Perfume Points every time you spend.",
+    "about_fr": "The Perfume Shop est le plus grand specialiste du parfum au Royaume-Uni, avec plus de 262 boutiques dans tout le pays, proposant toutes les grandes marques de createurs a des prix avantageux. The Perfume Shop offre aussi un petit plus a ses clients : livraison standard GRATUITE en ligne, service d'emballage cadeau GRATUIT en magasin, conseils parfum impartiaux GRATUITS et adhesion GRATUITE au Rewards Club pour cumuler des Perfume Points a chaque achat.",
+    "about_ja": "The Perfume Shop は英国最大の専門フレグランス小売店で、全国に262店以上を展開し、主要デザイナーブランドの香水をお得な価格で提供しています。さらに、オンラインの標準配送無料、店頭の無料ギフトラッピング、無料の公平な香りアドバイス、購入ごとにPerfume Pointsが貯まるRewards Clubの無料会員など、うれしい特典もあります。"
+  },
+  {
+    "name": "Bubble CiTea",
+    "floor": "upper",
+    "categories": [
+      "Food & Drink"
+    ],
+    "logo": "assets/logos/Bubble CiTea logo.webp",
+    "hours": "9.30am - 8.00...",
+    "image": "assets/headers/Bubble CiTea header.webp",
+    "unit": 141,
+    "learnMore": "https://www.mallcribbs.com/stores/bubble-citea/",
+    "about": "Bubble CiTea serves the refreshing Taiwanese beverage known as “Bubble Tea.” This tea-based drink with toppings provides an experience that is unmatched with any other product. Choose from around 20 different flavours and 12 different toppings, and with a quick shake from the highly trained Bubble Baristas, they can form flavours that appeal to each individual taste palate. All teas are freshly brewed, shaken to each individual order and are all 100% Taiwanese Authenticity. Bringing Bubble Tea to Britain with a bang! Follow us on Instagram for more information: @bubblecitea",
+    "about_fr": "Bubble CiTea sert la boisson taiwanaise rafraichissante appelee \"Bubble Tea\". Cette boisson a base de the avec garnitures offre une experience inegalee. Choisissez parmi environ 20 saveurs et 12 toppings ; grace au shake rapide de nos Bubble Baristas hautement formes, ils creent des saveurs adaptees a chaque palais. Tous les thes sont fraichement infuses, shakes a la commande et 100 % d'authenticite taiwanaise. Apporter le Bubble Tea en Grande-Bretagne en fanfare ! Suivez-nous sur Instagram pour plus d'infos : @bubblecitea",
+    "about_ja": "Bubble CiTea は台湾の爽やかな飲み物「バブルティー」を提供しています。トッピング入りのティーベースドリンクは他にない体験です。約20種類のフレーバーと12種類のトッピングから選べ、熟練のBubble Baristaが素早くシェイクして、一人ひとりの好みに合った味わいを作ります。お茶はすべて淹れたてで、注文ごとにシェイクし、100%台湾の本格さにこだわっています。英国にバブルティー旋風を！詳しくはInstagram @bubblecitea をフォロー。"
+  },
+  {
+    "name": "Molton Brown",
+    "unit": 140,
+    "floor": "upper",
+    "categories": [
+      "Health & Beauty",
+      "Leisure & Hobbies"
+    ],
+    "hours": "9.30am - 8.00pm...",
+    "logo": "assets/logos/Molton Brown logo.webp",
+    "image": "assets/headers/Molton Brown header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/molton-brown/",
+    "about": "At Molton Brown, we have crafted the finest fragrances and unrivalled sensorial experiences for over 50 years. Our British roots and London point of view mean we champion creativity and diversity, both in our customers’ lives and in our enduring relationships with our perfumers, who imbue our fragrances with their memories to stir the senses and deepen every moment’s meaning. Our scent experiences are vivid, enlivening and enrich the everyday, and create sensorial ceremonies that come to life through the individuality of each and every customer.",
+    "about_fr": "Chez Molton Brown, nous creons depuis plus de 50 ans les plus belles fragrances et des experiences sensorielles inegalees. Nos racines britanniques et notre regard londonien nous poussent a promouvoir la creativite et la diversite, tant dans la vie de nos clients que dans nos relations durables avec nos parfumeurs, qui insufflent a nos fragrances leurs souvenirs pour eveiller les sens et intensifier chaque instant. Nos experiences olfactives sont vives, stimulantes et enrichissent le quotidien, creant des rituels sensoriels qui prennent vie grace a l'individualite de chaque client.",
+    "about_ja": "Molton Brown は50年以上にわたり、最高級の香りと比類なき感覚体験を作り続けています。英国のルーツとロンドンの視点が、創造性と多様性を重んじる姿勢につながり、香りに記憶を宿す調香師たちとの長い関係にも反映されています。私たちの香り体験は鮮やかで活力を与え、日常を豊かにし、ひとりひとりの個性によって生きる感覚の儀式を生み出します。"
+  },
+  {
+    "name": "Itsu",
+    "unit": 139,
+    "floor": "upper",
+    "categories": [
+      "Food & Drink"
+    ],
+    "hours": "11.00am - 9.00pm...",
+    "logo": "assets/logos/Itsu logo.webp",
+    "image": "assets/headers/Itsu header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/itsu/",
+    "about": "Itsu first opened its doors in 1997, after recognising a need for healthy, nutritious fast food. 25 years later it has landed at Cribbs, launching a beautiful store in the heart of South Gloucestershire. Most of the Asian-inspired menu is under 500 [good] calories and packed with vitamins, fibre & protein, a third of dishes are plant-based and the vast majority costs under £8. Their modern menu is light and packed with protein, wholegrain brown rice, and vegetables. Each of their hot pots contains up to 15 different fibre-rich nutritious greens, herbs, and aromatics.",
+    "about_fr": "Itsu a ouvert ses portes en 1997, apres avoir identifie le besoin d'une restauration rapide saine et nutritive. 25 ans plus tard, il s'est installe a Cribbs, ouvrant une belle boutique au coeur du South Gloucestershire. La plupart du menu d'inspiration asiatique fait moins de 500 [bonnes] calories et regorge de vitamines, de fibres et de proteines ; un tiers des plats est a base de plantes et la grande majorite coute moins de 8 GBP. Leur menu moderne est leger et riche en proteines, riz brun complet et legumes. Chaque hot pot contient jusqu'a 15 vegetaux nutritifs riches en fibres, herbes et aromates.",
+    "about_ja": "Itsu は1997年、健康的で栄養価の高いファストフードの必要性を感じて開店しました。25年後の今、Cribbsに上陸し、サウス・グロスターシャー中心部に美しい店舗をオープン。アジア風メニューのほとんどは500［良質］カロリー以下で、ビタミン・食物繊維・たんぱく質がたっぷり。3分の1はプラントベースで、ほとんどが8ポンド未満です。現代的なメニューは軽やかで、たんぱく質、玄米、野菜が豊富。ホットポットには最大15種類の食物繊維豊富な栄養野菜やハーブ、香味素材が入っています。"
+  },
+  {
+    "name": "Sweaty Betty",
+    "unit": 138,
+    "floor": "upper",
+    "categories": [
+      "Fashion"
+    ],
+    "hours": "9.30am - 8.00pm...",
+    "logo": "assets/logos/Sweaty Betty logo.png",
+    "image": "assets/headers/Sweaty Betty header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/sweaty-betty/",
+    "about": "Sweaty Betty® is a global women’s activewear and lifestyle brand that has been on a mission to empower women through fitness and beyond since 1998. Famous and trusted for its “bum-sculpting” leggings and innovative designs, Sweaty Betty® fuses performance and style with technical, high-performance fabrics and responsibly sourced materials to outlast, outperform and outfit active women at all life stages.",
+    "about_fr": "Sweaty Betty est une marque mondiale de vetements de sport et de style de vie pour femmes, dont la mission est d'autonomiser les femmes par le fitness et au-dela depuis 1998. Celebre et reconnue pour ses leggings \"sculptants\" et ses designs innovants, Sweaty Betty marie performance et style avec des tissus techniques hautes performances et des materiaux issus de sources responsables, pour durer, surpasser et habiller les femmes actives a toutes les etapes de la vie.",
+    "about_ja": "Sweaty Betty は1998年から、フィットネスを通じて、そしてその先まで女性をエンパワーすることを使命にしてきた、世界的な女性向けアクティブウェア＆ライフスタイルブランドです。「ヒップラインを整える」レギンスと革新的デザインで知られ、技術的で高性能な素材と責任ある調達素材を用いて、パフォーマンスとスタイルを融合し、あらゆるライフステージのアクティブな女性を支えます。"
+  },
+  {
+    "name": "Moss Bros",
+    "unit": 137,
+    "floor": "upper",
+    "categories": [
+      "Fashion"
+    ],
+    "hours": "9.30am - 8.00pm...",
+    "logo": "assets/logos/Moss Bros logo.png",
+    "image": "assets/headers/Moss Bros header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/moss/",
+    "about": "Your style tells a story. Make it a good one. For generations, men have turned to Moss for more than just clothes. They've come for expert guidance, thoughtfully curated collections, and details that speak without shouting. Because style isn't just about how you look, it’s about how you move through the world.",
+    "about_fr": "Votre style raconte une histoire. Faites-en une belle. Depuis des generations, les hommes se tournent vers Moss pour bien plus que des vetements. Ils viennent pour des conseils d'experts, des collections soigneusement selectionnees et des details qui parlent sans crier. Car le style n'est pas seulement une question d'apparence, c'est la facon dont vous vous deplacez dans le monde.",
+    "about_ja": "あなたのスタイルは物語を語ります。良い物語にしましょう。何世代にもわたり、男性たちは服以上のものを求めてMossを選んできました。専門的なアドバイス、丁寧にセレクトされたコレクション、声高に主張しないディテールがあるからです。スタイルとは見た目だけでなく、世界をどう歩むかの表れです。"
+  },
+  {
+    "name": "Goose and Gander",
+    "unit": 136,
+    "floor": "upper",
+    "categories": [
+      "Fashion"
+    ],
+    "hours": "9.30am - 8.00pm...",
+    "logo": "assets/logos/Goose and Gander logo.webp",
+    "image": "assets/headers/Goose and Gander header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/goose-gander/",
+    "about": "oose & Gander was created in 2013 by founders Maz & Olly. It is an independant unisex clothing brand. We design, decorate & ship every garment in-house from our UK based HQ.",
+    "about_fr": "Goose & Gander a ete cree en 2013 par les fondateurs Maz & Olly. C'est une marque de vetements unisexe independante. Nous concevons, decorons et expedions chaque vetement en interne depuis notre siege au Royaume-Uni.",
+    "about_ja": "Goose & Ganderは2013年に創設者MazとOllyによって設立された、独立系ユニセックスアパレルブランドです。すべてのアイテムを英国の本社で企画・装飾・出荷まで一貫して行っています。"
+  },
+  {
+    "name": "The White Company",
+    "unit": 134,
+    "floor": "upper",
+    "categories": [
+      "Home",
+      "Leisure & Hobbies"
+    ],
+    "hours": "9.30am - 8.00pm...",
+    "logo": "assets/logos/The White Company logo.webp",
+    "image": "assets/headers/The White Company header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/the-white-company/",
+    "about": "We’ve been making impeccably stylish, beautifully designed products, principally in white, for over 23 years. Think timeless style, not fast fashion, quality, not quantity, and an attention to detail in everything we do, from hand-finished bed linen to our second-to-none customer service. Our store in Bristol is home to a range of our beautiful current collections. Take the opportunity to see, feel and smell some of our products before treating yourself, your home or a loved one to something special.",
+    "about_fr": "Depuis plus de 23 ans, nous creons des produits impeccablement elegants et magnifiquement concus, principalement en blanc. Pensez style intemporel, pas fast-fashion; qualite, pas quantite; et une attention au detail dans tout ce que nous faisons, du linge de lit fini a la main a notre service client inegale. Notre boutique de Bristol propose une selection de nos collections actuelles. Profitez-en pour voir, toucher et sentir nos produits avant de vous offrir, a vous, a votre maison ou a un proche, quelque chose de special.",
+    "about_ja": "私たちは23年以上にわたり、主に白を基調とした、洗練され美しくデザインされた製品を作り続けています。ファストファッションではなく、時を超えるスタイル。量より質。手仕上げのベッドリネンから比類なきカスタマーサービスまで、すべてに細部へのこだわりがあります。ブリストルの店舗では最新コレクションを幅広く取り揃えています。自分やご自宅、大切な人への特別な一品を選ぶ前に、実際に見て、触れて、香りを確かめてください。"
+  },
+  {
+    "name": "Hobbs",
+    "unit": 123,
+    "floor": "upper",
+    "categories": [
+      "Footwear",
+      "Fashion"
+    ],
+    "hours": "9.30am - 8.00pm...",
+    "logo": "assets/logos/Hobbs logo.webp",
+    "image": "assets/headers/Hobbs header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/hobbs/",
+    "about": "Since opening its first store in Hampstead, London, in 1981, Hobbs has grown from a small yet sought-after shoe label to a global womenswear brand synonymous with the best of British design.Exquisite craftsmanship and pin-sharp attention to detail are intrinsic to the brand, weaving traditional techniques and storytelling into its very DNA. From the expertise of its in-house atelier to its support of emerging talent, every sketch, stitch and style is considered and lovingly created from conception to completion.",
+    "about_fr": "Depuis l'ouverture de sa premiere boutique a Hampstead, Londres, en 1981, Hobbs est passe d'une petite marque de chaussures recherchee a une marque mondiale de pret-a-porter feminin, synonyme du meilleur du design britannique. Un savoir-faire exquis et une attention au detail d'une grande precision sont au coeur de la marque, melant techniques traditionnelles et narration jusque dans son ADN. De l'expertise de son atelier integre a son soutien aux talents emergents, chaque croquis, couture et style est pense et cree avec soin, de la conception a la realisation.",
+    "about_ja": "Hobbsは1981年にロンドンのハムステッドで最初の店舗を開いて以来、小規模ながら人気の靴ブランドから、英国デザインの粋を体現する世界的なウィメンズウェアブランドへと成長しました。精緻な職人技と鋭いディテールへのこだわりがブランドの核にあり、伝統的な技法と物語性がDNAに織り込まれています。社内アトリエの専門性から新進気鋭の才能への支援まで、すべてのスケッチ、ステッチ、スタイルが構想から完成まで丁寧に作られています。"
+  },
+  {
+    "name": "Honest Burgers",
+    "unit": "132a",
+    "floor": "upper",
+    "categories": [
+      "Food & Drink"
+    ],
+    "hours": "11.30am - 9.00pm...",
+    "logo": "assets/logos/Honest logo.webp",
+    "image": "assets/headers/Honest header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/honest-burgers/",
+    "about": "Honest Burgers serves great British burgers including beef, chicken, vegetarian and vegan options all served with our famous rosemary salted chips. We make our burgers from scratch in our own butchery. It’s not the easiest way but it means we can serve our burgers pink, so they eat more like a steak. We buy the best British potatoes for our chips from local farmers then double-cooked and rosemary salted. Always fresh, never frozen.",
+    "about_fr": "Honest Burgers sert d'excellents burgers britanniques, avec options boeuf, poulet, vegetariennes et vegan, tous accompagnes de nos fameuses frites au romarin et sel. Nous preparons nos burgers a partir de zero dans notre propre boucherie. Ce n'est pas la methode la plus simple, mais elle nous permet de servir nos burgers roses, comme un steak. Nous achetons les meilleures pommes de terre britanniques aupres d'agriculteurs locaux, puis nous les cuisons deux fois et les salons au romarin. Toujours frais, jamais congele.",
+    "about_ja": "Honest Burgersは、牛肉、鶏肉、ベジタリアン、ヴィーガンなど英国産の素晴らしいバーガーを提供し、すべて名物のローズマリーソルトチップス付きです。バーガーは自社の精肉場で一から作っています。簡単な方法ではありませんが、そのおかげでステーキのようにミディアムレアのバーガーを提供できます。チップス用のジャガイモは地元の農家から最高の英国産を仕入れ、二度揚げしてローズマリーソルトで仕上げます。いつも新鮮、冷凍は一切使いません。"
+  },
+  {
+    "name": "Tortilla",
+    "unit": 132,
+    "floor": "upper",
+    "categories": [
+      "Food & Drink"
+    ],
+    "hours": "11.00am - 8.00pm...",
+    "logo": "assets/logos/Tortilla logo.jpeg",
+    "image": "assets/headers/Tortilla header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/tortilla/",
+    "about": "Tortilla is your local burrito joint which offers authentic California-style burritos and tacos which you can eat in or takeaway. We only ever use the best ingredients possible, our chicken for the pollo asada is barn-reared & halal, our beef is British, grass-fed and farm assured which can be found in our carne asada and Barbacoa and we use British outdoor-reared pork for our Carnitas. But that’s not all, we never use frozen food and our guacamole is made from real Hass avocados and from scratch daily. Our produce is delivered up to 6 days a week for all our toppings and salsas which are prepared by the crew in front of you each and every morning. Mix this all up with a selection of real Mexican beers, refreshing margaritas and range of soft drinks you’ll soon know why we’re the most popular burrito joint in the UK – and all this for around a fiver!",
+    "about_fr": "Tortilla est votre burrito shop de quartier, proposant des burritos et tacos authentiques a la californienne, a deguster sur place ou a emporter. Nous n'utilisons que les meilleurs ingredients : notre poulet pour le pollo asada est eleve en grange et halal, notre boeuf est britannique, nourri a l'herbe et garanti de la ferme, utilise dans notre carne asada et notre Barbacoa, et nous utilisons du porc britannique eleve en plein air pour nos Carnitas. Mais ce n'est pas tout : nous n'utilisons jamais d'aliments surgeles et notre guacamole est fait a partir de vrais avocats Hass, prepare chaque jour. Nos produits frais sont livres jusqu'a 6 jours par semaine pour tous nos toppings et salsas, prepares par l'equipe devant vous chaque matin. Ajoutez a cela une selection de veritables bieres mexicaines, des margaritas rafraichissantes et une gamme de boissons sans alcool : vous comprendrez vite pourquoi nous sommes le burrito joint le plus populaire du Royaume-Uni - le tout pour environ cinq livres !",
+    "about_ja": "Tortilla は、カリフォルニアスタイルの本格的なブリトーとタコスを、店内でもテイクアウトでも楽しめる地元のブリトー店です。最高の素材だけを使用し、pollo asada用の鶏肉は納屋飼育でハラール、牛肉は英国産の放牧牛で農場保証付き（carne asadaとBarbacoaに使用）、Carnitasには英国産の放牧豚を使います。さらに冷凍食品は一切使わず、グアカモレは本物のハスアボカドから毎日手作り。トッピングやサルサ用の食材は週6日まで配達され、毎朝スタッフが目の前で仕込みます。そこに本場メキシコのビール、爽やかなマルガリータ、ソフトドリンクを合わせれば、英国で最も人気のブリトー店である理由がすぐにわかるはず。しかも価格はだいたい5ポンド程度です！"
+  },
+  {
+    "name": "The Shake Lab",
+    "unit": 131,
+    "floor": "upper",
+    "categories": [
+      "Food & Drink"
+    ],
+    "hours": "9.30am - 8.00pm...",
+    "logo": "assets/logos/The Shake Lab logo.png",
+    "image": "assets/headers/The Shake Lab header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/the-shake-lab/",
+    "about": "The Shake Lab craft ridiculously good shakes after going on a creative crusade to create a reinvention of the authentic classic shake, shaken up for the 21st century. The Shake Lab only use the best ingredients and demand the best texture, temperature and taste. Blended to perfection, what you get is rocket science… frosty, frothy, flavourful, freaking, fantasy drinks made with 100% natural ice cream and complimented with freshly crafted waffle sticks, waffle cones and hanky pan crepes - topped and stuffed with your favourite indulgent treat. Come hither and drink from our frothy fountain!",
+    "about_fr": "The Shake Lab prepare des milkshakes incroyablement bons apres une croisade creative pour reinventer le milkshake classique, revisite pour le XXIe siecle. The Shake Lab n'utilise que les meilleurs ingredients et exige la meilleure texture, temperature et saveur. Mixes a la perfection, ce que vous obtenez est de la science-fusee... des boissons givrees, mousseuses, savoureuses, extravagantes, faites avec une glace 100 % naturelle et accompagnees de gaufrettes fraichement preparees, cones de gaufre et crepes \"hanky pan\" - garnies et farcies de votre gourmandise preferee. Approchez et buvez a notre fontaine mousseuse !",
+    "about_ja": "The Shake Lab は、クラシックなシェイクを21世紀向けに再発明するクリエイティブな挑戦から生まれた、驚くほどおいしいシェイクを作ります。最高の素材だけを使い、食感・温度・味のすべてにこだわります。完璧にブレンドされたそれは、まるでロケットサイエンス… 霜のように冷たく、泡立ち、風味豊かで、夢見心地のドリンクです。100%ナチュラルアイスクリームを使用し、手作りのワッフルスティックやワッフルコーン、ハンキーパンのクレープを添え、好きなご褒美トッピングで仕上げます。さあ、泡の泉から一杯どうぞ！"
+  },
+  {
+    "name": "Wagamama",
+    "unit": 130,
+    "floor": "upper",
+    "categories": [
+      "Food & Drink"
+    ],
+    "hours": "11:00am - 9:00pm...",
+    "logo": "assets/logos/Wagamama logo.jpg",
+    "image": "assets/headers/Wagamama header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/wagamama/",
+    "about": "Wagamama is like no place else to eat. A Pan-Asian, noodle restaurant and a complete experience! With helpful, friendly service and value for money, food fans have fallen in love with Wagamama’s menu of delicious noodles, ramens, curry dishes, salads, fresh juices and more (including a mini menu for little Wagamama fans). Wagamama prides itself on the quality and speed of its service. Dishes are prepared immediately, ensuring they arrive freshly cooked. Although dishes may be delivered at different times, the Wagamama's philosophy is: don’t wait – just tuck in and share! Get ready for a great dining experience 🍜",
+    "about_fr": "Wagamama n'est comme aucun autre endroit pour manger. Un restaurant pan-asiatique de nouilles et une experience complete ! Avec un service serviable et amical et un excellent rapport qualite-prix, les fans de bonne cuisine sont tombes amoureux du menu Wagamama : nouilles, ramens, currys, salades, jus frais et plus encore (y compris un mini-menu pour les petits fans de Wagamama). Wagamama est fier de la qualite et de la rapidite de son service. Les plats sont prepares immediatement, pour arriver fraichement cuits. Meme si les plats peuvent arriver a des moments differents, la philosophie Wagamama est : n'attendez pas - foncez et partagez ! Preparez-vous pour une belle experience culinaire 🍜",
+    "about_ja": "Wagamamaは他にない食事体験。パンアジアンのヌードルレストランで、体験そのものです！親切でフレンドリーなサービスとお得感で、食のファンはヌードル、ラーメン、カレー、サラダ、フレッシュジュースなどのメニュー（小さなWagamamaファン向けのミニメニューも）に夢中。Wagamamaは品質とスピードに誇りがあり、料理はすぐに調理され出来たてで提供されます。提供時間が前後しても、Wagamamaの哲学は「待たずに、どんどん食べて分け合おう！」。素敵な食体験をどうぞ 🍜"
+  },
+  {
+    "name": "Victorias Secret",
+    "unit": 122,
+    "floor": "upper",
+    "categories": [
+      "Fashion"
+    ],
+    "hours": "9.30am - 8.00pm...",
+    "logo": "assets/logos/Victorias Secret logo.png",
+    "image": "assets/headers/Victorias Secret header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/victorias-secret/",
+    "about": "Victoria’s Secret is a leading specialty retailer of lingerie and beauty products. The brand offers a wide assortment of fashion-inspired, modern collections including signature bras, knickers and sleepwear, as well as award-winning prestige fragrances. Victoria's Secret bras are available in cup sizes AA-G and bands 30-44.",
+    "about_fr": "Victoria's Secret est un detaillant specialise de premier plan en lingerie et produits de beaute. La marque propose un large assortiment de collections modernes inspirees de la mode, dont ses soutiens-gorge emblematiques, culottes et vetements de nuit, ainsi que des parfums de prestige primes. Les soutiens-gorge Victoria's Secret sont disponibles des bonnets AA a G et des tours de 30 a 44.",
+    "about_ja": "Victoria's Secret はランジェリーとビューティー製品のリーディング専門小売店です。シグネチャーのブラ、ショーツ、ナイトウェアなどのファッションに着想を得たモダンなコレクションに加え、受賞歴のある高級フレグランスを幅広く取り揃えています。ブラのサイズはカップAA〜G、アンダー30〜44まで。"
+  },
+  {
+    "name": "The Entertainer",
+    "unit": 123,
+    "floor": "upper",
+    "categories": [
+      "Kids",
+      "Leisure & Hobbies"
+    ],
+    "hours": "9.30am - 8.00pm...",
+    "logo": "assets/logos/The Entertainer logo.jpeg",
+    "image": "assets/headers/The Entertainer header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/the-entertainer/",
+    "about": "The Entertainer, along with the Early Learning Centre, stock thousands of toys and games at 171 stores across the UK and online at TheToyShop.com or Elc.co.uk. The Entertainer was founded by husband and wife team Gary and Catherine Grant in 1981 and The Entertainer has the same family values today. With the mission to be the best-loved toyshop - one child, one community at a time.",
+    "about_fr": "The Entertainer, avec l'Early Learning Centre, propose des milliers de jouets et jeux dans 171 magasins au Royaume-Uni et en ligne sur TheToyShop.com ou Elc.co.uk. The Entertainer a ete fonde en 1981 par le couple Gary et Catherine Grant et conserve aujourd'hui les memes valeurs familiales. Sa mission est d'etre le magasin de jouets le plus aime - un enfant, une communaute a la fois.",
+    "about_ja": "The EntertainerはEarly Learning Centreとともに、英国の171店舗とオンライン（TheToyShop.com / Elc.co.uk）で数千種類のおもちゃとゲームを取り扱っています。1981年にGaryとCatherine Grant夫妻が創業し、今も同じ家族的価値観を大切にしています。使命は「最も愛される玩具店になること」――子ども一人、コミュニティ一つずつ。"
+  },
+  {
+    "name": "MenKind",
+    "unit": 124,
+    "floor": "upper",
+    "categories": [
+      "Leisure & Hobbies"
+    ],
+    "hours": "9.30am - 8.00pm...",
+    "logo": "assets/logos/MenKind logo.png",
+    "image": "assets/headers/MenKind header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/menkind/",
+    "about": "Menkind provide a wide range of products for the man who has everything – finally making buying presents for men a whole lot easier! There’s men's jewellery and accessories, practical items for the motoring or outdoor enthusiast, and stuff for both the sports-mad spectator and health and fitness fanatic. Of course, the store also stocks a great selection of gadgets and electronics such as MP3 and phone accessories, radio control and other cool stuff - because after all, boys will be boys.",
+    "about_fr": "Menkind propose un large eventail de produits pour l'homme qui a deja tout - enfin, acheter des cadeaux pour les hommes devient beaucoup plus facile ! On y trouve des bijoux et accessoires pour hommes, des articles pratiques pour les passionnes d'auto ou de plein air, et des produits pour les spectateurs fous de sport comme pour les fanatiques de sante et fitness. Bien sur, le magasin propose aussi une excellente selection de gadgets et d'electronique comme des accessoires MP3 et telephone, du radiocommande et d'autres trucs sympas - car apres tout, les garcons restent des garcons.",
+    "about_ja": "Menkindは「もう全部持っている男性」のための幅広い商品をそろえ、男性向けプレゼント選びをぐっと楽にしてくれます。メンズジュエリーやアクセサリー、ドライブやアウトドア好き向けの実用品、スポーツ観戦好きにも健康・フィットネス好きにも嬉しいアイテムまで。もちろんMP3やスマホのアクセサリー、ラジコンなどのガジェット＆電子機器も充実。だって、男の子はいつだって男の子ですから。"
+  },
+  {
+    "name": "Ann Summers",
+    "unit": 125,
+    "floor": "upper",
+    "categories": [
+      "Fashion"
+    ],
+    "hours": "9.30am - 8.00pm...",
+    "logo": "assets/logos/Ann Summers logo.gif",
+    "image": "assets/headers/Ann Summers header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/ann-summers/",
+    "about": "The UK’s leading erotic lifestyle retailer stocks the largest range of lingerie, bedroom wear, toys and accessories on the High Street. Ann Summers is famous for offering sexy designs with a real sense of fun and are dedicated to creating the ultimate sexy and fun shopping experience, ensuring that you find the perfect product to enhance every seductive moment. You can shop the range at their store at The Mall at Cribbs Causeway.",
+    "about_fr": "Le principal detaillant britannique de style de vie erotique propose la plus grande gamme de lingerie, de vetements de nuit, de jouets et d'accessoires sur la High Street. Ann Summers est celebre pour ses designs sexy et ludiques et s'engage a creer l'experience d'achat la plus sexy et amusante, pour vous aider a trouver le produit parfait pour sublimer chaque moment seduisant. Retrouvez la gamme en magasin au Mall at Cribbs Causeway.",
+    "about_ja": "Ann Summersは英国のエロティック・ライフスタイル小売のリーディングブランドで、ハイストリート最大級のランジェリー、ナイトウェア、トイ、アクセサリーを取り揃えています。遊び心のあるセクシーなデザインで知られ、最高に楽しく魅力的なショッピング体験を届け、あらゆる誘惑の瞬間を高める完璧なアイテムを見つけられるようサポートします。Cribbs CausewayのThe Mall内店舗でお買い求めください。"
+  },
+  {
+    "name": "Clarks",
+    "unit": 126,
+    "floor": "upper",
+    "categories": [
+      "Footwear"
+    ],
+    "hours": "9.30am - 8.00pm...",
+    "logo": "assets/logos/Clarks logo.webp",
+    "image": "assets/headers/Clarks header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/clarks/",
+    "about": "As the UK's largest shoe retailer, Clarks has been providing quality footwear for all the family since 1825. Find iconic styles like desert boot as well as sandals, heels, boots, handbags and more.",
+    "about_fr": "En tant que plus grand detaillant de chaussures du Royaume-Uni, Clarks fournit des chaussures de qualite pour toute la famille depuis 1825. Decouvrez des styles emblematiques comme la Desert Boot ainsi que des sandales, talons, bottes, sacs et bien plus.",
+    "about_ja": "英国最大の靴小売店として、Clarksは1825年から家族みんなのための上質な靴を提供しています。定番のDesert Bootをはじめ、サンダル、ヒール、ブーツ、ハンドバッグなど幅広く揃います。"
+  },
+  {
+    "name": "Phase Eight",
+    "unit": 127,
+    "floor": "upper",
+    "categories": [
+      "Fashion"
+    ],
+    "hours": "9.30am - 8.00pm...",
+    "logo": "assets/logos/Phase Eight logo.webp",
+    "image": "assets/headers/Phase Eight header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/phase-eight/",
+    "about": "Phase Eight is the go-to destination for empowering, feminine style that inspires. Designed for all areas of a woman’s life, the day, occasion and accessory collections create head-to-toe looks that bring unique hand-painted prints and modern silhouettes onto feel-good, wear-again pieces.",
+    "about_fr": "Phase Eight est la destination incontournable pour un style feminin et affirme qui inspire. Conçues pour toutes les facettes de la vie d'une femme, les collections journee, occasion et accessoires creent des looks de la tete aux pieds grace a des imprimes uniques peints a la main et des silhouettes modernes, sur des pieces agreables a porter et a remettre.",
+    "about_ja": "Phase Eightは、女性らしく自信を引き出すスタイルの定番ブランド。女性のあらゆるシーンに合わせてデザインされたデイリー、オケージョン、アクセサリーのコレクションが、手描きプリントとモダンなシルエットで頭からつま先までのルックを作ります。何度でも着たくなる心地よいアイテムです。"
+  },
+  {
+    "name": "F Hinds",
+    "unit": 128,
+    "floor": "upper",
+    "categories": [
+      "Jewellery & Accessories"
+    ],
+    "hours": "9.30am - 8.00pm...",
+    "logo": "assets/logos/F Hinds logo.jpeg",
+    "image": "assets/headers/F Hinds header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/f-hinds/",
+    "about": "Established in 1856, our independent, family owned and run business celebrated 150 years in 2016. Now with over 100 branches across England and Wales, we offer an extensive selection of gold, silver, diamond and gem-set jewellery, watches, clocks, collectibles and giftware, and we're told we have an enviable reputation for friendly and professional customer service. F. Hinds also offers a free Click and Collect service which aims to help online customers see and touch jewellery before purchasing, even the expensive diamond pieces.  Jewellery is so personal and making an online choice can sometimes be a challenge, especially engagement, wedding or commitment rings; this service takes away all those concerns. Full details can be found at fhinds.co.uk/customer-services/click-and-collect.",
+    "about_fr": "Fondee en 1856, notre entreprise independante, familiale et geree par la famille a celebre ses 150 ans en 2016. Aujourd'hui, avec plus de 100 succursales en Angleterre et au Pays de Galles, nous proposons un vaste choix de bijoux en or, argent, diamant et pierres precieuses, montres, pendules, objets de collection et cadeaux, et nous sommes reputes pour un service client amical et professionnel. F. Hinds propose aussi un service Click and Collect gratuit qui permet aux clients en ligne de voir et toucher les bijoux avant l'achat, meme les pieces en diamant couteuses. Les bijoux sont tres personnels et choisir en ligne peut etre difficile, notamment pour les bagues de fiancailles, de mariage ou d'engagement ; ce service leve ces inquietudes. Tous les details sont disponibles sur fhinds.co.uk/customer-services/click-and-collect.",
+    "about_ja": "1856年創業の当社は独立した家族経営で、2016年に創業150周年を迎えました。現在はイングランドとウェールズに100店舗以上を展開し、金・銀・ダイヤモンド・宝石のジュエリー、時計、置時計、コレクタブルやギフトなど幅広く取り揃え、親切でプロフェッショナルな接客で評判です。F. Hindsでは無料のクリック＆コレクトを提供しており、オンライン購入前にジュエリー（高価なダイヤ製品も）を実際に見て触れられます。ジュエリーはとても個人的なものなので、特に婚約指輪や結婚指輪などはオンライン選びが難しいことがありますが、このサービスが不安を解消します。詳細は fhinds.co.uk/customer-services/click-and-collect をご覧ください。"
+  },
+  {
+    "name": "Warhammer",
+    "unit": 129,
+    "floor": "upper",
+    "categories": [
+      "Leisure & Hobbies"
+    ],
+    "hours": "9.30am - 8.00pm...",
+    "logo": "assets/logos/Warhammer logo.png",
+    "image": "assets/headers/Warhammer header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/warhammer/",
+    "about": "Warhammer is the largest and the most successful tabletop wargames company in the world. We make the best toy soldiers around, and we craft detailed science fiction and fantasy worlds around them. We have three core lines of models: Warhammer, Warhammer 40,000, and The Lord of The Rings Strategy Battle Game. Also, Games Workshop produces many Specialist Games, such as Battlefleet Gothic, Inquisitor and Mordheim.",
+    "about_fr": "Warhammer est la plus grande et la plus reussie entreprise de wargames sur table au monde. Nous fabriquons les meilleurs petits soldats et creons autour d'eux des univers detailles de science-fiction et de fantasy. Nous avons trois gammes principales de figurines : Warhammer, Warhammer 40,000 et The Lord of the Rings Strategy Battle Game. Games Workshop produit aussi de nombreux Specialist Games, tels que Battlefleet Gothic, Inquisitor et Mordheim.",
+    "about_ja": "Warhammerは世界最大かつ最も成功している卓上ウォーゲーム会社です。最高のミニチュア兵士を作り、それを中心に精緻なSFとファンタジーの世界観を構築しています。主要ラインはWarhammer、Warhammer 40,000、The Lord of the Rings Strategy Battle Gameの3つ。Games WorkshopはBattlefleet Gothic、Inquisitor、Mordheimなどのスペシャリストゲームも多数制作しています。"
+  },
+  {
+    "name": "Nandos",
+    "unit": 209,
+    "floor": "upper",
+    "categories": [
+      "Food & Drink"
+    ],
+    "hours": "11.00am - 8.00pm...",
+    "logo": "assets/logos/Nando's logo.jpg",
+    "image": "assets/headers/Nando's header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/nandos/",
+    "about": "Famous for its delicious heat of flame-grilled PERi-PERi chicken, Nando's offers something for everyone – from the extra mild to the all-out-wild. Whether you’re enjoying a family feast, a quick bite, or grabbing a take-away, each visit comes with loads of our famous vibe and legendary flavour – leaving you wanting more.",
+    "about_fr": "Celebre pour son delicieux poulet PERi-PERi grille a la flamme, Nando's offre quelque chose pour tout le monde - du tres doux au carrement epice. Que vous partagiez un festin en famille, preniez une bouchee rapide ou emportiez un repas, chaque visite est pleine de notre celebre ambiance et de saveurs legendaires - qui donnent envie d'en reprendre.",
+    "about_ja": "Nando'sは直火で焼いたおいしいPERi-PERiチキンで有名。マイルドから激辛まで、誰にでも合う味があります。家族での食事、さっと一口、テイクアウェイ、どの訪問にもNando'sらしい雰囲気と伝説的な味が詰まっていて、また食べたくなるはずです。"
+  },
+  {
+    "name": "Wild Things Play Project",
+    "unit": 209,
+    "floor": "upper",
+    "categories": [
+      "Kids"
+    ],
+    "hours": "09.30am - 6.00pm...",
+    "logo": "assets/logos/Wild Things Play Project logo.png",
+    "image": "assets/headers/Wild Things Play Project header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/wild-things-play-project/",
+    "about": "Welcome to The Wild Play Project, Cribbs' exciting new play centre. We don’t do soft play: our wooden equipment is designed for shoes-on fun - more akin to an outdoor adventure playground than an indoor ball pool… Come and explore our brand new, custom-built treehouse play frame, get imaginative in the pint-sized play kitchen or dig for treasure in the giant sandpit.  We’re the perfect space for little shoppers to burn off some steam, and for their grown-ups to relax with a barista coffee, delicious cakes and other yummy snacks. We believe that indoor play doesn’t have to be soft, plastic or garishly coloured to be fun, or that learning opportunities need to feel in any way academic. We believe that all children, regardless of whether they grow up in the countryside or inner city, deserve to experience play in the natural world. So we have set out to bring the countryside to the city – to REWILD urban spaces in ways never before – so all kids get to experience nature play.",
+    "about_fr": "Bienvenue au Wild Play Project, le nouveau centre de jeux excitant de Cribbs. Nous ne faisons pas de soft play : notre equipement en bois est concu pour s'amuser avec ses chaussures - plus proche d'un terrain d'aventure en plein air que d'une piscine a balles... Venez explorer notre toute nouvelle structure de cabane dans les arbres sur mesure, laissez libre cours a l'imagination dans la mini-cuisine de jeu ou partez a la chasse au tresor dans l'immense bac a sable. C'est l'espace ideal pour que les petits depensent leur energie, et pour que les grands se detendent avec un cafe de barista, de delicieux gateaux et autres en-cas gourmands. Nous pensons que le jeu en interieur n'a pas besoin d'etre mou, plastique ou criard pour etre amusant, ni que les moments d'apprentissage doivent sembler scolaires. Nous croyons que tous les enfants, qu'ils grandissent a la campagne ou en centre-ville, meritent de vivre le jeu dans la nature. Nous avons donc decide d'amener la campagne a la ville - de REENSAUVAGER les espaces urbains comme jamais auparavant - pour que tous les enfants puissent decouvrir le jeu dans la nature.",
+    "about_ja": "ようこそThe Wild Play Projectへ。Cribbsの新しいワクワクするプレイセンターです。私たちはいわゆるソフトプレイはしません。木製の遊具は靴のまま遊べるように設計され、屋内のボールプールというより屋外アドベンチャー遊具に近い体験です。新設の特注ツリーハウス型プレイフレームで探検したり、小さなプレイキッチンで想像力を広げたり、巨大な砂場で宝探しをしたり。小さなお子さまが元気に遊べて、大人はバリスタのコーヒーやおいしいケーキなどでくつろげる理想の空間です。私たちは、屋内遊びが柔らかいプラスチックや派手な色である必要はなく、学びの場も学術的である必要はないと考えています。都会でも田舎でも、すべての子どもが自然の中で遊ぶ体験を得るべきです。だからこそ、私たちは田園の楽しさを街へ—都市空間を「REWILD」し、すべての子どもが自然遊びを体験できるようにしています。"
+  },
+  {
+    "name": "Pizza Hut",
+    "unit": 210,
+    "floor": "upper",
+    "categories": [
+      "Food & Drink"
+    ],
+    "logo": "assets/logos/Pizza Hut logo.png",
+    "image": "assets/headers/Pizza Hut header.jpg",
+    "learnMore": "https://www.pizzahut.co.uk/restaurants/menu",
+    "about": "Pizza. People. Planet. Pizza Hut is a well-known global pizza restaurant chain that’s famous for its wide variety of pizzas, especially its signature pan pizza with a thick, buttery crust. Founded in 1958 in the United States, it has grown into an international brand with thousands of locations around the world. Beyond pizza, Pizza Hut’s menu often includes pasta, chicken wings, breadsticks, and desserts, making it a popular choice for families and group dining. The brand is also recognized for its casual dining experience and its adaptability to local tastes in different countries, which has helped it remain a familiar and enduring name in the fast-food industry.",
+    "about_fr": "Pizza. People. Planet. Pizza Hut est une chaine internationale bien connue, celebre pour sa grande variete de pizzas, notamment sa pizza pan signature a croute epaisse et beurree. Fondee en 1958 aux Etats-Unis, la marque est devenue internationale avec des milliers d'enseignes dans le monde. Au-dela de la pizza, le menu comprend souvent des pates, des ailes de poulet, des breadsticks et des desserts, ce qui en fait un choix populaire pour les familles et les repas en groupe. La marque est egalement reconnue pour son experience de restauration decontractee et son adaptation aux gouts locaux, ce qui lui a permis de rester un nom familier et durable dans la restauration rapide.",
+    "about_ja": "ピザ。人々。地球。Pizza Hutは世界的に有名なピザチェーンで、特に厚めでバター風味のクラストが特徴のシグネチャー・パンピザで知られています。1958年に米国で創業し、現在は世界中に何千もの店舗を展開する国際ブランドへと成長しました。ピザ以外にも、パスタ、チキンウィング、ブレッドスティック、デザートなどを提供し、家族やグループでの食事に人気です。カジュアルなダイニング体験と各国の嗜好への適応力でも知られ、ファストフード業界の定番として親しまれています。",
+    "hours": "9:30am - 8:00pm"
+  },
+  {
+    "name": "Goldsmiths",
+    "unit": 150,
+    "floor": "upper",
+    "categories": [
+      "Jewellery & Accessories"
+    ],
+    "hours": "9.30am - 8.00pm...",
+    "logo": "assets/logos/Goldsmiths logo.png",
+    "image": "assets/headers/Goldsmiths header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/goldsmiths/",
+    "about": "Goldsmiths is one of the UK’s leading modern, luxury watch retailers for leading watch brands. Your Cribbs Causeway showroom houses brands including Rolex, Omega, Hublot, Grand Seiko , Longines, Rado, Oris, Tissot, Gucci Watches, complimented by a luxury jewellery offer which includes Fope, Gucci jewellery, Mappin & Webb, Jenny Packham, engagement rings, wedding bands and their unique 88 facet Goldsmiths Brightest Diamond...",
+    "about_fr": "Goldsmiths est l'un des principaux detaillants britanniques de montres de luxe modernes. Votre showroom de Cribbs Causeway propose des marques telles que Rolex, Omega, Hublot, Grand Seiko, Longines, Rado, Oris, Tissot, Gucci Watches, ainsi qu'une offre de bijoux de luxe comprenant Fope, Gucci jewellery, Mappin & Webb, Jenny Packham, bagues de fiancailles, alliances et leur unique Goldsmiths Brightest Diamond a 88 facettes...",
+    "about_ja": "Goldsmithsは英国を代表する高級時計小売店のひとつです。Cribbs Causewayのショールームでは、Rolex、Omega、Hublot、Grand Seiko、Longines、Rado、Oris、Tissot、Gucci Watchesなどのブランドに加え、Fope、Gucci jewellery、Mappin & Webb、Jenny Packham、婚約指輪、結婚指輪、そして独自の88面カットGoldsmiths Brightest Diamondなどのラグジュアリージュエリーも取り揃えています。"
+  },
+  {
+    "name": "Krispy Kreme",
+    "unit": 149,
+    "floor": "upper",
+    "categories": [
+      "Food & Drink"
+    ],
+    "hours": "9.30am - 8.00pm...",
+    "logo": "assets/logos/Krispy Kreme logo.png",
+    "image": "assets/headers/Krispy Kreme header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/krispy-kreme/",
+    "about": "Krispy Kreme is the world famous doughnut maker, with all doughnuts made fresh daily. Sit down and enjoy a coffee and treat or grab a dozen to go. Since arriving in the UK in 2003, Krispy Kreme has become a favourite treat, selling over 16 delicious doughnut varieties including chocolate filled, sprinkles and powdered and of course the best selling signature doughnut – Original Glazed. They also serve Krispy Kreme’s unique blend of quality coffee – the perfect doughnut companion.",
+    "about_fr": "Krispy Kreme est le celebre fabricant de doughnuts, tous prepares frais chaque jour. Installez-vous pour un cafe et une douceur, ou emportez une boite. Depuis son arrivee au Royaume-Uni en 2003, Krispy Kreme est devenu un plaisir favori, vendant plus de 16 varietes delicieuses, dont fourres au chocolat, decores de sprinkles et saupoudres de sucre, sans oublier le best-seller : l'Original Glazed. Ils servent aussi le melange unique de cafe Krispy Kreme - l'accompagnement parfait pour un doughnut.",
+    "about_ja": "Krispy Kremeは世界的に有名なドーナツメーカーで、すべてのドーナツを毎日フレッシュに作っています。店内でコーヒーと一緒に楽しむのも、ダズンで持ち帰るのもOK。2003年に英国に上陸して以来、チョコフィリングやスプリンクル、粉砂糖など16種類以上のドーナツで人気を集め、ベストセラーはもちろん「Original Glazed」。Krispy Kreme独自ブレンドのコーヒーも提供しており、ドーナツにぴったりの相棒です。"
+  },
+  {
+    "name": "Carluccio's",
+    "unit": "R1",
+    "floor": "upper",
+    "categories": [
+      "Food & Drink"
+    ],
+    "hours": "10.00am - 8.00pm...",
+    "logo": "assets/logos/Carluccios logo.avif",
+    "image": "assets/headers/Carluccios header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/carluccios/",
+    "about": "We’re noisy about food. We taste it, try it, argue about it, until it’s just right. Our philosophy lies at the heart of Italian gastronomy: good quality food at sensible prices with wine to match. The best ingredients, prepared here in our kitchen, by chefs who love Italian cooking. And because good food starts with good ingredients our food shop is stocked with staples and regional specialities you’d find in a buzzing Italian deli. We welcome shoppers and diners alike for authentic Italian breakfasts, delicious coffees, long leisurely lunches, three-course dinners with wine as well as mouth-watering food to take away",
+    "about_fr": "Nous sommes bruyants a propos de la nourriture. Nous la goutons, l'essayons, en debattons, jusqu'a ce qu'elle soit parfaite. Notre philosophie est au coeur de la gastronomie italienne : une cuisine de qualite a des prix raisonnables, accompagnee du vin qu'il faut. Les meilleurs ingredients, prepares ici dans notre cuisine par des chefs qui aiment la cuisine italienne. Et parce qu'une bonne cuisine commence par de bons ingredients, notre epicerie est remplie de produits de base et de specialites regionales que vous trouveriez dans une deli italienne animee. Nous accueillons aussi bien les clients que les gourmets pour des petits-dejeuners italiens authentiques, de delicieux cafes, de longs dejeuners tranquilles, des diners en trois services avec du vin, ainsi que de la nourriture a emporter",
+    "about_ja": "私たちは食について語り合います。味わい、試し、議論し、ちょうど良いと感じるまで徹底します。哲学の核はイタリア料理そのもの：良質な料理を手頃な価格で、そしてそれに合うワインとともに。最高の食材を、イタリア料理を愛するシェフが店内のキッチンで調理します。良い料理は良い食材から始まるからこそ、食料品コーナーには賑やかなイタリアンデリで見かけるような定番品や地域の特産品を取り揃えています。買い物客も食事の方も、正統派のイタリアン朝食、美味しいコーヒー、ゆったりしたランチ、ワイン付きの3コースディナー、そしてテイクアウトの料理まで、幅広く歓迎します。"
+  },
+  {
+    "name": "YO!",
+    "unit": "R2",
+    "floor": "upper",
+    "categories": [
+      "Food & Drink"
+    ],
+    "hours": "11.30am - 8.00pm...",
+    "logo": "assets/logos/YO logo.jpeg",
+    "image": "assets/headers/YO header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/yo/",
+    "about": "Japanese Street Food & Sushi Restaurant. A vibrant range of over 100 small plates, served up fresh on a legendary kaiten conveyor belt. Choose from classics such as Chicken Katsu Curry and hot bowls of Ramen to popular street food dishes and a diverse selection of sushi. Simply sit at the bar or booth and pick your favourites off the belt, or order fresh. Take-away available",
+    "about_fr": "Restaurant japonais de street food & sushi. Une gamme dynamique de plus de 100 petites assiettes, servies fraiches sur un legendaire tapis roulant kaiten. Choisissez des classiques comme le Chicken Katsu Curry et les bols chauds de Ramen, ainsi que des plats de street food populaires et une selection variee de sushi. Installez-vous au bar ou en banquette et choisissez vos favoris sur le tapis, ou commandez a la demande. A emporter disponible",
+    "about_ja": "日本のストリートフード＆寿司レストラン。100種類以上の小皿を、伝説の回転寿司コンベア（回転レーン）で新鮮に提供します。チキンカツカレーや熱々のラーメンなどの定番から、人気の屋台フード、豊富な寿司まで。カウンターやボックス席に座ってベルトから好きな皿を取るか、出来たてをオーダーできます。テイクアウトも可能です。"
+  },
+  {
+    "name": "Chopstix",
+    "unit": "FF4",
+    "floor": "upper",
+    "categories": [
+      "Food & Drink"
+    ],
+    "hours": "11.00am - 8.00pm...",
+    "logo": "assets/logos/Chopstix logo.png",
+    "image": "assets/headers/Chopstix header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/chopstix/",
+    "about": "If you’re bored of bland and crave a bit of different, then you’re Chopstix through and through! Come one, come all and come hungry, because the game is up! This is Chopstix, For the Flavour Cravers!!",
+    "about_fr": "Si vous en avez marre du fade et que vous voulez du different, alors vous etes Chopstix jusqu'au bout ! Venez un, venez tous et venez affames, car le jeu est lance ! C'est Chopstix, pour les accros aux saveurs !!",
+    "about_ja": "味気ないものに飽きた？違いを求めるならChopstixの仲間！さあみんな来て、お腹を空かせておいで。ゲーム開始だ！これがChopstix、フレーバーを求める人のために！！"
+  },
+  {
+    "name": "Burger King",
+    "unit": "FF1",
+    "floor": "upper",
+    "categories": [
+      "Food & Drink"
+    ],
+    "hours": "8.30am - 8.00pm...",
+    "logo": "assets/logos/Burger King logo.jpg",
+    "image": "assets/headers/Burger King header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/burger-king/",
+    "about": "Every day, more than 11 million guests visit BURGER KING® restaurants around the world. And they do so because our restaurants are known for serving high-quality, great-tasting, and affordable food. Founded in 1954, BURGER KING® is the second largest fast food hamburger chain in the world. The original HOME OF THE WHOPPER®, our commitment to premium ingredients, signature recipes, and family-friendly dining experiences is what has defined our brand for more than 50 successful years. Please note, this store is not currently accepting cash",
+    "about_fr": "Chaque jour, plus de 11 millions de clients visitent les restaurants BURGER KING dans le monde. Ils le font parce que nos restaurants sont connus pour servir une nourriture de qualite, savoureuse et abordable. Fonde en 1954, BURGER KING est la deuxieme plus grande chaine de hamburgers au monde. Le HOME OF THE WHOPPER original : notre engagement envers des ingredients premium, des recettes emblematiques et une experience familiale definit notre marque depuis plus de 50 ans. Veuillez noter que ce magasin n'accepte actuellement pas les especes",
+    "about_ja": "毎日、世界中で1,100万人以上のお客様がBURGER KINGを訪れています。高品質でおいしく、手頃な価格の食事を提供しているからです。1954年創業のBURGER KINGは世界第2位のハンバーガーチェーン。元祖「HOME OF THE WHOPPER」として、上質な食材、シグネチャーレシピ、ファミリー向けの食体験へのこだわりが50年以上にわたりブランドを形作ってきました。※この店舗は現在現金での支払いを受け付けていません。"
+  },
+  {
+    "name": "Chandos Deli",
+    "unit": "510",
+    "floor": "upper",
+    "categories": [
+      "Food & Drink"
+    ],
+    "logo": "assets/logos/Chandos Deli logo.png",
+    "image": "assets/headers/Chandos Deli header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/chandos-deli/",
+    "about": "Chandos Deli is a successful speciality food retailer operating in the South West of England, with branches in Bristol, Bath and Exeter. Our concept is very simple – Chandos Deli is all about providing fantastic food to our customers. Chandos at The Mall will showcase our range of speciality foods, both local and imported. We aim to make you the best cup of coffee with locally roasted coffee beans. We will make the freshest and tastiest sourdough baguettes and focaccia...",
+    "about_fr": "Chandos Deli est un detaillant prospere de produits alimentaires specialises dans le Sud-Ouest de l'Angleterre, avec des boutiques a Bristol, Bath et Exeter. Notre concept est simple : offrir une nourriture fantastique a nos clients. Chandos au Mall mettra en avant notre gamme de specialites, locales et importees. Nous visons a vous preparer la meilleure tasse de cafe avec des grains torrefies localement. Nous preparerons les baguettes au levain et la focaccia les plus fraiches et savoureuses...",
+    "about_ja": "Chandos Deliはイングランド南西部で展開するスペシャリティ食品の人気小売店で、ブリストル、バース、エクセターに店舗があります。コンセプトはとてもシンプル—お客様に素晴らしい食を提供すること。The MallのChandosでは、地元産・輸入品を含む特選食品のラインナップを紹介します。地元でローストされた豆で最高のコーヒーをご提供し、フレッシュでおいしいサワードウバゲットやフォカッチャを作ります…。",
+    "hours": "9:30 am - 8:00 pm"
+  },
+  {
+    "name": "Juice Bar",
+    "floor": "upper",
+    "categories": [
+      "Food & Drink"
+    ],
+    "unit": "B1",
+    "logo": "assets/logos/Juice Bar logo.jpg",
+    "image": "assets/headers/Juice Bar header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/boost-juice-bars/",
+    "hours": "9.30am - 8.00pm...",
+    "about": "Boost make fresh, nutritious stuff that tastes good, makes you feel great and always gives you something to smile about. Here at Boost Bristol we pride ourselves on making it easy for you to be healthy. Our menu of juices and smoothies, featuring fresh fruit and low fat yoghurt with live cultures, as well as mega boosters to give you that extra hit of goodness will all help you to meet your body’s nutritional needs. And the best thing is, you don’t need to sacrifice taste to be healthy! Yes that’s right, not only are our juices and smoothies nutritious, they’re also delicious. Everyone’s a winner! It’s amazing something so healthy can taste so good. Come and try our range at The Mall at Cribbs Causeway",
+    "about_fr": "Boost prepare des boissons fraiches et nutritives qui ont bon gout, vous font vous sentir bien et vous donnent toujours le sourire. Ici, chez Boost Bristol, nous sommes fiers de rendre la sante facile. Notre menu de jus et smoothies, a base de fruits frais et de yaourt allege avec cultures vivantes, ainsi que nos mega boosters pour un extra de bienfaits, vous aideront a couvrir vos besoins nutritionnels. Et le meilleur, c'est que vous n'avez pas a sacrifier le gout pour etre en bonne sante ! Oui, c'est vrai : nos jus et smoothies sont non seulement nutritifs, ils sont aussi delicieux. Tout le monde y gagne ! C'est incroyable qu'un produit aussi sain puisse etre si bon. Venez essayer notre gamme au Mall at Cribbs Causeway",
+    "about_ja": "Boostは、新鮮で栄養たっぷり、しかもおいしくて気分まで上がるドリンクを作っています。Boost Bristolでは、健康でいることを簡単にすることに誇りを持っています。フレッシュフルーツと低脂肪ヨーグルト（生きた菌を含む）を使ったジュース＆スムージーに加え、栄養をしっかり補えるメガブースターもご用意。健康のために味を犠牲にする必要はありません。そう、私たちのジュースとスムージーは栄養満点でおいしいのです。みんなが勝者！こんなにヘルシーなのにこんなにおいしいなんて驚きです。Cribbs CausewayのThe Mallでぜひお試しください。"
+  },
+  {
+    "name": "The Fragrance Shop",
+    "floor": "upper",
+    "categories": [
+      "Health & Beauty",
+      "Services",
+      "Leisure & Hobbies"
+    ],
+    "unit": "148",
+    "logo": "assets/logos/The Fragrance Shop logo.jpeg",
+    "image": "assets/headers/The Fragrance Shop header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/the-fragrance-shop/",
+    "hours": "9.30am - 8.00pm...",
+    "about": "Established in 1994, The Fragrance Shop is the UK’s leading independent fragrance retailer with over 400 fragrance brands available in more than 200 stores throughout the UK. The Fragrance Shop prides itself on delivering outstanding customer service and in turn has recently been awarded a Feefo Platinum Trusted Merchant rating...",
+    "about_fr": "Fondee en 1994, The Fragrance Shop est le principal detaillant independant de parfums au Royaume-Uni, avec plus de 400 marques de parfums disponibles dans plus de 200 magasins a travers le pays. The Fragrance Shop est fiere d'offrir un service client exceptionnel et a recemment obtenu la distinction Feefo Platinum Trusted Merchant...",
+    "about_ja": "The Fragrance Shopは1994年創業の英国最大の独立系フレグランス小売店で、200店舗以上で400以上のブランドを取り扱っています。卓越した接客に誇りを持ち、最近ではFeefoのPlatinum Trusted Merchant評価を受けました..."
+  },
+  {
+    "name": "Bremont",
+    "floor": "upper",
+    "categories": [
+      "Jewellery & Accessories"
+    ],
+    "unit": "146",
+    "logo": "assets/logos/Bremont logo.jpeg",
+    "image": "assets/headers/Bremont header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/bremont/",
+    "hours": "9.30am - 8.00pm...",
+    "about": "Bremont is motivated by a relentless determination to create the world’s most capable tool watches. Crafted with precision and attention to detail, Bremont watches embody the unwavering spirit of the great British pioneers who dared to explore the unknown. Designed to excel in the depths of the ocean, the peaks of high mountains and the far extremities of the Earth’s surface, our watches are relied on by explorers, adventurers and the military alike. We are inspired by the relentless drive and determination of the those that seek to conquer the impossible, epitomising our mantra, ‘Take It Further’.",
+    "about_fr": "Bremont est anime par une determination sans relache a creer les montres-outils les plus performantes au monde. Conçues avec precision et souci du detail, les montres Bremont incarnent l'esprit inebranlable des grands pionniers britanniques qui ont ose explorer l'inconnu. Conçues pour exceller dans les profondeurs de l'ocean, au sommet des hautes montagnes et aux confins de la Terre, nos montres sont utilisees par les explorateurs, aventuriers et militaires. Nous sommes inspires par la volonte et la determination de ceux qui cherchent a conquerir l'impossible, incarnant notre mantra : \"Take It Further\".",
+    "about_ja": "Bremontは世界で最も頼れるツールウォッチを作るという揺るぎない決意に突き動かされています。精密さと細部へのこだわりで作られたBremontの時計は、未知の世界に挑んだ偉大な英国のパイオニアたちの不屈の精神を体現します。深海、高峰、地球の最果てで力を発揮できるよう設計され、探検家や冒険家、軍関係者にも信頼されています。不可能を征服しようとする人々の執念と決意に触発され、「Take It Further」という私たちの信条を体現しています。"
+  },
+  {
+    "name": "Tag Heuer",
+    "floor": "upper",
+    "categories": [
+      "Jewellery & Accessories"
+    ],
+    "unit": "144",
+    "logo": "assets/logos/Tag Heuer logo.png",
+    "image": "assets/headers/Tag Heuer header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/tag-heuer/",
+    "hours": "9.30am - 8.00pm...",
+    "about": "For 162 years, TAG Heuer has demonstrated pure avant-garde watchmaking spirit and a commitment to innovation with revolutionary technologies that have included the oscillating pinion for mechanical stopwatches in 1887, the Mikrograph in 1916, the first automatic-winding chronograph movement – Calibre 11 – in 1969 and the first luxury smartwatch in 2015. Today, the brand’s core collection consists of three iconic families designed by Jack Heuer – TAG Heuer Carrera, Monaco and Autavia – and is rounded out with the contemporary TAG Heuer Link, Aquaracer, Formula 1 and Connected lines.",
+    "about_fr": "Depuis 162 ans, TAG Heuer incarne l'esprit avant-gardiste de l'horlogerie et l'engagement envers l'innovation, avec des technologies revolutionnaires telles que le pignon oscillant pour les chronometres mecaniques en 1887, le Mikrograph en 1916, le premier chronographe automatique - Calibre 11 - en 1969 et la premiere smartwatch de luxe en 2015. Aujourd'hui, la collection principale de la marque se compose de trois familles emblematiques concues par Jack Heuer - TAG Heuer Carrera, Monaco et Autavia - et est completee par les lignes contemporaines TAG Heuer Link, Aquaracer, Formula 1 et Connected.",
+    "about_ja": "TAG Heuerは162年にわたり、前衛的な時計製造の精神と革新への取り組みを体現してきました。1887年の機械式ストップウォッチ用オシレーティングピニオン、1916年のMikrograph、1969年の初の自動巻きクロノグラフ（Calibre 11）、2015年の初の高級スマートウォッチなど、革新的技術を生み出してきました。現在の主要コレクションは、ジャック・ホイヤーがデザインしたTAG Heuer Carrera、Monaco、Autaviaの3つの象徴的ファミリーを中心に、TAG Heuer Link、Aquaracer、Formula 1、Connectedなどの現代的ラインが加わっています。"
+  },
+  {
+    "name": "Pizza Express",
+    "floor": "upper",
+    "categories": [
+      "Food & Drink"
+    ],
+    "unit": "R4",
+    "logo": "assets/logos/Pizza Express logo.jpg",
+    "image": "assets/headers/Pizza Express header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/pizza-express/",
+    "hours": "11:00am - 9:00pm...",
+    "about": "PizzaExpress knows the importance of good pizza. That's why their skilled pizzaiolos take their famous dough, the freshest ingredients around, and cook it all to perfection every time. Dig into the classic you know and love, or try some of the menu's brilliant new dishes - tons of toppings, delicious Dough Ball recipes, vegan options galore, drinks, desserts, and so much more to sink your teeth into...",
+    "about_fr": "PizzaExpress connait l'importance d'une bonne pizza. C'est pourquoi leurs pizzaiolos qualifies utilisent leur pate celebre, les ingredients les plus frais, et cuisent le tout a la perfection a chaque fois. Degustez les classiques que vous connaissez et aimez, ou essayez quelques-uns des nouveaux plats brillants du menu - des tonnes de garnitures, de delicieuses recettes de Dough Balls, des options vegan a profusion, des boissons, des desserts et bien plus encore pour vous regaler...",
+    "about_ja": "PizzaExpressはおいしいピザの大切さを知っています。熟練のピッツァイオーロが有名な生地と新鮮な食材を使い、毎回完璧に焼き上げます。おなじみの定番を楽しむもよし、メニューの新作を試すもよし。豊富なトッピング、おいしいDough Ballsのレシピ、たっぷりのヴィーガンオプション、ドリンク、デザートなど、魅力が盛りだくさんです。"
+  },
+  {
+    "name": "Greggs",
+    "floor": "upper",
+    "categories": [
+      "Food & Drink"
+    ],
+    "unit": "FF3",
+    "logo": "assets/logos/Greggs logo.png",
+    "image": "assets/headers/Greggs header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/greggs/",
+    "hours": "8.30am - 8.30pm...",
+    "about": "At Greggs, we may be known for our classic Sausage Rolls and Steak Bakes, but our great quality and delicious tasting menu means that we’ve got a whole lot more covered too. Whether you fancy a freshly-ground Fairtrade coffee, a balanced salad, a tasty pizza slice, a sandwich freshly prepared in store or a sweet treat – we’ve got something for everyone’s taste. With more shops and later opening hours than ever before, getting your Greggs fix has never been easier. Download the Greggs App to skip the queues with Click+Collect and don't forget to scan when you shop with us to ensure your freebies start rolling in.",
+    "about_fr": "Chez Greggs, on est peut-etre connus pour nos celebres Sausage Rolls et Steak Bakes, mais notre menu de grande qualite et delicieux couvre bien plus encore. Que vous ayez envie d'un cafe Fairtrade fraichement moulu, d'une salade equilibree, d'une part de pizza savoureuse, d'un sandwich prepare en magasin ou d'une douceur sucree, il y en a pour tous les gouts. Avec plus de boutiques et des horaires d'ouverture plus tardifs que jamais, obtenir votre dose de Greggs n'a jamais ete aussi simple. Telechargez l'appli Greggs pour eviter les files avec Click+Collect et n'oubliez pas de scanner lors de vos achats pour que vos freebies commencent a arriver.",
+    "about_ja": "Greggsといえば定番のソーセージロールやステーキベイクですが、私たちの高品質でおいしいメニューはそれだけではありません。挽きたてのフェアトレードコーヒー、バランスの良いサラダ、ピザスライス、店内で作ったサンドイッチ、甘いおやつまで、誰にでも合うものがあります。店舗数と営業時間はこれまで以上に拡大し、Greggsを楽しむのがさらに簡単に。GreggsアプリをダウンロードすればClick+Collectで行列回避、買い物時にスキャンすれば無料特典がどんどん貯まります。"
+  },
+  {
+    "name": "Slim Chickens",
+    "floor": "upper",
+    "categories": [
+      "Food & Drink"
+    ],
+    "unit": "FF2",
+    "logo": "assets/logos/Slim Chickens logo.png",
+    "image": "assets/headers/Slim Chickens header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/slim-chickens/",
+    "hours": "11.00am - 9.00pm...",
+    "about": "We started with a mission to bring a dose of that southern hospitality to a fast, casual setting—serving fresh handmade food to the communities we serve. We know that there’s something special about our hand-breaded British chicken tenders, fresh Buffalo wings, and handmade dipping sauces that keeps our loyal fans coming back…over and over again.",
+    "about_fr": "Nous avons commence avec une mission : apporter cette dose d'hospitalite du Sud dans un cadre fast-casual, en servant des plats frais faits main aux communautes que nous servons. Nous savons qu'il y a quelque chose de special dans nos tenders de poulet britannique panes a la main, nos ailes Buffalo fraiches et nos sauces maison qui fidelise nos fans... encore et encore.",
+    "about_ja": "私たちは、南部ならではのホスピタリティをファストカジュアルな形で届けるという使命からスタートしました。提供するのは新鮮な手作りの料理。手仕込みの英国産チキンテンダー、フレッシュなバッファローウィング、手作りのディップソースには特別な魅力があり、ファンが何度も戻ってくる理由になっています。"
+  },
+  {
+    "name": "Amazon Locker",
+    "floor": "upper",
+    "categories": [
+      "Tech",
+      "Services"
+    ],
+    "unit": "",
+    "logo": "assets/logos/Amazon Locker logo.png",
+    "image": "assets/headers/Amazon Locker header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/amazon-locker/",
+    "hours": "9.30am - 8.00pm...",
+    "about": "Shoppers at The Mall at Cribbs Causeway in Bristol can now benefit from our on-site Amazon Locker. Instead of delivering a parcel to your home or business address, you can select The Mall as an Amazon Locker location and pick up your parcel at a time that's convenient for you during The Mall’s opening hours. You’ll find the locker on the upper level of The Mall, near Slim Chickens.",
+    "about_fr": "Les clients du Mall at Cribbs Causeway a Bristol peuvent desormais profiter d'un Amazon Locker sur place. Au lieu de livrer un colis a votre domicile ou a votre entreprise, vous pouvez choisir The Mall comme emplacement Amazon Locker et recuperer votre colis a un moment qui vous convient pendant les heures d'ouverture. Le locker se trouve a l'etage superieur du Mall, pres de Slim Chickens.",
+    "about_ja": "ブリストルのThe Mall at Cribbs Causewayでは、館内のAmazon Lockerをご利用いただけます。ご自宅や職場への配送の代わりに、The MallをAmazon Lockerの受け取り場所として選び、営業時間内の都合の良い時間に受け取り可能です。ロッカーは上階、Slim Chickensの近くにあります。"
+  },
+  {
+    "name": "Hotel Chocolat",
+    "floor": "upper",
+    "categories": [
+      "Food & Drink",
+      "Leisure & Hobbies"
+    ],
+    "unit": "143",
+    "logo": "assets/logos/Hotel Chocolat logo.png",
+    "image": "assets/headers/Hotel Chocolat header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/hotel-chocolat/",
+    "hours": "9.30am - 8.00pm...",
+    "about": "Luxury British chocolatier and cacao grower Hotel Chocolat is on a mission to make you happy, bringing you chocolate that is more exciting, more witty, more beautiful and – more importantly – made according to their mantra: ‘More Cacao, Less Sugar’. One of the world’s few chocolate makers to directly grow some of their own cacao, on their organic, eco-conscious Saint Lucian cacao farm, Hotel Chocolat connect sustainable cacao agriculture with the hedonism of top-quality chocolate – not just from bean to bar, but roots to wrapper.",
+    "about_fr": "Chocolatier britannique de luxe et producteur de cacao, Hotel Chocolat a pour mission de vous rendre heureux en vous apportant un chocolat plus excitant, plus spirituel, plus beau et - surtout - fabrique selon leur mantra : \"More Cacao, Less Sugar\". L'un des rares chocolatiers au monde a cultiver directement une partie de son cacao sur sa ferme bio et eco-responsable de Sainte-Lucie, Hotel Chocolat relie une agriculture durable du cacao a l'hedonisme d'un chocolat de tres grande qualite - pas seulement de la feve a la tablette, mais des racines a l'emballage.",
+    "about_ja": "高級英国チョコレートブランドでカカオ生産者でもあるHotel Chocolatは、「More Cacao, Less Sugar（カカオをもっと、砂糖を少なく）」という信条のもと、より刺激的で、ユーモアがあり、美しいチョコレートを届けて人々を幸せにすることを使命としています。世界でも数少ない、自社の有機でエコ意識の高いセントルシアのカカオ農園でカカオを直接栽培するチョコレートメーカーとして、Hotel Chocolatは持続可能なカカオ農業と最高品質のチョコレートの快楽を結び付けています—豆から板へだけでなく、根から包装まで。"
+  },
+  {
+    "name": "Next",
+    "floor": "upper",
+    "categories": [
+      "Footwear",
+      "Jewellery & Accessories",
+      "Home"
+    ],
+    "unit": "110",
+    "logo": "assets/logos/Next logo.png",
+    "image": "assets/headers/Next header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/next/",
+    "hours": "9.30am - 8.00pm...",
+    "about": "Next offers exciting, beautifully designed, excellent quality clothing and homeware. Our store at Cribbs Causeway stocks the latest Women’s (including Petites), Men’s and Children’s collections, offers Express Delivery to store (order by 10pm for free next day delivery) and has a fantastic Personal Shopping service.",
+    "about_fr": "Next propose des vetements et articles pour la maison excitants, magnifiquement concus et d'excellente qualite. Notre magasin de Cribbs Causeway stocke les dernieres collections Femme (y compris Petites), Homme et Enfant, offre la livraison Express en magasin (commande avant 22 h pour une livraison gratuite le lendemain) et propose un excellent service de Personal Shopping.",
+    "about_ja": "Nextは、魅力的で美しくデザインされた高品質の衣料品とホームウェアを提供しています。Cribbs Causeway店では、最新のレディース（Petites含む）、メンズ、キッズのコレクションを取り扱い、店頭受け取りのExpress Delivery（22時までの注文で翌日無料配送）と、充実したパーソナルショッピングサービスを提供しています。"
+  },
+  {
+    "name": "Sky Store",
+    "floor": "upper",
+    "categories": [
+      "Tech",
+      "Services"
+    ],
+    "unit": "111",
+    "logo": "assets/logos/Sky Store logo.png",
+    "image": "assets/headers/Sky Store header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/sky-store/",
+    "hours": "9.30am - 8.00pm",
+    "about": "The new Sky Shop brings together Sky Q, Sky Broadband and Sky Mobile all under one roof for the first time. Come and demo the latest Sky Q box and voice activated remote, check your broadband speeds in the broadband zone and play with the latest mobile handsets.  Bring your children to the Sky kids zone and talk to experts about all the benefits of becoming a Sky VIP. The shop has a dedicated Customer hub, the perfect place for both new and existing customers to chat to one of our experts about the perfect Sky package to suit your needs or hear about all of the latest and greatest innovations...",
+    "about_fr": "Le nouveau Sky Shop reunit pour la premiere fois Sky Q, Sky Broadband et Sky Mobile sous un meme toit. Venez tester la derniere box Sky Q et la telecommande a commande vocale, verifier vos vitesses Internet dans la zone haut debit et essayer les derniers mobiles. Emmenez vos enfants dans la zone Sky Kids et parlez a des experts de tous les avantages du programme Sky VIP. La boutique dispose d'un hub client dedie : l'endroit ideal pour les nouveaux clients comme pour les clients existants, afin de discuter avec un expert du forfait Sky ideal pour vos besoins ou decouvrir les toutes dernieres innovations...",
+    "about_ja": "新しいSky Shopでは、Sky Q、Sky Broadband、Sky Mobileが初めて一つの店舗に集結。最新のSky Qボックスや音声操作リモコンを体験し、ブロードバンドゾーンで回線速度をチェックし、最新のスマホに触れられます。お子さまはSky Kidsゾーンへ。Sky VIPの特典についても専門スタッフに相談できます。店内には専用のカスタマーハブがあり、新規・既存を問わず、お客様に最適なSkyパッケージの相談や最新イノベーションの紹介が受けられます。"
+  },
+  {
+    "name": "¡Smash",
+    "floor": "upper",
+    "categories": [
+      "Tech",
+      "Services"
+    ],
+    "unit": "111a",
+    "logo": "assets/logos/iSmash logo.png",
+    "image": "assets/headers/iSmash header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/ismash/",
+    "hours": "10.00am - 7.00pm...",
+    "about": "iSmash are here to repair, protect and replace your mobile phone, tablet and laptop. Got a broken screen? Suffering poor battery life? Or is your device just not working very well? Our Service Centres provide a fast, convenient, and affordable repairs that can be trusted. We offer both Original (OEM) parts or the best aftermarket parts backed by our lifetime warranty*. iSmash are accredited by many manufacturers, used by insurance companies and large corporates...",
+    "about_fr": "iSmash est la pour reparer, proteger et remplacer votre telephone mobile, tablette et ordinateur portable. Ecran casse ? Batterie qui faiblit ? Ou appareil qui ne fonctionne pas tres bien ? Nos centres de service fournissent des reparations rapides, pratiques et abordables auxquelles vous pouvez faire confiance. Nous proposons des pieces d'origine (OEM) ou les meilleures pieces aftermarket, soutenues par notre garantie a vie*. iSmash est accredite par de nombreux fabricants, utilise par des compagnies d'assurance et de grandes entreprises...",
+    "about_ja": "iSmashは、スマホ、タブレット、ノートPCの修理・保護・交換を行います。画面が割れた？バッテリーの持ちが悪い？端末の調子が悪い？当社のサービスセンターは、迅速で便利、そして手頃な価格の信頼できる修理を提供します。純正（OEM）部品、または最高品質の社外部品を用意し、いずれも永久保証*付きです。iSmashは多くのメーカーに認定され、保険会社や大企業にも採用されています…"
+  },
+  {
+    "name": "Mango",
+    "floor": "upper",
+    "categories": [
+      "Fashion"
+    ],
+    "unit": "112",
+    "logo": "assets/logos/Mango logo.png",
+    "image": "assets/headers/Mango header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/mango/",
+    "hours": "9.30am - 8.00pm...",
+    "about": "At Mango, we have sought to bring our passion for fashion to the world from the start. Present in more than 115 markets, Mango adapts to each country, with a complete ecosystem of international channels and partners and a network of close to 2,600 physical points of sale and a powerful online platform.",
+    "about_fr": "Chez Mango, nous avons cherche des le depart a partager notre passion pour la mode avec le monde. Present dans plus de 115 marches, Mango s'adapte a chaque pays, avec un ecosysteme complet de canaux et partenaires internationaux et un reseau de pres de 2 600 points de vente physiques, ainsi qu'une plateforme en ligne puissante.",
+    "about_ja": "Mangoは創業以来、ファッションへの情熱を世界に届けることを目指してきました。115以上の市場で展開し、各国に適応した国際的なチャネルとパートナーのエコシステム、約2,600の実店舗ネットワーク、そして強力なオンラインプラットフォームを備えています。"
+  },
+  {
+    "name": "Apple",
+    "floor": "upper",
+    "categories": [
+      "Tech",
+      "Leisure & Hobbies"
+    ],
+    "unit": "113",
+    "logo": "assets/logos/Apple logo.png",
+    "image": "assets/headers/Apple header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/apple/",
+    "hours": "9.30am - 8.00pm...",
+    "about": "The Apple Store is the best place to try all of Apple’s products and find great accessories. Our Specialists will answer your questions and get you set up before you leave. Stop by for free Today at Apple sessions and learn new skills from our Creatives. Or visit the Genius Bar to get hands-on technical support. Learn more at https://www.apple.com/uk/retail/",
+    "about_fr": "L'Apple Store est le meilleur endroit pour essayer tous les produits Apple et trouver d'excellents accessoires. Nos Specialists repondent a vos questions et vous aident a tout configurer avant votre depart. Passez pour des sessions Today at Apple gratuites et apprenez de nouvelles competences avec nos Creatives. Ou rendez-vous au Genius Bar pour une assistance technique pratique. En savoir plus sur https://www.apple.com/uk/retail/",
+    "about_ja": "Apple Storeは、Apple製品を試し、優れたアクセサリーを見つけるのに最適な場所です。Specialistが質問に答え、帰る前にセットアップまでお手伝いします。無料のToday at Appleセッションでクリエイティブと一緒に新しいスキルを学ぶこともできます。技術サポートはGenius Barへ。詳細はこちら：https://www.apple.com/uk/retail/"
+  },
+  {
+    "name": "Breitling",
+    "floor": "upper",
+    "categories": [
+      "Jewellery & Accessories",
+      "Leisure & Hobbies",
+      "Fashion"
+    ],
+    "unit": "115",
+    "logo": "assets/logos/Breitling logo.png",
+    "image": "assets/headers/Breitling header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/breitling/",
+    "hours": "9.30am - 8.00pm...",
+    "about": "Founded in 1884, Breitling is a leading Swiss watchmaker. The innovative company invented the modern chronograph and pioneered the navigational tool watch. Today, it’s still breaking new ground as a casual, inclusive and sustainable luxury brand. Breitling’s collections centre around air, land, and sea pursuits, all captured in the brand’s unmistakable modern-retro style. The exceptional quality of every watch movement is confirmed by its status as a COSC-certified chronometer, and the brand remains one of only a handful of independent watchmakers to produce its own manufacture calibres. Combining classic watchmaking with the latest innovations, Breitling is a company with history which is also ahead of its time.",
+    "about_fr": "Fondee en 1884, Breitling est un horloger suisse de premier plan. L'entreprise innovante a invente le chronographe moderne et a ete pionniere de la montre-outil de navigation. Aujourd'hui encore, elle ouvre de nouvelles voies en tant que marque de luxe decontractee, inclusive et durable. Les collections Breitling s'articulent autour des activites aeriennes, terrestres et maritimes, le tout capture dans un style moderne-retro unique. La qualite exceptionnelle de chaque mouvement est confirmee par son statut de chronometre certifie COSC, et la marque reste l'un des rares horlogers independants a produire ses propres calibres de manufacture. En combinant l'horlogerie classique et les dernieres innovations, Breitling est une entreprise historique qui reste en avance sur son temps.",
+    "about_ja": "1884年創業のBreitlingは、スイスを代表する時計メーカーです。革新的な企業として、現代クロノグラフを発明し、ナビゲーション用ツールウォッチの先駆者となりました。現在も、カジュアルで包括的、そしてサステナブルなラグジュアリーブランドとして新境地を切り開いています。Breitlingのコレクションは空・陸・海の世界を中心に展開され、独自のモダンレトロなスタイルで表現されています。各ムーブメントの卓越した品質はCOSC認定クロノメーターで保証され、同ブランドは今も自社製ムーブメントを製造する数少ない独立時計メーカーの一つです。クラシックな時計製造と最新の革新を融合し、Breitlingは歴史を持ちながら時代を先取りし続けています。"
+  },
+  {
+    "name": "Boots",
+    "floor": "upper",
+    "categories": [
+      "Food & Drink",
+      "Health & Beauty",
+      "Services"
+    ],
+    "unit": "116",
+    "logo": "assets/logos/Boots logo.png",
+    "image": "assets/headers/Boots header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/boots/",
+    "hours": "9.30am - 8.00pm...",
+    "about": "Boots at The Mall at Cribbs Causeway is your one stop shop for all your health and beauty needs in Bristol. With all the top cosmetic and fragrance brands offering the most up to date looks and the latest technology. The pharmacy at the heart of the store takes care of customers healthcare needs. All this plus a fantastic 4 points for every £1 you spend in store. The store also offers a range of services including Travel Vaccinations and Advice, Hair Retention Programme, Stop Smoking Programme, and a Free Repeat Prescription Service. To take advantage of any of these services, please call 0117 950 9744 (opt.3)  or book online at boots.com/appointment, alternatively just pop into store anytime to speak to one of our healthcare team.",
+    "about_fr": "Boots au Mall at Cribbs Causeway est votre guichet unique pour la sante et la beaute a Bristol. Toutes les grandes marques de cosmetiques et de parfums y proposent les looks les plus recents et les dernieres technologies. La pharmacie au coeur du magasin s'occupe des besoins de sante des clients. Et en plus, fantastique : 4 points pour chaque 1 GBP depensee en magasin. Le magasin offre egalement des services tels que vaccinations et conseils pour les voyages, programme de retention capillaire, programme d'arret du tabac et service gratuit de renouvellement d'ordonnances. Pour en profiter, appelez le 0117 950 9744 (opt.3) ou prenez rendez-vous en ligne sur boots.com/appointment, ou passez en magasin pour parler a notre equipe sante.",
+    "about_ja": "The Mall at Cribbs CausewayのBootsは、ブリストルで健康と美容のすべてが揃うワンストップショップです。最新のルックや技術を扱うトップコスメ・フレグランスブランドが勢ぞろい。店内の中心にある薬局がヘルスケアをサポートします。さらに店内で1ポンドお買い上げごとに4ポイントが付くお得なポイント制度も。旅行ワクチンとアドバイス、ヘアリテンションプログラム、禁煙プログラム、無料のリピート処方サービスなども提供しています。利用をご希望の方は0117 950 9744（オプション3）にお電話いただくか、boots.com/appointmentでオンライン予約、または店頭でヘルスケアチームにご相談ください。"
+  },
+  {
+    "name": "H&M",
+    "floor": "upper",
+    "categories": [
+      "Jewellery & Accessories",
+      "Kids",
+      "Fashion"
+    ],
+    "unit": "120-121",
+    "logo": "assets/logos/H&M logo.png",
+    "image": "assets/headers/H&M header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/hm/",
+    "hours": "9.30am - 8.00pm...",
+    "about": "H&M offers a wide range of fashion using many different concepts - from updated classics and basics to clothes that reflect the very latest international trends. In addition, we sell underwear, sportswear, accessories and cosmetics. In simple terms, fashion for everyone - and always at the best price.",
+    "about_fr": "H&M propose une large gamme de mode via de nombreux concepts differents - des classiques et basiques revisites aux vetements qui refletent les toutes dernieres tendances internationales. Nous vendons aussi des sous-vetements, du sportswear, des accessoires et des cosmetiques. En bref, la mode pour tous - et toujours au meilleur prix.",
+    "about_ja": "H&Mは、多様なコンセプトで幅広いファッションを提供しています。アップデートされた定番・ベーシックから、世界の最新トレンドを反映したアイテムまで。下着、スポーツウェア、アクセサリー、化粧品も取り扱っています。つまり、誰にでも手の届くファッションを、いつでもベストプライスで。"
+  },
+  {
+    "name": "H Samuel",
+    "floor": "upper",
+    "categories": [
+      "Jewellery & Accessories"
+    ],
+    "unit": "117",
+    "logo": "assets/logos/H Samuel logo.png",
+    "image": "assets/headers/H Samuel header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/h-samuel/",
+    "hours": "9.30am - 8.00pm...",
+    "about": "Market Street, Manchester. 1862. H. Samuel's story begins. In a time when women could not vote. Or get an education. Harriet Samuel turned the small family watch-making store into a mail-order business, with one goal: to make quality jewellery and watches accessible to everyone. Today, across the UK, H. Samuel is known and loved for diamonds and watches at attainable prices and trend-led fashion brands including celebrity and influencer favourites PDPaola, Ania Haie, Olivia Burton and Seiko.",
+    "about_fr": "Market Street, Manchester. 1862. L'histoire de H. Samuel commence. A une epoque ou les femmes ne pouvaient pas voter, ni acceder a l'education, Harriet Samuel transforma le petit magasin familial d'horlogerie en une entreprise de vente par correspondance, avec un objectif : rendre les bijoux et montres de qualite accessibles a tous. Aujourd'hui, au Royaume-Uni, H. Samuel est connu et apprecie pour ses diamants et montres a prix abordables et ses marques tendance, dont les favorites de celebrites et d'influenceurs PDPaola, Ania Haie, Olivia Burton et Seiko.",
+    "about_ja": "1862年、マンチェスターのMarket Street。H. Samuelの物語はここから始まります。女性が投票も教育も受けられなかった時代、Harriet Samuelは家族の小さな時計店を通信販売事業へと発展させ、「高品質のジュエリーと時計を誰もが手にできるようにする」という目標を掲げました。現在、H. Samuelは英国中で、手の届く価格のダイヤモンドと時計、そしてPDPaola、Ania Haie、Olivia Burton、Seikoなどのセレブやインフルエンサーに人気のトレンドブランドで知られ、愛されています。"
+  },
+  {
+    "name": "Polestar",
+    "floor": "upper",
+    "categories": [
+      "Tech",
+      "Leisure & Hobbies"
+    ],
+    "unit": "118",
+    "logo": "assets/logos/Polestar logo.png",
+    "image": "assets/headers/Polestar header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/polestar/",
+    "hours": "9.30am - 8.00pm...",
+    "about": "Polestar is a Swedish premium electric vehicle manufacturer. Polestar Spaces have been opened in London, Manchester and Birmingham, with Bristol being the latest addition. Polestar has produced two electric performance cars. The Polestar 1 is a low-volume electric performance hybrid GT . The Polestar 2 electric performance fastback is the company’s first fully electric, high volume car. Polestar plans to launch one new electric vehicle per year, starting with Polestar 3 – the company’s first electric performance SUV which launched in October 2022. Polestar 4 is expected to follow in 2023, a smaller electric performance SUV coupe.",
+    "about_fr": "Polestar est un constructeur suedois de vehicules electriques premium. Des Polestar Spaces ont ete ouverts a Londres, Manchester et Birmingham, Bristol etant la derniere addition. Polestar a produit deux voitures electriques performantes. La Polestar 1 est un GT hybride electrique a faible volume. La Polestar 2, fastback electrique performante, est la premiere voiture 100 % electrique de la marque a grand volume. Polestar prevoit de lancer un nouveau vehicule electrique par an, a commencer par la Polestar 3 - le premier SUV electrique performant de la marque, lance en octobre 2022. La Polestar 4 devrait suivre en 2023, un SUV coupe electrique performant plus compact.",
+    "about_ja": "Polestarはスウェーデンのプレミアム電気自動車メーカーです。Polestar Spaceはロンドン、マンチェスター、バーミンガムに続き、ブリストルが最新の拠点となりました。Polestarは2台の電動パフォーマンスカーを製造しています。Polestar 1は少量生産の電動ハイブリッドGT。Polestar 2は同社初の量産型フル電動パフォーマンス・ファストバックです。Polestarは年1台の新型EV投入を計画しており、最初は2022年10月に発売された初の電動パフォーマンスSUV「Polestar 3」。続いて2023年に、よりコンパクトな電動パフォーマンスSUVクーペ「Polestar 4」が予定されています。"
+  },
+  {
+    "name": "Lego",
+    "floor": "upper",
+    "categories": [
+      "Kids",
+      "Leisure & Hobbies",
+      "Fashion"
+    ],
+    "unit": "119",
+    "logo": "assets/logos/Lego logo.png",
+    "image": "assets/headers/Lego header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/lego/",
+    "hours": "9.30am - 8.00pm...",
+    "about": "Lego is a Danish toy company that produces interlocking plastic bricks and related accessories. The company is known for its wide range of themed sets, including classic sets like the Castle and City themes, as well as more recent themes such as Star Wars and Marvel. Lego also offers a variety of educational products and experiences, including Lego Education and Lego Mindstorms.",
+    "about_fr": "Lego est une entreprise danoise de jouets qui produit des briques en plastique emboitables et des accessoires associes. Elle est connue pour sa large gamme de sets thematiques, dont des classiques comme Castle et City, ainsi que des themes plus recents tels que Star Wars et Marvel. Lego propose egalement des produits et experiences educatifs, notamment Lego Education et Lego Mindstorms.",
+    "about_ja": "Legoはデンマークの玩具会社で、組み合わせ可能なプラスチックブロックと関連アクセサリーを製造しています。CastleやCityなどのクラシックテーマから、Star WarsやMarvelなどの新しいテーマまで、幅広いセットで知られています。また、Lego EducationやLego Mindstormsなどの教育向け製品や体験も提供しています。"
+  },
+  {
+    "name": "Costa Coffee",
+    "floor": "upper",
+    "categories": [
+      "Food & Drink",
+      "Tech"
+    ],
+    "unit": "165",
+    "logo": "assets/logos/Costa Coffee logo.png",
+    "image": "assets/headers/Costa Coffee header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/costa-coffee/",
+    "hours": "7.30am - 8.00pm...",
+    "about": "Real coffee made by real people. Every Costa barista is unique. Not only are they experts in making the perfect coffee with speed and precision, time and time again, but each brings their own flair and creativity to every cup they make.",
+    "about_fr": "Un vrai cafe prepare par de vraies personnes. Chaque barista Costa est unique. Non seulement ils sont experts pour preparer le cafe parfait, avec rapidite et precision, encore et encore, mais chacun apporte aussi sa propre touche et creativite a chaque tasse.",
+    "about_ja": "本物のコーヒーを、本物の人が。Costaのバリスタは一人ひとりがユニークです。スピードと精度で完璧なコーヒーを何度でも淹れるだけでなく、それぞれが自分ならではのセンスと創造性を一杯に注ぎます。"
+  },
+  {
+    "name": "Crew Clothing",
+    "floor": "upper",
+    "categories": [
+      "Fashion"
+    ],
+    "unit": "164",
+    "logo": "assets/logos/Crew Clothing logo.png",
+    "image": "assets/headers/Crew Clothing header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/crew-clothing/",
+    "hours": "9.30am - 8.00pm...",
+    "about": "Crew Clothing is a British lifestyle brand that creates effortlessly stylish womenswear, menswear, kidswear, accessories and footwear for life’s best moments. Inspired by the south west coast and its sporting heritage, Crew’s story started in Salcombe over 25 years ago. Known for Oxford shirts, piqué polos, Breton tops, sweatshirts, dresses and more, expect designs you can depend on time after time. Everything is crafted from the softest fabrics with hidden details, all of which come stitched together with the brand’s signature crossed oars – a mark of quality, trust and team spirit.",
+    "about_fr": "Crew Clothing est une marque lifestyle britannique qui cree des vetements feminins, masculins et enfants, ainsi que des accessoires et des chaussures, pour les plus beaux moments de la vie, avec un style naturellement chic. Inspiree par la cote sud-ouest et son heritage sportif, l'histoire de Crew a commence a Salcombe il y a plus de 25 ans. Connue pour ses chemises Oxford, polos en pique, marinières bretonnes, sweatshirts, robes et plus encore, la marque propose des designs fiables saison apres saison. Tout est confectionne dans les tissus les plus doux avec des details caches, le tout reuni par les rames croisees emblematiques de la marque - un signe de qualite, de confiance et d'esprit d'equipe.",
+    "about_ja": "Crew Clothingは、人生の特別な瞬間のために、さりげなくスタイリッシュなウィメンズ、メンズ、キッズ、アクセサリー、フットウェアを展開する英国のライフスタイルブランドです。南西海岸とそのスポーツの伝統に着想を得て、25年以上前にSalcombeでスタート。オックスフォードシャツ、ピケポロ、ブルトンボーダー、スウェット、ドレスなどで知られ、シーズンを超えて頼れるデザインを提供します。すべては最も柔らかな素材に隠れたディテールを加え、ブランドの象徴である交差したオール（櫂）で仕上げられています—品質・信頼・チームスピリットの証です。"
+  },
+  {
+    "name": "AllSaints",
+    "floor": "upper",
+    "categories": [
+      "Fashion"
+    ],
+    "unit": "163",
+    "logo": "assets/logos/AllSaints logo.png",
+    "image": "assets/headers/AllSaints header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/allsaints/",
+    "hours": "9.30am - 8.00pm...",
+    "about": "Founded in East London in 1994, AllSaints breaks through the noise to offer something different. The style-obsessed come for cult leather jackets, signature biker boots, asymmetric dresses and accessories with attitude – and stay for our commitment to sustainability and service. It’s about turning your back on the trends and making your own rules, a uniform without uniformity, clothes that make you feel good. AllSaints is an attitude, wear it your way.",
+    "about_fr": "Fondee dans l'Est de Londres en 1994, AllSaints perce le brouhaha pour offrir quelque chose de different. Les passionnes de style viennent pour les vestes en cuir culte, les bottes biker emblematiques, les robes asymetriques et les accessoires pleins d'attitude - et restent pour notre engagement envers la durabilite et le service. Il s'agit de tourner le dos aux tendances et de faire ses propres regles, un uniforme sans uniformite, des vetements qui vous font vous sentir bien. AllSaints est une attitude, portez-la a votre facon.",
+    "about_ja": "AllSaintsは1994年に東ロンドンで創業し、流行の喧騒を抜け出して「違い」を提示してきました。カルト的人気のレザージャケット、シグネチャーのバイカーブーツ、アシンメトリーなドレス、アティチュードのあるアクセサリーに惹かれて訪れ、サステナビリティとサービスへの取り組みでファンになっていきます。トレンドに背を向け、自分のルールを持つこと。均一ではないユニフォーム、着る人を気分よくする服。AllSaintsは態度そのものです。自分らしく着こなしてください。"
+  },
+  {
+    "name": "Charles Tyrwhitt",
+    "floor": "upper",
+    "categories": [
+      "Services",
+      "Fashion"
+    ],
+    "unit": "162",
+    "logo": "assets/logos/Charles Tyrwhitt logo.png",
+    "image": "assets/headers/Charles Tyrwhitt header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/charles-tyrwhitt/",
+    "hours": "9.30am - 8.00pm...",
+    "about": "Once upon a shirt, Nicholas Charles Tyrwhitt Wheeler (whilst studying Geography at Bristol University – we might add) had the notion that he could make a better shirt at better value than anyone else in the world! He believed that all men; no matter their shape or size, where they may be in the world or indeed their budget; should be able to own a Jermyn Street quality shirt. A proper shirt. A CT shirt.",
+    "about_fr": "Il etait une fois une chemise : Nicholas Charles Tyrwhitt Wheeler (alors etudiant en geographie a l'Universite de Bristol - precisons-le) eut l'idee qu'il pouvait fabriquer une meilleure chemise, a meilleur prix, que quiconque au monde ! Il pensait que tous les hommes, quelle que soit leur morphologie, ou qu'ils soient, et quel que soit leur budget, devraient pouvoir posseder une chemise de qualite Jermyn Street. Une vraie chemise. Une chemise CT.",
+    "about_ja": "かつて一枚のシャツがありました。ブリストル大学で地理学を学んでいたNicholas Charles Tyrwhitt Wheelerは、「世界の誰よりも良いシャツを、より良い価値で作れる」と思いつきます。体型や居住地、予算に関係なく、すべての男性がジャーミンストリート品質のシャツを持てるべきだと考えたのです。本物のシャツ。CTのシャツです。"
+  },
+  {
+    "name": "Seasalt",
+    "floor": "upper",
+    "categories": [
+      "Fashion"
+    ],
+    "unit": "160",
+    "logo": "assets/logos/Seasalt logo.png",
+    "image": "assets/headers/Seasalt header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/seasalt/",
+    "hours": "9.30am - 8.00pm...",
+    "about": "Seasalt make quality clothing and accessories woven with stories of Cornwall. The artistic and maritime heritage of their home county inspires beautiful and useful pieces, with selected styles available in sizes 6-28, Petite and Tall. The Seasalt story began in Penzance in 1981, with a little family-run shop that sold smocks and oilskins to fishers and artists. Each season, their colours and patterns are taken from the flora, sea and sky along the wild Cornish coastline. Prints are sketched, painted and stamped by in-house designers and always have a handcrafted feel, often nodding to Cornwall’s creative heritage of sculpture and painting.",
+    "about_fr": "Seasalt cree des vetements et accessoires de qualite tisses avec les histoires de Cornouailles. L'heritage artistique et maritime de leur comte inspire des pieces belles et utiles, avec des styles selectionnes disponibles du 6 au 28, ainsi qu'en Petite et Tall. L'histoire de Seasalt commence a Penzance en 1981, dans une petite boutique familiale vendant des blouses et cires aux pecheurs et artistes. Chaque saison, leurs couleurs et motifs sont inspires de la flore, de la mer et du ciel de la cote cornouaillaise sauvage. Les imprimes sont esquisses, peints et tamponnes par des designers internes et gardent toujours un esprit artisanal, faisant souvent un clin d'oeil a l'heritage creatif de la Cornouailles en sculpture et peinture.",
+    "about_ja": "Seasaltは、コーンウォールの物語を織り込んだ高品質な衣料とアクセサリーを作っています。地元の芸術と海の伝統が、美しく実用的なアイテムを生み、サイズ6〜28に加えPetiteとTallも一部展開。Seasaltの物語は1981年にペンザンスの小さな家族経営店から始まり、漁師やアーティスト向けにスモックやオイルスキンを販売していました。毎シーズン、色や柄は荒々しいコーンウォール海岸の花々、海、空から採られます。プリントは社内デザイナーがスケッチし、描き、スタンプして生まれ、手仕事の温かみがあり、彫刻や絵画といったコーンウォールの創造的遺産へのオマージュが込められています。"
+  },
+  {
+    "name": "Boss",
+    "floor": "upper",
+    "categories": [
+      "Footwear",
+      "Fashion"
+    ],
+    "unit": "159",
+    "logo": "assets/logos/Boss logo.png",
+    "image": "assets/headers/Boss header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/boss/",
+    "hours": "9.30am - 8.00pm...",
+    "about": "BOSS offers sophisticated, modern collections focused on quality and design to create an impeccable look – be it business, casual or athleisure. BOSS Menswear has reached icon status for its tailoring, but offers more than the perfect suit. The collections also feature casual and athleisure pieces, presenting a complete wardrobe for fast-paced modern lifestyles. Tailoring and sportswear are brought together in a look that is ready for whatever the day may hold.",
+    "about_fr": "BOSS propose des collections sophistiquees et modernes, axees sur la qualite et le design pour creer un look impeccable - qu'il soit business, casual ou athleisure. BOSS Menswear a atteint un statut iconique pour son tailoring, mais offre bien plus que le costume parfait. Les collections incluent aussi des pieces casual et athleisure, presentant une garde-robe complete pour des styles de vie modernes et rythmes. Tailoring et sportswear se rejoignent dans un look pret pour tout ce que la journee peut reserver.",
+    "about_ja": "BOSSは品質とデザインにフォーカスした洗練されたモダンなコレクションで、ビジネス、カジュアル、アスレジャーを問わず完璧なルックを提案します。BOSS Menswearはテーラリングでアイコン的存在ですが、完璧なスーツ以上のものを提供。カジュアルやアスレジャーのアイテムも加わり、忙しい現代のライフスタイルに対応する総合的なワードローブを作ります。テーラリングとスポーツウェアが融合したルックは、どんな一日にも対応できます。"
+  },
+  {
+    "name": "Vodafone",
+    "floor": "upper",
+    "categories": [
+      "Tech"
+    ],
+    "unit": "158",
+    "logo": "assets/logos/Vodafone logo.png",
+    "image": "assets/headers/Vodafone header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/vodafone/",
+    "hours": "9.30am - 8.00pm...",
+    "about": "Our business has more than 300 stores nationwide. We specialise in mobile phones on both contract and pay as you talk, phone accessories, Bluetooth connectivity devices as well as phone education and after sales service.",
+    "about_fr": "Notre entreprise compte plus de 300 magasins dans tout le pays. Nous sommes specialises dans les telephones mobiles, avec forfait ou prepayes, les accessoires telephoniques, les appareils Bluetooth ainsi que l'education a l'usage des telephones et le service apres-vente.",
+    "about_ja": "当社は全国に300店以上を展開しています。契約・プリペイドの携帯電話、アクセサリー、Bluetooth接続機器に加え、使い方のサポートやアフターサービスにも特化しています。"
+  },
+  {
+    "name": "Thérapie Clinic",
+    "floor": "upper",
+    "categories": [
+      "Health & Beauty"
+    ],
+    "unit": "157",
+    "logo": "assets/logos/Thérapie Clinic logo.png",
+    "image": "assets/headers/Thérapie Clinic header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/therapie-clinic/",
+    "hours": "9.30am - 8.00pm...",
+    "about": "Welcome to Thérapie Clinic, Europe's No.1 Medical Aesthetic Clinic. Thérapie Clinic is over 20 years in the medical aesthetic industry and home to over 200 doctors. As a multi-award-winning clinic, we specialise in cosmetic injections, laser hair removal, skin rejuvenation, and body sculpting. Our treatments include Botox, Dermal and Lip Fillers, Polynucleotides, Hydrafacial, Micro-Needling, Emsculpt, and CoolSculpting. With over 10 million treatments performed, we use the latest FDA-approved technology to deliver exceptional results. Whether you're looking for skin rejuvenation, body contouring, or anti-wrinkle solutions, our expert, doctor-led team is here to help. Book a consultation today at therapieclinic.com!",
+    "about_fr": "Bienvenue a Therapie Clinic, la premiere clinique medico-esthetique d'Europe. Therapie Clinic compte plus de 20 ans d'experience dans le secteur medico-esthetique et plus de 200 medecins. Clinique multi-recompensee, nous sommes specialises en injections esthetiques, epilation laser, rajeunissement cutane et remodelage corporel. Nos traitements incluent le Botox, les fillers dermiques et labiaux, les polynucleotides, l'Hydrafacial, le micro-needling, l'Emsculpt et le CoolSculpting. Avec plus de 10 millions de traitements realises, nous utilisons les dernieres technologies approuvees par la FDA pour des resultats exceptionnels. Que vous cherchiez un rajeunissement de la peau, un remodelage du corps ou des solutions anti-rides, notre equipe d'experts dirigee par des medecins est la pour vous aider. Prenez rendez-vous des aujourd'hui sur therapieclinic.com !",
+    "about_ja": "ようこそTherapie Clinicへ。ヨーロッパNo.1の医療美容クリニックです。医療美容分野で20年以上の実績があり、200名以上の医師が在籍。数々の受賞歴を持つ当院は、注入治療、レーザー脱毛、肌の若返り、ボディスカルプティングを専門としています。治療にはボトックス、ダーマル＆リップフィラー、ポリヌクレオチド、Hydrafacial、マイクロニードリング、Emsculpt、CoolSculptingなどが含まれます。1,000万件以上の施術実績があり、FDA承認の最新技術で優れた結果を提供します。肌の若返り、ボディラインの改善、しわ対策など、医師主導の専門チームがサポートします。ご予約はtherapieclinic.comへ。"
+  },
+  {
+    "name": "EE",
+    "floor": "upper",
+    "categories": [
+      "Tech"
+    ],
+    "unit": "156",
+    "logo": "assets/logos/EE logo.jpeg",
+    "image": "assets/headers/EE header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/ee/",
+    "hours": "9.30am - 8.00pm...",
+    "about": "The EE Experience Local store is for everyone, from tech savvy gamers to home-owners curious about the latest innovations, to those who just want to get the best from their phone. And when we say we’re for everyone - we mean it. Our tech, gaming bundles, and repair services are for any customer, on any network. Our EE guides are on-hand to help with all your questions, or even give guidance for families to navigate the concerns of online safety. You can find more information about staying safe while connected on our website.",
+    "about_fr": "Le magasin EE Experience Local s'adresse a tout le monde : des gamers ferus de tech aux proprietaires curieux des dernieres innovations, en passant par ceux qui veulent simplement tirer le meilleur de leur telephone. Et quand on dit tout le monde, on le pense vraiment. Notre technologie, nos bundles gaming et nos services de reparation sont disponibles pour tous les clients, quel que soit leur reseau. Nos guides EE sont la pour repondre a vos questions, ou meme aider les familles a aborder les preoccupations liees a la securite en ligne. Vous trouverez plus d'informations sur la facon de rester en securite tout en restant connecte sur notre site web.",
+    "about_ja": "EE Experience Localは、テックに詳しいゲーマーから最新の技術に興味のある家庭の方、スマホをもっと活用したい人まで、誰にでも開かれた店舗です。「誰にでも」の言葉通り、EEのテクノロジー、ゲーム用バンドル、修理サービスはどのネットワークのお客様でも利用可能です。EEのガイドが質問に答え、家族がオンライン安全性の懸念を乗り越えるためのアドバイスも行います。つながりながら安全に過ごすための詳細は当社ウェブサイトでご確認ください。"
+  },
+  {
+    "name": "Castore",
+    "floor": "upper",
+    "categories": [
+      "Sports",
+      "Services",
+      "Leisure & Hobbies"
+    ],
+    "unit": "155",
+    "logo": "assets/logos/Castore logo.png",
+    "image": "assets/headers/Castore header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/castore/",
+    "hours": "9.30am - 8.00pm...",
+    "about": "Castore exists for one single reason – to make athletes better. Our ethos is built upon the philosophy of BETTER NEVER STOPS, an ideal deeply infused in our DNA and something we strive to live every single day. Every Castore product is the result of an uncompromising search for the marginal details that allow sports garments to outperform when it matters most. Using unique fabric blends and rigorous testing by elite athletes, we leave no stone unturned in creating products that are technically superior to anything else in the sportswear market.",
+    "about_fr": "Castore existe pour une seule raison : rendre les athletes meilleurs. Notre ethos repose sur la philosophie BETTER NEVER STOPS, un ideal profondement ancre dans notre ADN que nous nous efforcons de vivre chaque jour. Chaque produit Castore resulte d'une recherche sans compromis des details marginaux qui permettent aux vetements de sport de surpasser quand cela compte le plus. En utilisant des melanges de tissus uniques et des tests rigoureux par des athletes d'elite, nous ne laissons aucun detail au hasard pour creer des produits techniquement superieurs a tout ce qui existe sur le marche du sportswear.",
+    "about_ja": "Castoreが存在する理由はただ一つ—アスリートをより良くすること。私たちの信念は「BETTER NEVER STOPS」という哲学に基づき、その理想はDNAに深く刻まれ、毎日体現しています。Castoreのすべての製品は、スポーツウェアが最も重要な場面で力を発揮するためのわずかなディテールを徹底的に追求した結果です。独自の生地ブレンドとエリートアスリートによる厳格なテストを用い、スポーツウェア市場のどれよりも技術的に優れた製品を作り上げています。"
+  },
+  {
+    "name": "L'Occitane",
+    "floor": "upper",
+    "categories": [
+      "Health & Beauty",
+      "Leisure & Hobbies"
+    ],
+    "unit": "154",
+    "logo": "assets/logos/L'Occitane logo.png",
+    "image": "assets/headers/L'Occitane header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/loccitane-en-provence/",
+    "hours": "9.30am - 8.00pm...",
+    "about": "Since 1976, L'Occitane en Provence has been revealing the vitality of the flora of Haute-Provence, where innovation and heritage come together to create sensorial, powerful and as sustainable as possible experiences.",
+    "about_fr": "Depuis 1976, L'Occitane en Provence revele la vitalite de la flore de Haute-Provence, ou l'innovation et l'heritage se conjuguent pour creer des experiences sensorielles puissantes et aussi durables que possible.",
+    "about_ja": "L'Occitane en Provenceは1976年から、オート・プロヴァンスの植物の生命力を伝えてきました。革新と伝統が融合し、力強く、可能な限りサステナブルな感覚体験を生み出しています。"
+  },
+  {
+    "name": "Sunglass Hut",
+    "floor": "upper",
+    "categories": [
+      "Jewellery & Accessories"
+    ],
+    "unit": "153",
+    "logo": "assets/logos/Sunglass Hut logo.png",
+    "image": "assets/headers/Sunglass Hut header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/sunglass-hut/",
+    "hours": "9.30am - 8.00pm...",
+    "about": "Sunglass Hut is the world's largest retailer of luxury, fashion, lifestyle and sports sunglasses with more than 3000 points of sale. With the latest sunglasses from Ray-Ban, Prada, Oakley, Giorgio Armani, Persol and Dolce & Gabbana brands, Sunglass Hut offers the best trend selection as well as outstanding customer service. Sunglass Hut has stores in the United States, Canada, South America, Europe, Australia, New Zealand, Hong Kong, Singapore and South Africa.",
+    "about_fr": "Sunglass Hut est le plus grand detaillant mondial de lunettes de soleil de luxe, mode, lifestyle et sport avec plus de 3 000 points de vente. Avec les dernieres lunettes de Ray-Ban, Prada, Oakley, Giorgio Armani, Persol et Dolce & Gabbana, Sunglass Hut propose la meilleure selection de tendances ainsi qu'un service client exceptionnel. Sunglass Hut possede des boutiques aux Etats-Unis, au Canada, en Amerique du Sud, en Europe, en Australie, en Nouvelle-Zelande, a Hong Kong, a Singapour et en Afrique du Sud.",
+    "about_ja": "Sunglass Hutはラグジュアリー、ファッション、ライフスタイル、スポーツ向けサングラスを扱う世界最大の小売店で、3,000以上の販売拠点があります。Ray-Ban、Prada、Oakley、Giorgio Armani、Persol、Dolce & Gabbanaなど最新モデルを取り揃え、トレンド性の高い品ぞろえと優れた接客を提供します。店舗は米国、カナダ、南米、ヨーロッパ、オーストラリア、ニュージーランド、香港、シンガポール、南アフリカにあります。"
+  },
+  {
+    "name": "Tudor",
+    "floor": "upper",
+    "categories": [
+      "Jewellery & Accessories"
+    ],
+    "unit": "152",
+    "logo": "assets/logos/Tudor logo.png",
+    "image": "assets/headers/Tudor header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/tudor/",
+    "hours": "9.30am - 8.00pm...",
+    "about": "TUDOR offers mechanical watches with sophisticated style, proven reliability and unmatched value for money. Throughout their history TUDOR watches have been chosen by the boldest adventurers on land, in the air, underwater and on ice. Today the TUDOR collection includes emblematic models such as Black Bay, Pelagos, 1926 and Royal. Since 2015, TUDOR has also offered models with mechanical Manufacture Calibres with multiple functions and superior performance.",
+    "about_fr": "TUDOR propose des montres mecaniques au style sophistique, a la fiabilite eprouvee et au rapport qualite-prix inegale. Tout au long de leur histoire, les montres TUDOR ont ete choisies par les aventuriers les plus audacieux sur terre, dans les airs, sous l'eau et sur la glace. Aujourd'hui, la collection TUDOR comprend des modeles emblematiques tels que Black Bay, Pelagos, 1926 et Royal. Depuis 2015, TUDOR propose egalement des modeles equipes de calibres Manufacture mecaniques a fonctions multiples et performances superieures.",
+    "about_ja": "TUDORは洗練されたスタイル、実証された信頼性、卓越したコストパフォーマンスを備えた機械式時計を提供します。歴史を通じてTUDORの時計は、陸・空・海・氷上の最も大胆な冒険家たちに選ばれてきました。現在のコレクションにはBlack Bay、Pelagos、1926、Royalなどの象徴的モデルが含まれます。2015年以降、複数機能と優れた性能を備えた機械式マニュファクチュール・キャリバー搭載モデルも提供しています。"
+  },
+  {
+    "name": "Swarovski",
+    "floor": "upper",
+    "categories": [
+      "Jewellery & Accessories"
+    ],
+    "unit": "109",
+    "logo": "assets/logos/Swarovski logo.png",
+    "image": "assets/headers/Swarovski header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/swarovski/",
+    "hours": "9.30am - 8.00pm...",
+    "about": "Swarovski, the world leader in cut crystal brings you the latest in crystal glamour and innovation in fashion jewellery, gifts, home accessories and must have collectibles.",
+    "about_fr": "Swarovski, leader mondial du cristal taille, vous apporte le meilleur du glamour et de l'innovation en bijoux de mode, cadeaux, accessoires pour la maison et objets de collection incontournables.",
+    "about_ja": "カットクリスタルの世界的リーダーであるSwarovskiは、ファッションジュエリー、ギフト、ホームアクセサリー、マストハブのコレクタブルにおいて、最新のグラマーと革新を届けます。"
+  },
+  {
+    "name": "Fat Face",
+    "floor": "upper",
+    "categories": [
+      "Kids",
+      "Fashion"
+    ],
+    "unit": "107 108",
+    "logo": "assets/logos/Fat Face logo.png",
+    "image": "assets/headers/Fat Face header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/fatface/",
+    "hours": "9.30am - 8.00pm...",
+    "about": "FATFACE was born in 1988 in the French Alps, when two British guys printed some sweatshirts and sold them out of the back of a campervan to fund their lifestyle. Fast forward 26 years and today, we produce quality clothing and accessories for men, women and kids, all designed in-house at our headquarters in Hampshire. FATFACE is an attitude to life: full of optimism and always up for trying something new. It’s sociable, relaxed and it's about being outside in the fresh air, embracing life outside the 9-5.",
+    "about_fr": "FATFACE est ne en 1988 dans les Alpes francaises, lorsque deux Britanniques ont imprime des sweatshirts et les ont vendus depuis l'arriere d'un camping-car pour financer leur style de vie. Avance rapide de 26 ans et aujourd'hui, nous produisons des vetements et accessoires de qualite pour hommes, femmes et enfants, tous concus en interne a notre siege du Hampshire. FATFACE est une attitude de vie : pleine d'optimisme et toujours prete a essayer quelque chose de nouveau. C'est sociable, decontracte et c'est le plaisir d'etre dehors, de respirer l'air frais, d'embrasser la vie en dehors du 9-5.",
+    "about_ja": "FATFACEは1988年、フランス・アルプスで2人の英国人がスウェットをプリントし、キャンピングカーの後ろから売って生活費を稼いだことから始まりました。26年後の現在、私たちはハンプシャーの本社でデザインされた高品質なメンズ・ウィメンズ・キッズの衣類やアクセサリーを生産しています。FATFACEは生き方の姿勢—楽観的で、いつでも新しいことに挑戦する。社交的でリラックスした雰囲気、屋外で新鮮な空気を吸いながら、9時5時の外の人生を楽しむことです。"
+  },
+  {
+    "name": "Joules",
+    "floor": "upper",
+    "categories": [
+      "Footwear",
+      "Kids",
+      "Fashion"
+    ],
+    "unit": "106",
+    "logo": "assets/logos/Joules logo.png",
+    "image": "assets/headers/Joules header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/joules/",
+    "hours": "9.30am - 8.00pm...",
+    "about": "Joules has been creating time-off clothing since 1989.  Season after season we bring newness, colour and distinctly British style. Reimagining classic layering pieces in an authentically Joules way, we deliver exceptional lasting quality and unrivalled attention to detail at phenomenal price points. Always. Our in-house design teams continually seek to be inspired by the lives our customers lead, creating unique and bespoke print and style for all our clothing and home ranges...",
+    "about_fr": "Joules cree des vetements de temps libre depuis 1989. Saison apres saison, nous apportons de la nouveaute, de la couleur et un style resolument britannique. En reinventant les pieces de superposition classiques a la maniere authentiquement Joules, nous offrons une qualite durable exceptionnelle et une attention au detail inegalee a des prix phenomenaux. Toujours. Nos equipes de design internes cherchent continuellement l'inspiration dans la vie de nos clients, creant des imprimes et styles uniques et sur mesure pour toutes nos gammes de vetements et de maison...",
+    "about_ja": "Joulesは1989年からオフタイムの服を作り続けています。シーズンごとに新しさ、色彩、そして英国らしいスタイルを届けます。クラシックなレイヤリングアイテムをJoulesらしく再解釈し、驚くほどの価格で長持ちする品質と比類ないディテールへのこだわりを実現。いつでも。社内デザインチームはお客様の生活から常にインスピレーションを得て、衣類やホームコレクションのためのユニークで特注のプリントとスタイルを生み出しています..."
+  },
+  {
+    "name": "White Stuff",
+    "floor": "upper",
+    "categories": [
+      "Footwear",
+      "Jewellery & Accessories",
+      "Home"
+    ],
+    "unit": "104",
+    "logo": "assets/logos/White Stuff logo.png",
+    "image": "assets/headers/White Stuff header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/white-stuff/",
+    "hours": "9.30am - 8.00pm...",
+    "about": "What Stuff? Really nice stuff mainly. White Stuff is all about comfortable, casual clothes with unique details and beautiful prints. Imaginative twists on staples we keep coming back to. Pretty dresses, colourful knitwear and seriously decent denim. That kind of stuff. Basically.",
+    "about_fr": "Du stuff ? Oui, surtout du tres bon. White Stuff, c'est des vetements confortables et decontractes, avec des details uniques et de beaux imprimes. Des touches imaginatives sur des basiques auxquels on revient toujours. Jolies robes, maille coloree et denim vraiment solide. Ce genre de trucs, en somme.",
+    "about_ja": "「Stuff」って何？要するに、すごくいいもの。White Stuffは、ユニークなディテールと美しいプリントを持つ、快適でカジュアルな服が中心。何度でも手に取る定番に、想像力のあるひねりを。かわいいワンピース、カラフルなニット、そしてしっかりしたデニム。そんな感じです。要するに。"
+  },
+  {
+    "name": "Space NK",
+    "floor": "upper",
+    "categories": [
+      "Health & Beauty"
+    ],
+    "unit": "103",
+    "logo": "assets/logos/Space NK logo.png",
+    "image": "assets/headers/Space NK header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/space-nk/",
+    "hours": "9.30am - 8.00pm...",
+    "about": "Space NK was founded in 1993, what began as a single location in London’s bustling Covent Garden shopping district, showcasing an expertly curated selection of beauty discoveries from around the globe, soon became the destination for the world’s most sought-after luxury products and beauty solutions.",
+    "about_fr": "Fondee en 1993, Space NK est partie d'un seul emplacement dans le quartier anime de Covent Garden a Londres, presentant une selection soigneusement curatee de decouvertes beaute du monde entier, pour devenir rapidement la destination des produits de luxe et solutions beaute les plus recherches au monde.",
+    "about_ja": "Space NKは1993年にロンドンの賑やかなコヴェント・ガーデンの1店舗から始まり、世界中のビューティーアイテムを厳選して紹介しました。すぐに、最も求められるラグジュアリー製品とビューティーソリューションの目的地へと成長しました。"
+  },
+  {
+    "name": "Beaverbrooks",
+    "floor": "upper",
+    "categories": [
+      "Jewellery & Accessories",
+      "Leisure & Hobbies"
+    ],
+    "unit": "102",
+    "logo": "assets/logos/Beaverbrooks logo.png",
+    "image": "assets/headers/Beaverbrooks header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/beaverbrooks/",
+    "hours": "9.30am - 8.00pm...",
+    "about": "We’d like to welcome you to our Beaverbrooks Cribbs Causeway store. We have a beautiful collection of Beaverbrooks diamonds, exceptional watches from luxury Swiss and designer brands, and a stunning selection of jewellery. You’ll find jewellery and watches from favourite brands, including Raymond Weil, Citizen, Casio, and more. Our friendly experts are on-hand to guide you through our collections with all the advice and help you need. We can’t wait to help you find the diamonds, jewellery or watch of your dreams, whether it’s for you, or a gift for someone special...",
+    "about_fr": "Nous sommes ravis de vous accueillir dans notre magasin Beaverbrooks de Cribbs Causeway. Nous avons une superbe collection de diamants Beaverbrooks, des montres exceptionnelles de marques suisses et de createurs, et une magnifique selection de bijoux. Vous trouverez des bijoux et des montres de vos marques preferees, dont Raymond Weil, Citizen, Casio, et plus encore. Nos experts chaleureux sont la pour vous guider dans nos collections avec tous les conseils et l'aide dont vous avez besoin. Nous avons hate de vous aider a trouver les diamants, bijoux ou la montre de vos reves, que ce soit pour vous ou pour un cadeau special...",
+    "about_ja": "Beaverbrooks Cribbs Causeway店へようこそ。Beaverbrooksのダイヤモンドコレクション、スイスやデザイナーブランドの卓越した時計、そして美しいジュエリーの数々を取り揃えています。Raymond Weil、Citizen、Casioなど、お気に入りブランドのジュエリーや時計も見つかります。親切な専門スタッフが必要なアドバイスとともにご案内します。ご自身用でも特別な贈り物でも、夢のダイヤモンド、ジュエリー、または時計探しをお手伝いできるのを楽しみにしています…"
+  },
+  {
+    "name": "Timpson",
+    "floor": "upper",
+    "categories": [
+      "Services"
+    ],
+    "unit": "101a",
+    "logo": "assets/logos/Timpson logo.png",
+    "image": "assets/headers/Timpson header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/timpson/",
+    "hours": "9.30am - 6.30pm...",
+    "about": "Established in 1903, Timpson now have 550 locations throughout the UK offering a wide range of services. Voted Top British and Retail Company in the Sunday Times Top 50 companies to work for, we take pride in the level of service we offer and believe that training is the key to our successful operation.",
+    "about_fr": "Fondee en 1903, Timpson compte aujourd'hui 550 sites a travers le Royaume-Uni offrant une large gamme de services. Elue meilleure entreprise britannique et de vente au detail dans le Sunday Times Top 50 des entreprises ou travailler, nous sommes fiers du niveau de service que nous offrons et croyons que la formation est la cle de notre reussite.",
+    "about_ja": "Timpsonは1903年創業で、現在は英国全土に550拠点を持ち幅広いサービスを提供しています。Sunday Timesの「働きたい企業Top 50」で英国・小売部門のトップに選ばれた実績があり、提供するサービスの質に誇りを持ち、研修こそが成功の鍵だと考えています。"
+  },
+  {
+    "name": "Eurochange",
+    "floor": "upper",
+    "categories": [
+      "Services"
+    ],
+    "unit": "101b",
+    "logo": "assets/logos/Eurochange logo.png",
+    "image": "assets/headers/Eurochange header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/eurochange/",
+    "hours": "9.30am - 8.00pm...",
+    "about": "Eurochange is your foreign exchange expert, bringing you more travel money for your pounds. From Dirhams to Dollars, cash to prepaid travel card, eurochange has the widest range of currencies at better rates than the airport (with average savings of £172, based on our survey conducted in August 22). Our great rates are available in branch or online, with a choice of home delivery or click & collect. We also buy back travel money - use our Boomerang Offer for improved rates. Or if you need to transfer money overseas, we can send funds securely to 300+ countries, using our money transfer or Western Union services. Our team of foreign exchange experts look forward to welcoming you. #exchangewitheurochange",
+    "about_fr": "Eurochange est votre expert en change, vous offrant davantage d'argent de voyage pour vos livres sterling. Du dirham au dollar, du cash a la carte de voyage prepayee, eurochange propose la plus large gamme de devises a de meilleurs taux que l'aeroport (economies moyennes de 172 GBP, selon notre enquete d'aout 22). Nos excellents taux sont disponibles en agence ou en ligne, avec livraison a domicile ou click & collect. Nous rachetons aussi votre argent de voyage - utilisez notre Boomerang Offer pour de meilleurs taux. Et si vous devez transferer de l'argent a l'etranger, nous pouvons envoyer des fonds en toute securite vers plus de 300 pays via nos services de transfert d'argent ou Western Union. Notre equipe d'experts en change se rejouit de vous accueillir. #exchangewitheurochange",
+    "about_ja": "Eurochangeは外貨両替のエキスパートとして、ポンドの旅行資金をもっと有利にします。ディルハムからドルまで、現金からプリペイドのトラベルカードまで、空港よりも良いレートで幅広い通貨を提供（2022年8月の調査で平均172ポンドの節約）。好レートは店頭でもオンラインでも利用でき、宅配またはクリック＆コレクトを選べます。旅行用外貨の買い戻しも行っており、より良いレートのためにBoomerang Offerをご利用ください。海外送金が必要なら、送金サービスまたはWestern Unionを通じて300以上の国へ安全に送金できます。外貨両替の専門チームが皆さまのご来店をお待ちしています。#exchangewitheurochange"
+  },
+  {
+    "name": "Whittard of Chelsea",
+    "floor": "upper",
+    "categories": [
+      "Food & Drink"
+    ],
+    "unit": "101",
+    "logo": "assets/logos/Whittard of Chelsea logo.png",
+    "image": "assets/headers/Whittard of Chelsea header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/whittard-of-chelsea/",
+    "hours": "9.30am - 8.00pm...",
+    "about": "We have been around since 1886 when Walter Whittard first set up his shop in the bustling heart of London, selling the finest tea, coffee, and hot chocolate. Our heritage is important to us, and we remain true to our founder’s approach of: “buy the best.”",
+    "about_fr": "Nous existons depuis 1886, lorsque Walter Whittard a ouvert sa boutique au coeur anime de Londres, vendant les meilleurs thes, cafes et chocolats chauds. Notre heritage est important pour nous, et nous restons fideles a l'approche de notre fondateur : \"buy the best\".",
+    "about_ja": "Whittardは1886年、Walter Whittardがロンドンの賑やかな中心部に店を構え、最高の紅茶、コーヒー、ホットチョコレートを販売したことから始まりました。私たちにとって伝統は重要であり、創業者の「buy the best（最良のものを買う）」という姿勢を今も守り続けています。"
+  },
+  {
+    "name": "John Lewis and Partners",
+    "floor": "upper",
+    "categories": [
+      "Department Store"
+    ],
+    "unit": "",
+    "logo": "assets/logos/John Lewis and Partners logo.png",
+    "image": "assets/headers/John Lewis and Partners header.webp",
+    "learnMore": "https://www.mallcribbs.com/stores/john-lewis-partners/",
+    "hours": "9.30am - 8.00pm...",
+    "about": "John Lewis & Partners is Never Knowingly Undersold on quality, on price, on service. We keep a close eye on our competitors to ensure we always offer great quality at fair prices, supported by excellent service and, as a result, we believe we provide value that is unrivalled on the high street. John Lewis now has a Bureau de Change in store, located on the second floor in the Gift List department. There is also a brand new beauty department housing brands such as Mac, Charlotte Tilbury, Urban Decay, Marc Jacobs Beauty, Jo Malone and La Mer. Looking to refuel with a coffee, cake or light meal? Visit The Place To Eat on the top floor, or Ori Caffe for a tasty treat!",
+    "about_fr": "John Lewis & Partners est \"Never Knowingly Undersold\" en matiere de qualite, de prix et de service. Nous surveillons de pres nos concurrents pour garantir que nous offrons toujours une grande qualite a des prix justes, soutenue par un excellent service ; ainsi, nous pensons offrir une valeur inegalee sur la high street. John Lewis dispose desormais d'un Bureau de Change en magasin, situe au deuxieme etage dans le departement Gift List. Il y a aussi un tout nouveau departement beaute avec des marques comme Mac, Charlotte Tilbury, Urban Decay, Marc Jacobs Beauty, Jo Malone et La Mer. Besoin de refaire le plein avec un cafe, un gateau ou un repas leger ? Rendez-vous a The Place To Eat au dernier etage, ou a Ori Caffe pour une pause gourmande !",
+    "about_ja": "John Lewis & Partnersは品質・価格・サービスにおいて「Never Knowingly Undersold（意図的に他社より高く売らない）」を掲げています。競合を常にチェックし、優れたサービスに支えられた高品質を適正価格で提供することで、ハイストリートで比類ない価値を提供できると信じています。店内には2階ギフトリスト売場に外貨両替カウンター（Bureau de Change）があり、Mac、Charlotte Tilbury、Urban Decay、Marc Jacobs Beauty、Jo Malone、La Merなどのブランドを揃えた新しいビューティー部門もあります。コーヒーやケーキ、軽食でひと息つきたいなら、最上階のThe Place To Eat、またはOri Caffeへどうぞ。"
+  },
+  {
+    "name": "WHSmith",
+    "floor": "lower",
+    "categories": [
+      "Services",
+      "Leisure & Hobbies"
+    ],
+    "unit": "TBC",
+    "hours": "9:30 am - 8:00 pm",
+    "about": "WHSmith has something in store for everyone. The UK's biggest bookseller offers a huge range of great reads as well as magazines, stationery, and entertainment products and fabulous promotions throughout the year. Visit the WH Smith website",
+    "about_fr": "Les informations de ce magasin du niveau bas seront ajoutees bientot.",
+    "about_ja": "この下階店舗の情報は近日中に追加されます。",
+    "learnMore": "https://www.mallcribbs.com/stores/whsmith/",
+    "logo": "https://www.mallcribbs.com/media/pbpf0swp/whsmith-logo.gif?v=1daa7a830a0a670",
+    "image": "https://www.mallcribbs.com/media/grwnhuzj/wh-smith.png?width=502&quality=75&v=1dbcf18f3fadb70"
+  },
+  {
+    "name": "Style Beuty Bar",
+    "floor": "lower",
+    "categories": [
+      "Health & Beauty",
+      "Services"
+    ],
+    "unit": "TBC",
+    "hours": "9:30 am - 8:00 pm",
+    "about": "Style Beauty Bar offers the latest in treatments, including threading, waxing and tinting. The bar offers a walk in service, but booking is advised for waxing treatments. To make a booking please call 07590726695.",
+    "about_fr": "Les informations de ce magasin du niveau bas seront ajoutees bientot.",
+    "about_ja": "この下階店舗の情報は近日中に追加されます。",
+    "learnMore": "https://www.mallcribbs.com/stores/style-beauty-bar/",
+    "logo": "https://www.mallcribbs.com/media/lw0lp2dp/style-beauty-bar.png?v=1dbd479b2f0f9f0",
+    "image": "https://www.mallcribbs.com/media/pnnp50zr/style-beauty-bar-front.jpg?width=502&quality=75&v=1dbd3ab683a9660"
+  },
+  {
+    "name": "Charles Clinkard",
+    "floor": "lower",
+    "categories": [
+      "Footwear"
+    ],
+    "unit": "TBC",
+    "hours": "9:30 am - 8:00 pm",
+    "about": "Charles Clinkard offers high quality, branded footwear. Charles Clinkard is home to many established brands including Gabor shoes, Rieker shoes, Ecco shoes, Skechers and Barker’s. Our highly qualified staff are here to provide you with guidance on the shoes that are best suited to you. Visit The Charles Clinkard website",
+    "about_fr": "Les informations de ce magasin du niveau bas seront ajoutees bientot.",
+    "about_ja": "この下階店舗の情報は近日中に追加されます。",
+    "learnMore": "https://www.mallcribbs.com/stores/charles-clinkard/",
+    "logo": "https://www.mallcribbs.com/media/fgwjwigp/charles-clinkard-logo.gif?v=1daa7a82cbc4050",
+    "image": "https://www.mallcribbs.com/media/3xroejlj/charles-clinkard.png?width=502&quality=75&v=1dbcf18a6ef58b0"
+  },
+  {
+    "name": "Austen & Blake",
+    "floor": "lower",
+    "categories": [
+      "Jewellery & Accessories"
+    ],
+    "unit": "TBC",
+    "hours": "9:30 am - 8:00 pm",
+    "about": "Neve Jewels Group “Changing the way people buy jewellery” Austen & Blake is a contemporary jewellery concept store that redefines traditional retail practices. Instead of offering pre-made designs, the brand specialises in creating bespoke pieces tailored to individual preferences. By producing jewellery to order, Austen & Blake significantly reduces costs, passing savings of up to 70–80% compared to typical high-street retailers directly to customers. The store provides complete customisation, allowing clients to select every detail, including design, carat weight, clarity, colour, and certification. Orders are crafted and delivered within three weeks. Additionally, Austen & Blake offers a generous returns policy and sources diamonds exclusively from the best GIA-certified suppliers. Customers are encouraged to visit the store and consult with a knowledgeable team member for a personalised experience. Visit The Austen & Blake website",
+    "about_fr": "Les informations de ce magasin du niveau bas seront ajoutees bientot.",
+    "about_ja": "この下階店舗の情報は近日中に追加されます。",
+    "learnMore": "https://www.mallcribbs.com/stores/austen-blake/",
+    "logo": "https://www.mallcribbs.com/media/5mqfx5eu/austen-blake-logo.jpg?v=1db76fb04459720",
+    "image": "https://www.mallcribbs.com/media/nxfejuau/austeblake.png?width=502&quality=75&v=1dbcf189c7268f0"
+  },
+  {
+    "name": "O2",
+    "floor": "lower",
+    "categories": [
+      "Tech"
+    ],
+    "unit": "TBC",
+    "hours": "9:30 am - 8:00 pm",
+    "about": "Whether you're looking for your first mobile phone, the very latest model or a handheld business solution, at O2 you'll find a great range of mobile phones, accessories and tariffs. Come and visit our Cribbs Causeway store and meet some fantastic people who will help find the right package for you. Visit the o2 website",
+    "about_fr": "Les informations de ce magasin du niveau bas seront ajoutees bientot.",
+    "about_ja": "この下階店舗の情報は近日中に追加されます。",
+    "learnMore": "https://www.mallcribbs.com/stores/o2/",
+    "logo": "https://www.mallcribbs.com/media/dyzbh20x/o2-logo.gif?v=1daa7a84175bb70",
+    "image": "https://www.mallcribbs.com/media/2rrfmg2o/o2.png?width=502&quality=75&v=1dbcf18d222eab0"
+  },
+  {
+    "name": "Lakeland",
+    "floor": "lower",
+    "categories": [
+      "Food & Drink",
+      "Home",
+      "Leisure & Hobbies"
+    ],
+    "unit": "TBC",
+    "hours": "9:30 am - 8:00 pm",
+    "about": "Here at Lakeland we offer an unrivalled collection of creative kitchenware, practical ideas for the home & garden, and inspiring gifts from all over the world. Our Buyers search for innovative products that make life easier, before putting them through a rigorous selection and testing process to ensure they meet our exacting standards. From everyday utensils & preserving basics, to never-seen-before cookware. We try and stock as much as we can, If you have seen an item on our website or catalogue, we will be glad to get the item in for you if it is not in our store. Visit The Lakeland website",
+    "about_fr": "Les informations de ce magasin du niveau bas seront ajoutees bientot.",
+    "about_ja": "この下階店舗の情報は近日中に追加されます。",
+    "learnMore": "https://www.mallcribbs.com/stores/lakeland/",
+    "logo": "https://www.mallcribbs.com/media/cz2hfgdq/lakeland-logo.jpg?v=1daa7a838264f30",
+    "image": "https://www.mallcribbs.com/media/rpmhhndw/lakeland.png?width=502&quality=75&v=1dbcf18c50697f0"
+  },
+  {
+    "name": "Card Factory",
+    "floor": "lower",
+    "categories": [
+      "Leisure & Hobbies"
+    ],
+    "unit": "TBC",
+    "hours": "9:30 am - 8:00 pm",
+    "about": "Whatever the occasion, you’ll find everything you need to celebrate all life’s moments at Card Factory. Choose from our amazing range of cards, gifts, balloons, partyware and gift dressings. Looking for something with a more personal touch? Create your own personalised cards & gifts online. Visit The Card Factory website",
+    "about_fr": "Les informations de ce magasin du niveau bas seront ajoutees bientot.",
+    "about_ja": "この下階店舗の情報は近日中に追加されます。",
+    "learnMore": "https://www.mallcribbs.com/stores/card-factory/",
+    "logo": "https://www.mallcribbs.com/media/zf2gl1ic/card-factory-logo.png?v=1daa7a8409b12e0",
+    "image": "https://www.mallcribbs.com/media/2g4c3c1q/card-factory.png?width=502&quality=75&v=1dbcf18a47223b0"
+  },
+  {
+    "name": "Claire's",
+    "floor": "lower",
+    "categories": [
+      "Jewellery & Accessories",
+      "Services",
+      "Leisure & Hobbies"
+    ],
+    "unit": "TBC",
+    "hours": "9:30 am - 8:00 pm",
+    "about": "Claire’s is a global brand powerhouse for self-expression creating exclusive curated and fun looks with innovative jewelry, hair, cosmetics, and fashion accessories. Claire’s is THE world’s leading piercing specialist having pierced over 100 million ears worldwide. Visit Claire’s today to accessorize your unique style. Claire’s…We make memories. Visit The Claire&#x27;s website",
+    "about_fr": "Les informations de ce magasin du niveau bas seront ajoutees bientot.",
+    "about_ja": "この下階店舗の情報は近日中に追加されます。",
+    "learnMore": "https://www.mallcribbs.com/stores/claires/",
+    "logo": "https://www.mallcribbs.com/media/xfijoy1s/claires-logo.gif?v=1daa7a8332184f0",
+    "image": "https://www.mallcribbs.com/media/dhpjhu1g/claires.png?width=502&quality=75&v=1dbcf18ab931730"
+  },
+  {
+    "name": "Rituals",
+    "floor": "lower",
+    "categories": [
+      "Health & Beauty"
+    ],
+    "unit": "TBC",
+    "hours": "9:30 am - 8:00 pm",
+    "about": "Rituals Specialists in luxurious home and body products. Rituals embrace The Art of Soulful Living and aim to be your compass for personal wellbeing. Their luxurious bath, body and home products are designed to help you connect and bring more balance to your body, mind, and soul. Rituals is a certified B Corp™, meaning that they are a company that uses business as a force for good and meets high standards of social and environmental impact. Their products have been developed using ingredients of natural origin that help you transform daily routines into more meaningful moments. Are you ready to live more soulfully? Visit Rituals website",
+    "about_fr": "Les informations de ce magasin du niveau bas seront ajoutees bientot.",
+    "about_ja": "この下階店舗の情報は近日中に追加されます。",
+    "learnMore": "https://www.mallcribbs.com/stores/rituals/",
+    "logo": "https://www.mallcribbs.com/media/fb4k1ypk/rituals.png?v=1daa7a83f99a870",
+    "image": "https://www.mallcribbs.com/media/aljhn2d4/rituals.png?width=502&quality=75&v=1dbcf18d76d7080"
+  },
+  {
+    "name": "Scribbler",
+    "floor": "lower",
+    "categories": [
+      "Leisure & Hobbies"
+    ],
+    "unit": "TBC",
+    "hours": "9:30 am - 8:00 pm",
+    "about": "Scribbler: We rebel against the ordinary. Cards for the Bold, the Brazen, and the Brilliant Twee messages and bland gifts can get in the bin. Yes, giving a good card or gift is a memory-making experience and shows you care, but that doesn’t mean you can’t make people laugh doing it. Visit the Scribbler website",
+    "about_fr": "Les informations de ce magasin du niveau bas seront ajoutees bientot.",
+    "about_ja": "この下階店舗の情報は近日中に追加されます。",
+    "learnMore": "https://www.mallcribbs.com/stores/scribbler/",
+    "logo": "https://www.mallcribbs.com/media/v0hikn0t/scribbler-logo-2.png?v=1dc643c79ec0ac0",
+    "image": "https://www.mallcribbs.com/media/pemndg0v/scribbler-store-front-edit.jpg?width=502&quality=75&v=1dc644446e2e1a0"
+  },
+  {
+    "name": "Smiggle",
+    "floor": "lower",
+    "categories": [
+      "Kids",
+      "Leisure & Hobbies"
+    ],
+    "unit": "TBC",
+    "hours": "9:30 am - 8:00 pm",
+    "about": "Smiggle - Australia’s most colourful stationery brand is here! This tiny but colourful store is filled to the brim with bright and bold stationery, bags, lunchboxes, accessories, gadgets and more! Everything you need for school, homework or fun can be found right here. So come on in- experiment, explore, poke, prod and play. We promise that every Smiggle goodie will have you shouting ‘hooray’! Smiggle – it’s where a smile meets a giggle. Visit the Smiggle website",
+    "about_fr": "Les informations de ce magasin du niveau bas seront ajoutees bientot.",
+    "about_ja": "この下階店舗の情報は近日中に追加されます。",
+    "learnMore": "https://www.mallcribbs.com/stores/smiggle/",
+    "logo": "https://www.mallcribbs.com/media/avrpwbdi/smiggle-logo.jpg?v=1daa7a829f2c010",
+    "image": "https://www.mallcribbs.com/media/euznnqkj/smiggle.png?width=502&quality=75&v=1dbcf18ddce9670"
+  },
+  {
+    "name": "Suit Direct",
+    "floor": "lower",
+    "categories": [
+      "Leisure & Hobbies",
+      "Fashion"
+    ],
+    "unit": "TBC",
+    "hours": "9:30 am - 8:00 pm",
+    "about": "Break tradition. Forget conformity. Suit Direct put to rest stuffiness and archaic suiting traditions and celebrates as the suit evolves for today’s men. Suit Yourself - break the rules and etiquette, mix and match, wear suits when you want, how you want. With such a wide range of suiting, accessories and casualwear from leading brands at Suit Direct, they provide the perfect opportunity to express individuality and personal style. Suits don’t have to be boring and suit wearers are not confined to conformity. Your style, your attitude, your way. Get the style and fit that’s right for you. Free 1-2-1 styling appointments available in store at Suit Direct. Click here to book. Visit Suit Direct",
+    "about_fr": "Les informations de ce magasin du niveau bas seront ajoutees bientot.",
+    "about_ja": "この下階店舗の情報は近日中に追加されます。",
+    "learnMore": "https://www.mallcribbs.com/stores/suit-direct/",
+    "logo": "https://www.mallcribbs.com/media/fmwheqsw/suit-direct-logo.png?v=1daa7a82ffee830",
+    "image": "https://www.mallcribbs.com/media/vz5f0ybj/suit-direct.png?width=502&quality=75&v=1dbcf18e32cf260"
+  },
+  {
+    "name": "Management Offices",
+    "floor": "lower",
+    "categories": [
+      "Services"
+    ],
+    "unit": "TBC",
+    "hours": "9:30 am - 8:00 pm",
+    "about": "Situated on the lower level of The Mall, the management offices oversee the day to day running of the shopping centre. Visit www.mallcribbs.com",
+    "about_fr": "Les informations de ce magasin du niveau bas seront ajoutees bientot.",
+    "about_ja": "この下階店舗の情報は近日中に追加されます。",
+    "learnMore": "https://www.mallcribbs.com/stores/management-offices/",
+    "logo": "https://www.mallcribbs.com/media/k13kitgn/edited-logos-2.png?v=1daa7a830db3e70",
+    "image": "https://www.mallcribbs.com/media/0dmn3oq1/management-offices-store.jpg?width=502&quality=75&v=1daa7a83c0cd830"
+  },
+  {
+    "name": "Superdrag",
+    "floor": "lower",
+    "categories": [
+      "Food & Drink",
+      "Health & Beauty",
+      "Services"
+    ],
+    "unit": "TBC",
+    "hours": "9:30 am - 8:00 pm",
+    "about": "We offer a wide range of beauty products, cosmetics, fragrances, haircare, electricals, confectionery, drinks, gifts and accessories. Visit the Superdrug website",
+    "about_fr": "Les informations de ce magasin du niveau bas seront ajoutees bientot.",
+    "about_ja": "この下階店舗の情報は近日中に追加されます。",
+    "learnMore": "https://www.mallcribbs.com/stores/superdrug/",
+    "logo": "https://www.mallcribbs.com/media/djvnok4n/superdrug-logo.gif?v=1daa7a82dcbdb90",
+    "image": "https://www.mallcribbs.com/media/vyodjv1e/img_5151.jpeg?width=502&quality=75&v=1dc36c078ba5390"
+  },
+  {
+    "name": "River Island",
+    "floor": "lower",
+    "categories": [
+      "Footwear",
+      "Jewellery & Accessories",
+      "Kids"
+    ],
+    "unit": "TBC",
+    "hours": "9:30 am - 8:00 pm",
+    "about": "With over 70 years of fashion retailing experience and 230 stores across the UK and Ireland, River Island is one of the best-known and loved brands on the UK High Street. Renowned for its stylish and unique fashion offering spanning womenswear, menswear and kidswear, River Island boasts one of the largest design teams on the High Street, with almost all of its products designed in-house. An icon of the British high street, River Island makes fashion for real people with real lives. Visit the River Island website",
+    "about_fr": "Les informations de ce magasin du niveau bas seront ajoutees bientot.",
+    "about_ja": "この下階店舗の情報は近日中に追加されます。",
+    "learnMore": "https://www.mallcribbs.com/stores/river-island/",
+    "logo": "https://www.mallcribbs.com/media/c2ofndcw/river-island-logo-2025.png?v=1db731f7328dd80",
+    "image": "https://www.mallcribbs.com/media/wy3hvjbh/518984406_1164995015669925_344957744315297678_n-1.jpg?width=502&quality=75&v=1dbfae959198410"
+  },
+  {
+    "name": "Oliver Bonus",
+    "floor": "lower",
+    "categories": [
+      "Health & Beauty",
+      "Jewellery & Accessories",
+      "Home"
+    ],
+    "unit": "TBC",
+    "hours": "9:30 am - 8:00 pm",
+    "about": "Oliver Bonas is an independent British lifestyle store, designing our own take on fashion and homeware. Our story starts with our founder, Olly. His creative upbringing, culturally influenced by the many countries he lived in, instilled a love of design and an exploratory spirit from an early age. At university whilst studying Anthropology, Olly began to bring back gifts for friends from his travels abroad. He turned this into a small business and in 1993 the first store opened in London, repainted by his friends with Olly behind a second-hand till. Over two decades on, Oliver Bonas has evolved from curating others’ designs to creating our own. Our team of designers now take Olly’s exploratory spirit and channel it into our fashion and homeware collections. We are inspired by the alchemy of great design, fresh thinking, and the belief that design has the power to positively affect how we feel. New designs land in store and online every week. Today, OB has grown to over 80 stores across the UK and is run by an amazing team who share Olly’s passion for bringing new ideas to life. We have fun and follow our company values: Work Hard, Play Hard & Be Kind. Visit the Oliver Bonas website",
+    "about_fr": "Les informations de ce magasin du niveau bas seront ajoutees bientot.",
+    "about_ja": "この下階店舗の情報は近日中に追加されます。",
+    "learnMore": "https://www.mallcribbs.com/stores/oliver-bonas/",
+    "logo": "https://www.mallcribbs.com/media/2xfie2w2/oliver-bonus-logo.png?v=1daa7a83497f850",
+    "image": "https://www.mallcribbs.com/media/32zjnoqe/oli-b.png?width=502&quality=75&v=1dbcf18d2b47c50"
+  },
+  {
+    "name": "Carvela",
+    "floor": "lower",
+    "categories": [
+      "Footwear",
+      "Fashion"
+    ],
+    "unit": "TBC",
+    "hours": "9:30 am - 8:00 pm",
+    "about": "Carvela is a premium accessories label, designed in the heart of Milan by women for women. Rooted in Italian heritage, each piece reflects Carvela’s commitment to exceptional design and lasting comfort, enhanced with All Day Long technology. From padded insoles and flexible soles to breathable linings, every detail is crafted for all-day comfort. Each pair is rigorously fit tested to ensure support from AM to PM. Visit The Carvela website",
+    "about_fr": "Les informations de ce magasin du niveau bas seront ajoutees bientot.",
+    "about_ja": "この下階店舗の情報は近日中に追加されます。",
+    "learnMore": "https://www.mallcribbs.com/stores/carvela/",
+    "logo": "https://www.mallcribbs.com/media/45wm0xhk/carvela.png?v=1daa7a8325ed130",
+    "image": "https://www.mallcribbs.com/media/dukg1yf1/carvela.png?width=502&quality=75&v=1dbcf18a4e30df0"
+  },
+  {
+    "name": "Holland&Barett",
+    "floor": "lower",
+    "categories": [
+      "Food & Drink",
+      "Health & Beauty"
+    ],
+    "unit": "TBC",
+    "hours": "9:30 am - 8:00 pm",
+    "about": "Holland & Barrett is the UK's leading retailer of vitamins, minerals and herbal supplements. Interest in natural food supplements has increased considerably over the last few years and Holland & Barrett has always had a commitment to its customers to provide high-quality products at value for money prices. Holland & Barrett are committed to education and advice, wide product range, quality assurance and everyday low prices. Visit The Holland and Barrett website",
+    "about_fr": "Les informations de ce magasin du niveau bas seront ajoutees bientot.",
+    "about_ja": "この下階店舗の情報は近日中に追加されます。",
+    "learnMore": "https://www.mallcribbs.com/stores/holland-barrett/",
+    "logo": "https://www.mallcribbs.com/media/eote2ud4/holland-and-barrett-logo.gif?v=1daa7a8314b8c70",
+    "image": "https://www.mallcribbs.com/media/ttkd5dxo/holland-barrett.png?width=502&quality=75&v=1dbcf18bbe874e0"
+  },
+  {
+    "name": "Regis Salon",
+    "floor": "lower",
+    "categories": [
+      "Health & Beauty"
+    ],
+    "unit": "TBC",
+    "hours": "9:30 am - 8:00 pm",
+    "about": "Kerastase is Regis Salon's biggest retail range nationwide and we know people love it! The Regis Salon at Cribbs stocks the range and all of the team in the salon can provide expert advice to help ensure the right products are being used for the best haircare results. A wide range of colour services are available, we welcome walk in guests as well as those who like to book in advance. Ask at the salon about their availability today or book an appointment for when is convenient for you. Visit the Regis Salons website",
+    "about_fr": "Les informations de ce magasin du niveau bas seront ajoutees bientot.",
+    "about_ja": "この下階店舗の情報は近日中に追加されます。",
+    "learnMore": "https://www.mallcribbs.com/stores/regis-salon/",
+    "logo": "https://www.mallcribbs.com/media/iydgfan2/regis-salon-logo.gif?v=1daa7a8360f5610",
+    "image": "https://www.mallcribbs.com/media/qzekqr5q/regis.png?width=502&quality=75&v=1dbcf18d3d44430"
+  },
+  {
+    "name": "Store",
+    "floor": "lower",
+    "categories": [
+      "Services",
+      "Fashion"
+    ],
+    "unit": "TBC",
+    "hours": "9:30 am - 8:00 pm",
+    "about": "Information for this lower-floor store will be added soon.",
+    "about_fr": "Les informations de ce magasin du niveau bas seront ajoutees bientot.",
+    "about_ja": "この下階店舗の情報は近日中に追加されます。",
+    "learnMore": "https://www.mallcribbs.com/stores/cribbs-store-map/",
+    "logo": "assets/placeholders/store-logo.svg",
+    "image": "assets/placeholders/store-header.svg"
+  },
+  {
+    "name": "Essential",
+    "floor": "lower",
+    "categories": [
+      "Jewellery & Accessories",
+      "Services"
+    ],
+    "unit": "TBC",
+    "hours": "9:30 am - 8:00 pm",
+    "about": "Essential has been established at Cribbs Causeway since its opening and aims to retail well designed, innovative, on trend and stylish jewellery and accessories at value for money prices. Essential provides excellent customer service to those who are looking for quality gifts, something for fashionable for a night out, or those who are just shopping for a treat. We are an independent retailer and are proud of the fact that we are small, personal and can respond quickly to our customers needs. Visit The essential website",
+    "about_fr": "Les informations de ce magasin du niveau bas seront ajoutees bientot.",
+    "about_ja": "この下階店舗の情報は近日中に追加されます。",
+    "learnMore": "https://www.mallcribbs.com/stores/essential/",
+    "logo": "https://www.mallcribbs.com/media/doaj321p/essential-logo.png?v=1dc58708732b120",
+    "image": "https://www.mallcribbs.com/media/ozjpzbhf/essential.png?width=502&quality=75&v=1dbcf18b256f690"
+  },
+  {
+    "name": "JD Sports",
+    "floor": "lower",
+    "categories": [
+      "Footwear",
+      "Kids",
+      "Sports"
+    ],
+    "unit": "TBC",
+    "hours": "9:30 am - 8:00 pm",
+    "about": "Since its humble beginnings in the early ‘80s, JD delivers unmissable heat from all your favourite brands. With street-ready styles, next-level sportswear, and the hottest trainers and accessories, shop the latest looks from Nike, adidas, Under Armour, The North Face and loads more! Visit The JD website",
+    "about_fr": "Les informations de ce magasin du niveau bas seront ajoutees bientot.",
+    "about_ja": "この下階店舗の情報は近日中に追加されます。",
+    "learnMore": "https://www.mallcribbs.com/stores/jd-sports/",
+    "logo": "https://www.mallcribbs.com/media/v4rbxhc1/jd-sports-logo.gif?v=1daa7a83891bb30",
+    "image": "https://www.mallcribbs.com/media/et2f5eiz/jd-sports.png?width=502&quality=75&v=1dbcf18bf461ed0"
+  },
+  {
+    "name": "Kurt Geiger",
+    "floor": "lower",
+    "categories": [
+      "Footwear",
+      "Fashion"
+    ],
+    "unit": "TBC",
+    "hours": "9:30 am - 8:00 pm",
+    "about": "WHAT MAKES US DIFFERENT – an inclusive, creative vision powered by kindness. No matter where you are in the world, we want to embolden our customers to be true to themselves and confident, the London way. Visit The Kurt Geiger website",
+    "about_fr": "Les informations de ce magasin du niveau bas seront ajoutees bientot.",
+    "about_ja": "この下階店舗の情報は近日中に追加されます。",
+    "learnMore": "https://www.mallcribbs.com/stores/kurt-geiger/",
+    "logo": "https://www.mallcribbs.com/media/hr5lepc3/kurt-geiger-logo-2.png?v=1daa7a82f69fb30",
+    "image": "https://www.mallcribbs.com/media/pgpfmphl/kurt-geiger.png?width=502&quality=75&v=1dbcf18c39cf5d0"
+  },
+  {
+    "name": "Tui",
+    "floor": "lower",
+    "categories": [
+      "Services",
+      "Leisure & Hobbies"
+    ],
+    "unit": "TBC",
+    "hours": "9:30 am - 8:00 pm",
+    "about": "Live Happy on your next adventure with TUI. Pick from worldwide holiday destinations, sun-splashed cruises, European river cruises, tours and more. Visit the Tui website",
+    "about_fr": "Les informations de ce magasin du niveau bas seront ajoutees bientot.",
+    "about_ja": "この下階店舗の情報は近日中に追加されます。",
+    "learnMore": "https://www.mallcribbs.com/stores/tui/",
+    "logo": "https://www.mallcribbs.com/media/32unxrpr/edited-logos.png?v=1daa7a83d90e020",
+    "image": "https://www.mallcribbs.com/media/1r5nnrw1/tui.png?width=502&quality=75&v=1dbcf18f1b61b90"
+  },
+  {
+    "name": "Schuh Kids",
+    "floor": "lower",
+    "categories": [
+      "Footwear",
+      "Kids"
+    ],
+    "unit": "TBC",
+    "hours": "9:30 am - 8:00 pm",
+    "about": "At schuh, we know a thing or two about kids’ shoes. We’ve got it all – trainers for aspiring sneakerheads, tough school shoes, toddler shoes for those first steps and tiny crib shoes to keep baby toes cosy. We stock the best from big brands like Nike, adidas, Dr. Martens and Converse in all sizes from baby to teenager. And, at schuh, we know that the most important thing is properly fitting, comfy shoes, so our trained team will help fit them too. But don’t worry, if your item isn’t available in store our staff can order it for you. Wait, they’ve grown out of another pair? Luckily, our ‘Too Big For Your Boots’ shoe recycling scheme will give you £5 off another pair AND we’ll recycle the old ones for you. Result! Plus we offer: 1 year to return shoes that just aren’t meant to be Fast & Free Delivery on store customer orders Free Click and Collect Visit the Schuh website",
+    "about_fr": "Les informations de ce magasin du niveau bas seront ajoutees bientot.",
+    "about_ja": "この下階店舗の情報は近日中に追加されます。",
+    "learnMore": "https://www.mallcribbs.com/stores/schuh-kids/",
+    "logo": "https://www.mallcribbs.com/media/vvjja3kw/schuh-kids-logo.png?v=1daa7a834cbd990",
+    "image": "https://www.mallcribbs.com/media/vq0lcuam/schuh-kids.png?width=502&quality=75&v=1dbcf18d8e654e0"
+  },
+  {
+    "name": "Schuh",
+    "floor": "lower",
+    "categories": [
+      "Footwear"
+    ],
+    "unit": "TBC",
+    "hours": "9:30 am - 8:00 pm",
+    "about": "At Schuh, we’re all about shoes, expressing yourself, and expressing yourself through shoes - so no surprises there. We change our shoes like most people change their socks. And whether you’re a dedicated sneakerhead or would do anything for a killer pair of heels, we’ve got you. We stock the best from big brands like Nike, Adidas, Dr. Martens and Converse. We also love a gem or two from new brands and we’ve got our own brand. But don’t worry, if your item isn’t available in-store our staff can order it for you. Plus we offer: 1 year to return shoes that just aren’t meant to be 10% student discount year round, even in the sale! Free Click and collect Visit the Schuh website",
+    "about_fr": "Les informations de ce magasin du niveau bas seront ajoutees bientot.",
+    "about_ja": "この下階店舗の情報は近日中に追加されます。",
+    "learnMore": "https://www.mallcribbs.com/stores/schuh/",
+    "logo": "https://www.mallcribbs.com/media/8d8a67c607eab20/schuh-logo-1.png?v=1daa7a8302079f0",
+    "image": "https://www.mallcribbs.com/media/byuh15dv/schuh.png?width=502&quality=75&v=1dbcf18d86a4710"
+  },
+  {
+    "name": "Lush",
+    "floor": "lower",
+    "categories": [
+      "Health & Beauty",
+      "Leisure & Hobbies"
+    ],
+    "unit": "TBC",
+    "hours": "9:30 am - 8:00 pm",
+    "about": "At Lush, we sell beautiful fresh handmade cosmetics, using little or no preservative or packaging, only vegetarian ingredients and tell you when they were made. Come and visit our 100th shop here at Cribbs Causeway to meet our friendly, helpful team of staff who will help you choose from our bath, skincare or herbal haircare products. Looking for a gift? We can even find the perfect parcel for you. We look forward to meeting you soon. View information about Lush parties here Visit The Lush website",
+    "about_fr": "Les informations de ce magasin du niveau bas seront ajoutees bientot.",
+    "about_ja": "この下階店舗の情報は近日中に追加されます。",
+    "learnMore": "https://www.mallcribbs.com/stores/lush/",
+    "logo": "https://www.mallcribbs.com/media/ultfviv2/lush-logo.gif?v=1daa7a839778750",
+    "image": "https://www.mallcribbs.com/media/mxfjbp3z/img_5723.jpeg?width=502&quality=75&v=1dc43ff87fa6dd0"
+  },
+  {
+    "name": "Kiko",
+    "floor": "lower",
+    "categories": [
+      "Health & Beauty"
+    ],
+    "unit": "TBC",
+    "hours": "9:30 am - 8:00 pm",
+    "about": "NO 1 MAKEUP BRAND IN ITALY KIKO MILANO is a brand built for self expression, founded in 1997 in Milan the brand leads beauty trends combining the quality and creativity rooted in the Italian DNA, KIKO has an endless range of shades, tones and textures to satisfy every professional and personalised make-up look.",
+    "about_fr": "Les informations de ce magasin du niveau bas seront ajoutees bientot.",
+    "about_ja": "この下階店舗の情報は近日中に追加されます。",
+    "learnMore": "https://www.mallcribbs.com/stores/kiko/",
+    "logo": "https://www.mallcribbs.com/media/5tonmsw3/kiko-logo-2.png?v=1daa7a830b20b90",
+    "image": "https://www.mallcribbs.com/media/e4nel0iq/kiko.png?width=502&quality=75&v=1dbcf18c252c290"
+  },
+  {
+    "name": "Millie's Cookies",
+    "floor": "lower",
+    "categories": [
+      "Food & Drink"
+    ],
+    "unit": "TBC",
+    "hours": "9:30 am - 8:00 pm",
+    "about": "We bake fresh cookies, all day, every day. Visit us in-store to see our selection of famous cookies. Why not try our milk chocolate chip. What a classic. Crunchy on the outside, chewy in the middle, with chunks of gooey milk chocolate, but be warned - one is definitely not enough. We also serve a variety of flavoured milkshakes, cookie shakes, cookies and ice creams. For that special occasion why not order a giant celebration cookie, iced with your own personal message. Visit The Millies Cookies website",
+    "about_fr": "Les informations de ce magasin du niveau bas seront ajoutees bientot.",
+    "about_ja": "この下階店舗の情報は近日中に追加されます。",
+    "learnMore": "https://www.mallcribbs.com/stores/millies-cookies/",
+    "logo": "https://www.mallcribbs.com/media/2vkbojaq/millies-logo.png?v=1dae892af4fe910",
+    "image": "https://www.mallcribbs.com/media/ncehzqcu/millies.png?width=502&quality=75&v=1dbcf18cc205f80"
+  },
+  {
+    "name": "Ribble",
+    "floor": "lower",
+    "categories": [
+      "Leisure & Hobbies"
+    ],
+    "unit": "TBC",
+    "hours": "9:30 am - 8:00 pm",
+    "about": "Ribble Cycles is one of the longest established bicycle manufacturers in the world. Award winning, hand-built British bikes since 1897, all customisable to suit you. Your bike, your way. Visit Ribble Bristol to view the bike range, personalise your build and get expert advice on buying and sizing your new Ribble bike. Visit the Ribble website",
+    "about_fr": "Les informations de ce magasin du niveau bas seront ajoutees bientot.",
+    "about_ja": "この下階店舗の情報は近日中に追加されます。",
+    "learnMore": "https://www.mallcribbs.com/stores/ribble/",
+    "logo": "https://www.mallcribbs.com/media/dbsgmh04/ribble_logo.jpg?v=1daa7a82ca0c910",
+    "image": "https://www.mallcribbs.com/media/kcbm5zoo/ribble.png?width=502&quality=75&v=1dbcf18d6e5a2e0"
+  },
+  {
+    "name": "Vision Express Optical Lab",
+    "floor": "lower",
+    "categories": [
+      "Health & Beauty",
+      "Services"
+    ],
+    "unit": "TBC",
+    "hours": "9:30 am - 8:00 pm",
+    "about": "At Vision Express we provide thorough eye tests, simply explained with expert care you can trust. We stock a wide range of glasses from £25, sunglasses from £15 and contact lenses. We also offer Free Lifetime Servicing and a 100-Day Returns Guarantee to give you great value and complete peace of mind. Book your eye test instore or online now! Visit the Vision Express website",
+    "about_fr": "Les informations de ce magasin du niveau bas seront ajoutees bientot.",
+    "about_ja": "この下階店舗の情報は近日中に追加されます。",
+    "learnMore": "https://www.mallcribbs.com/stores/vision-express/",
+    "logo": "https://www.mallcribbs.com/media/iw2bt2xy/vision-express.png?v=1daa7a84138b270",
+    "image": "https://www.mallcribbs.com/media/guplhqv0/vision-express.png?width=502&quality=75&v=1dbcf18f0530920"
+  },
+  {
+    "name": "Accessorize",
+    "floor": "lower",
+    "categories": [
+      "Footwear",
+      "Jewellery & Accessories",
+      "Kids"
+    ],
+    "unit": "TBC",
+    "hours": "9:30 am - 8:00 pm",
+    "about": "Accessorize was first born in 1984 with the opening of our first store in the Piazza, Covent Garden, London. Our founder Peter Simon was inspired from a trip to Paris, where he discovered a small selection of stores selling fashion jewellery that customers could pick up, touch and try on while browsing. It was a new concept to London in the early eighties, and Accessorize soon changed the way we shopped for accessories. Accessorize has since made its mark as a one-stop shop for vibrant and fashion-forward bags, jewellery, beachwear and more, with stores in over 50 markets across the world. Visit The Accessorize website",
+    "about_fr": "Les informations de ce magasin du niveau bas seront ajoutees bientot.",
+    "about_ja": "この下階店舗の情報は近日中に追加されます。",
+    "learnMore": "https://www.mallcribbs.com/stores/accessorize/",
+    "logo": "https://www.mallcribbs.com/media/kz3jm4jp/accessorize-logo.jpg?v=1daa7a8351a20a0",
+    "image": "https://www.mallcribbs.com/media/2lslvjbc/accesorize.png?width=502&quality=75&v=1dbcf189ba15d50"
+  },
+  {
+    "name": "ProCook",
+    "floor": "lower",
+    "categories": [
+      "Home"
+    ],
+    "unit": "TBC",
+    "hours": "9:30 am - 8:00 pm",
+    "about": "Offering exceptional quality cookware, kitchenware and tableware at surprisingly low prices, ProCook have been curating British designed, beautiful ranges for over 25 years. Inspired by an insatiable love of cooking, with an emphasis on outstanding performance, Procook pieces will enhance your cooking and dining experience. Renowned for their incredible in-store offerings, including free home delivery and product demonstrations, ProCook’s highly trained, friendly staff offer specialist advice to support your purchase. So whether you’re looking to upgrade your kitchenware, moving home or searching for professional quality, you’ve come to the right place. Visit the ProCook website",
+    "about_fr": "Les informations de ce magasin du niveau bas seront ajoutees bientot.",
+    "about_ja": "この下階店舗の情報は近日中に追加されます。",
+    "learnMore": "https://www.mallcribbs.com/stores/procook/",
+    "logo": "https://www.mallcribbs.com/media/f3shjgtv/procook_logo.jpg?v=1daa7a83859bb40",
+    "image": "https://www.mallcribbs.com/media/0ejda4qw/procook-store-front.jpg?width=502&quality=75&v=1daa7a835328aa0"
+  },
+  {
+    "name": "Next and Next Home",
+    "floor": "lower",
+    "categories": [
+      "Home",
+      "Leisure & Hobbies"
+    ],
+    "unit": "TBC",
+    "hours": "9:30 am - 8:00 pm",
+    "about": "Our new store at Cribbs Causeway Retail Park includes our first UK bedshop in addition to the normal offering of extensive home and furniture collections, a Home Design Service and garden centre. Visit the Next Home & Garden website",
+    "about_fr": "Les informations de ce magasin du niveau bas seront ajoutees bientot.",
+    "about_ja": "この下階店舗の情報は近日中に追加されます。",
+    "learnMore": "https://www.mallcribbs.com/stores/next-home-garden/",
+    "logo": "assets/logos/Next logo.png",
+    "image": "assets/headers/Next header.webp"
+  },
+  {
+    "name": "Next Kids",
+    "floor": "lower",
+    "categories": [
+      "Kids"
+    ],
+    "unit": "TBC",
+    "hours": "9:30 am - 8:00 pm",
+    "about": "Next offers exciting, beautifully designed, excellent quality clothing and homeware. Our store at Cribbs Causeway stocks the latest Women’s (including Petites), Men’s and Children’s collections, offers Express Delivery to store (order by 10pm for free next day delivery) and has a fantastic Personal Shopping service. Visit the Next Kids website",
+    "about_fr": "Les informations de ce magasin du niveau bas seront ajoutees bientot.",
+    "about_ja": "この下階店舗の情報は近日中に追加されます。",
+    "learnMore": "https://www.mallcribbs.com/stores/next-kids/",
+    "logo": "assets/logos/Next logo.png",
+    "image": "assets/headers/Next header.webp"
+  },
+  {
+    "name": "The Works",
+    "floor": "lower",
+    "categories": [
+      "Leisure & Hobbies"
+    ],
+    "unit": "TBC",
+    "hours": "9:30 am - 8:00 pm",
+    "about": "At The Works we’re all about VALUE, it’s who we are and it’s why customers shop with us again and again. We’re here for your family from day one, from pre-school education to crafting with mum, getting study ready, or when you just need a good read and a cuppa. The Works have got you covered. We’re all about the good stuff, helping you fill your free time with reading, learning, crafting, play and all things fun. What are you waiting for? Shop with us now and join the fun. Visit The Works website",
+    "about_fr": "Les informations de ce magasin du niveau bas seront ajoutees bientot.",
+    "about_ja": "この下階店舗の情報は近日中に追加されます。",
+    "learnMore": "https://www.mallcribbs.com/stores/the-works/",
+    "logo": "https://www.mallcribbs.com/media/5judfhur/the-works-logo-edit.png?v=1daa7a838c50030",
+    "image": "https://www.mallcribbs.com/media/d0wftmre/67806d5b-5846-4592-bf26-c1ba0bc4b8ff.jpg?width=502&quality=75&v=1daa7a83b25d390"
+  },
+  {
+    "name": "Starbucks",
+    "floor": "lower",
+    "categories": [
+      "Food & Drink"
+    ],
+    "unit": "TBC",
+    "hours": "9:30 am - 8:00 pm",
+    "about": "Starbucks Coffee Company is the leading retailer, roaster and brand of specialty coffee in the world. We're committed to offering the highest quality coffee and the Starbucks Experience whilst making a positive contribution to the communities in which we work. Come and visit us to enjoy a great cup of coffee in a warm and welcoming environment. Visit the Starbucks website",
+    "about_fr": "Les informations de ce magasin du niveau bas seront ajoutees bientot.",
+    "about_ja": "この下階店舗の情報は近日中に追加されます。",
+    "learnMore": "https://www.mallcribbs.com/stores/starbucks-coffee/",
+    "logo": "https://www.mallcribbs.com/media/1jujmpb3/starbucks-coffee-logo.gif?v=1daa7a82f61bdd0",
+    "image": "https://www.mallcribbs.com/media/2lebislo/starbucks.png?width=502&quality=75&v=1dbcf18e07dd7f0"
+  },
+  {
+    "name": "Bakers + Baristas",
+    "floor": "lower",
+    "categories": [
+      "Food & Drink"
+    ],
+    "unit": "TBC",
+    "hours": "9:30 am - 8:00 pm",
+    "about": "Bakers + Baristas was founded in 1981. Since day one, our philosophy is simple - the first thing we do when we open the café in the morning is turn on the oven and open a fresh pack of coffee beans. Once the first batch of fresh muffins and pastries are out of the oven and you can smell the freshly ground beans, we’re ready to open the doors. Our passion and expertise (and those lovely aromas wafting out of the door) have meant we’ve now grown to 65 Bakers + Baristas stores across UK and the Ireland, with more planned for the future. We have amassed a well-thumbed recipe book of over 400 cakes and muffins, with a rotating seasonal offer in all of our cafes. We also offer an ever-changing menu of artisan savoury foods such as freshly baked filled baguettes, panini’s and toasties to name a few to keep your taste buds tingling from morning until evening. So if you like tasty food, you’re in good company. Check out our website or follow us on social media ( Facebook , Twitter , Instagram ) for the latest exiting news on Bakers + Baristas. Visit The BakerBaristas website",
+    "about_fr": "Les informations de ce magasin du niveau bas seront ajoutees bientot.",
+    "about_ja": "この下階店舗の情報は近日中に追加されます。",
+    "learnMore": "https://www.mallcribbs.com/stores/bakers-plus-baristas/",
+    "logo": "https://www.mallcribbs.com/media/esffllgc/bakers-and-baristas-logo.png?v=1daa7a83a801db0",
+    "image": "https://www.mallcribbs.com/media/41zllwa0/baker-baristas.png?width=502&quality=75&v=1dbcf189adf93f0"
+  },
+  {
+    "name": "Lovisa",
+    "floor": "lower",
+    "categories": [
+      "Jewellery & Accessories"
+    ],
+    "unit": "TBC",
+    "hours": "9:30 am - 8:00 pm",
+    "about": "Lovisa was created out of the need for on-trend fashion jewellery at ready to wear prices. Our trend spotting departments worldwide take inspiration from couture runways and current street style to deliver new, on-trend, must-have styles to our customers. We use a wide range of materials and expert finishing techniques to deliver new fashion-forward designer jewellery and hair accessories, into store every week. The Lovisa customer has refined taste and understands the importance of the perfect accessory. She’s social, confident and stylish. Visit The Lovisa website",
+    "about_fr": "Les informations de ce magasin du niveau bas seront ajoutees bientot.",
+    "about_ja": "この下階店舗の情報は近日中に追加されます。",
+    "learnMore": "https://www.mallcribbs.com/stores/lovisa/",
+    "logo": "https://www.mallcribbs.com/media/im3fey5n/lovisa-logo.jpg?v=1daa7a833196ea0",
+    "image": "https://www.mallcribbs.com/media/pghfknfv/lovisa-store.jpg?width=502&quality=75&v=1daa7a82ec9c390"
+  },
+  {
+    "name": "Animal",
+    "floor": "lower",
+    "categories": [
+      "Footwear",
+      "Jewellery & Accessories",
+      "Kids"
+    ],
+    "unit": "TBC",
+    "hours": "9:30 am - 8:00 pm",
+    "about": "Born in 1987, Animal began with a single idea: a rugged watch strap designed for life outdoors. From those early beginnings, we grew into a brand with a spirit of adventure at its core. Today, Animal has evolved into a leading lifestyle brand for those who live an active outdoor lifestyle. Our timeless designs blend functionality with contemporary style, offering refined versatility from the coast to the city, and everywhere in between. Designed for a generation that embraces every journey: Active. Outdoor. Travel.",
+    "about_fr": "Les informations de ce magasin du niveau bas seront ajoutees bientot.",
+    "about_ja": "この下階店舗の情報は近日中に追加されます。",
+    "learnMore": "https://www.mallcribbs.com/stores/animal/",
+    "logo": "https://www.mallcribbs.com/media/sk2a0ysp/new-look-2.png?v=1dc44f89e0750d0",
+    "image": "https://www.mallcribbs.com/media/titlojja/animal-store-front.jpg?width=502&quality=75&v=1dc5afcf8e94d90"
+  },
+  {
+    "name": "Pret a Manager",
+    "floor": "lower",
+    "categories": [
+      "Food & Drink"
+    ],
+    "unit": "TBC",
+    "hours": "9:30 am - 8:00 pm",
+    "about": "Since 1986, Pret has been creating handmade, natural food, avoiding the obscure chemicals, additives and preservatives. To make this possible we build a kitchen in (or very near) every shop. You won’t find ‘sell-by’ dates on our fresh sandwiches and salads. Our ingredients are delivered early every day. We don’t mind that fresh and fragile ingredients go off quickly – we start from scratch each morning. We do this because natural fresh food tastes better than processed food and it’s good for you. If and when we make too much, we offer it to local charities at the end of the day. Visit www.pret.com",
+    "about_fr": "Les informations de ce magasin du niveau bas seront ajoutees bientot.",
+    "about_ja": "この下階店舗の情報は近日中に追加されます。",
+    "learnMore": "https://www.mallcribbs.com/stores/pret-a-manger/",
+    "logo": "https://www.mallcribbs.com/media/cmbdvc2k/pret-a-manger-logo.gif?v=1daa7a836e25d80",
+    "image": "https://www.mallcribbs.com/media/zlwjc50n/pret-a-manger.png?width=502&quality=75&v=1dbcf18d49fd190"
+  },
+  {
+    "name": "Soho Coffee Co",
+    "floor": "lower",
+    "categories": [
+      "Food & Drink",
+      "Tech"
+    ],
+    "unit": "TBC",
+    "hours": "9:30 am - 8:00 pm",
+    "about": "COME ON IN AND ENJOY SOHO’S SIGNATURE FAIRTRADE, ORGANIC & RAINFOREST ALLIANCE CERTIFIED™ COFFEE – ALONGSIDE FAST, FRESH AND FLAVOURSOME HANDMADE FOOD – PREPARED IN THEIR KITCHENS DAILY. SOHO has something for every mood and mealtime, whether it’s vegetarian, vegan, low calorie or some all-out indulgence. Start the day with a fabulous breakfast, or even join for brunch with a range of topped flatbreads perfect for tearing or sharing. They promise you’ll be loving lunch again with their large range of handmade salads, sandwiches, khobez & sourdough toasties. The SOHO giant spud is of course available, with good old cheese & beans or a delicious seasonal filling. In a hurry? Grab & go, whether it’s a flat white or hot lunch. Little ones are also catered for, with SOHO kid’s range; perfectly-sized sandwiches and fruit & veggie pots. So, come and discover SOHO and find your new favourites! Visit the Soho Coffee website",
+    "about_fr": "Les informations de ce magasin du niveau bas seront ajoutees bientot.",
+    "about_ja": "この下階店舗の情報は近日中に追加されます。",
+    "learnMore": "https://www.mallcribbs.com/stores/soho-coffee/",
+    "logo": "assets/logos/EE logo.jpeg",
+    "image": "assets/headers/EE header.webp"
+  },
+  {
+    "name": "Frazer Hart",
+    "floor": "lower",
+    "categories": [
+      "Jewellery & Accessories"
+    ],
+    "unit": "TBC",
+    "hours": "9:30 am - 8:00 pm",
+    "about": "The Fraser Hart store can be found in the centre of the Mall itself, on the ground floor. Stocking an extensive range of fine jewellery in 9ct, 18ct, platinum and silver, the store also specialises in gem-set jewellery and rings. Watch brands range from Armani to Gucci, Longines and Rado. The store also offers a complete repair, valuation and re-modelling service, in addition to expert help and advice on insurance replacements. Visit The Fraser Hart website",
+    "about_fr": "Les informations de ce magasin du niveau bas seront ajoutees bientot.",
+    "about_ja": "この下階店舗の情報は近日中に追加されます。",
+    "learnMore": "https://www.mallcribbs.com/stores/fraser-hart/",
+    "logo": "https://www.mallcribbs.com/media/zn4iyloh/fraser-hart-logo.png?v=1daa7a82e0c8e10",
+    "image": "https://www.mallcribbs.com/media/r3hlkiuj/fraser-hart.png?width=502&quality=75&v=1dbcf18b9abcb50"
+  },
+  {
+    "name": "Emest Jones",
+    "floor": "lower",
+    "categories": [
+      "Jewellery & Accessories"
+    ],
+    "unit": "TBC",
+    "hours": "9:30 am - 8:00 pm",
+    "about": "Ernest Jones, the Diamond and Watch Specialist offers a beautiful selection of fine jewellery and designer watches including the exclusive Trilogy diamond range, the ultimate symbol of love; past, present and future. With a spectacular range for him and her you are certain to find something special for the one you love. Visit The Ernest Jones website",
+    "about_fr": "Les informations de ce magasin du niveau bas seront ajoutees bientot.",
+    "about_ja": "この下階店舗の情報は近日中に追加されます。",
+    "learnMore": "https://www.mallcribbs.com/stores/ernest-jones/",
+    "logo": "https://www.mallcribbs.com/media/yzwjodae/ernest-jones-logo.gif?v=1daa7a82ac440e0",
+    "image": "https://www.mallcribbs.com/media/ajxlfv5c/ernest-jones.png?width=502&quality=75&v=1dbcf18b1bdc3d0"
+  },
+  {
+    "name": "John Lewis & Partners Lower Floor",
+    "floor": "lower",
+    "categories": [
+      "Department Store"
+    ],
+    "unit": "TBC",
+    "hours": "9:30 am - 8:00 pm",
+    "about": "John Lewis & Partners is Never Knowingly Undersold on quality, on price, on service. We keep a close eye on our competitors to ensure we always offer great quality at fair prices, supported by excellent service and, as a result, we believe we provide value that is unrivalled on the high street. John Lewis now has a Bureau de Change in store, located on the second floor in the Gift List department. There is also a brand new beauty department housing brands such as Mac, Charlotte Tilbury, Urban Decay, Marc Jacobs Beauty, Jo Malone and La Mer. Looking to refuel with a coffee, cake or light meal? Visit The Place To Eat on the top floor, or Ori Caffe for a tasty treat! Visit The John Lewis website",
+    "about_fr": "Les informations de ce magasin du niveau bas seront ajoutees bientot.",
+    "about_ja": "この下階店舗の情報は近日中に追加されます。",
+    "learnMore": "https://www.mallcribbs.com/stores/john-lewis-partners/",
+    "logo": "assets/logos/John Lewis and Partners logo.png",
+    "image": "assets/headers/John Lewis and Partners header.webp"
+  },
+  {
+    "name": "Marks & Spencer Lower Floor",
+    "floor": "lower",
+    "categories": [
+      "Department Store"
+    ],
+    "unit": "TBC",
+    "hours": "9:30 am - 8:00 pm",
+    "about": "Marks and Spencer in the Mall offers one of the largest ranges in the country including Autograph, Per Una, a garden shop and an extensive Food Hall. We also provide a number of excellent customer services including M&S Money, Customer ordering and Cafe Revive. The choice allows you to do all your shopping under one roof! Visit The M&S website",
+    "about_fr": "Les informations de ce magasin du niveau bas seront ajoutees bientot.",
+    "about_ja": "この下階店舗の情報は近日中に追加されます。",
+    "learnMore": "https://www.mallcribbs.com/stores/marks-spencer/",
+    "logo": "assets/logos/Marks and Spencer logo.jpg",
+    "image": "assets/headers/Marks and Spencer header.webp"
+  },
+  {
+    "name": "Mooch",
+    "floor": "lower",
+    "categories": [
+      "Food & Drink",
+      "Leisure & Hobbies"
+    ],
+    "unit": "TBC",
+    "hours": "9:30 am - 8:00 pm",
+    "about": "Mooch is the latest brand of the Cardzone Ltd business. Cardzone Ltd is an independent, family-owned chain of 180+ card & gift stores across the UK established 20 years ago. In a Mooch store you will find a huge range of contemporary and traditional cards including birthday, blank, humour and occasions from a vast array of suppliers to suit all budgets. Within our Stationery category the Peter Pauper and Museums and Galleries ranges sell really well along with leading stationers Tinc and Legami. Our Gifting is varied but our top sellers include Jellycat and Wrendale (although unfortunately these are not available in every store). As part of Home & Fragrance, we have a selection of our own bespoke Mooch candles which adds a nice touch to both our brand and store. We also have a wide range of colouring and activity books as well as children’s games and puzzles.",
+    "about_fr": "Les informations de ce magasin du niveau bas seront ajoutees bientot.",
+    "about_ja": "この下階店舗の情報は近日中に追加されます。",
+    "learnMore": "https://www.mallcribbs.com/stores/mooch/",
+    "logo": "https://www.mallcribbs.com/media/d2zkkwt5/mooch-logo.jpg?v=1daa7a832350210",
+    "image": "https://www.mallcribbs.com/media/tbkfc24r/mooch.png?width=502&quality=75&v=1dbcf18cc98eae0"
+  },
+  {
+    "name": "The Body Shop",
+    "floor": "lower",
+    "categories": [
+      "Health & Beauty",
+      "Leisure & Hobbies"
+    ],
+    "unit": "TBC",
+    "hours": "9:30 am - 8:00 pm",
+    "about": "Want powerful products with nature-inspired ingredients that make you feel empowered and loved from head to toe? The Body Shop has your back. Scrub up that body and scrub up the world with their beauty treats, fragrances and gift sets. A force for good since 1976, with over 40 years of campaigning, change-making and smashing beauty industry standards, The Body Shop exists to fight for a fairer, more beautiful world. Visit The Body Shop website",
+    "about_fr": "Les informations de ce magasin du niveau bas seront ajoutees bientot.",
+    "about_ja": "この下階店舗の情報は近日中に追加されます。",
+    "learnMore": "https://www.mallcribbs.com/stores/the-body-shop/",
+    "logo": "https://www.mallcribbs.com/media/8d896de21be17ee/the-bbody-shop-logo.png?v=1daa7a82e63fce0",
+    "image": "https://www.mallcribbs.com/media/xmvirwyw/the-body-shop.png?width=502&quality=75&v=1dbcf18e788d270"
+  },
+  {
+    "name": "Pandora",
+    "floor": "lower",
+    "categories": [
+      "Jewellery & Accessories"
+    ],
+    "unit": "TBC",
+    "hours": "9:30 am - 8:00 pm",
+    "about": "PANDORA designs, manufactures and markets hand-finished and contemporary jewellery made from high-quality materials at affordable prices. PANDORA jewellery is sold in more than 100 countries on six continents through more than 7,700 points of sale, including more than 2,600 concept stores. Founded in 1982 and headquartered in Copenhagen, Denmark, PANDORA employs more than 27,700 people worldwide of whom more than 14,000 are located in Thailand, where the Company manufactures its jewellery. PANDORA is publicly listed on the Nasdaq Copenhagen stock exchange in Denmark. In 2017, PANDORA’s total revenue was DKK 22.8 billion (approximately EUR 3.1 billion). Visit the Pandora website",
+    "about_fr": "Les informations de ce magasin du niveau bas seront ajoutees bientot.",
+    "about_ja": "この下階店舗の情報は近日中に追加されます。",
+    "learnMore": "https://www.mallcribbs.com/stores/pandora/",
+    "logo": "https://www.mallcribbs.com/media/2adkhq5t/pandora-logo.gif?v=1daa7a83d1ff5e0",
+    "image": "https://www.mallcribbs.com/media/eqrp2bn5/pandora.png?width=502&quality=75&v=1dbcf18d31b2d60"
+  },
+  {
+    "name": "Specsavers",
+    "floor": "lower",
+    "categories": [
+      "Health & Beauty",
+      "Services"
+    ],
+    "unit": "TBC",
+    "hours": "9:30 am - 8:00 pm",
+    "about": "Specsavers in Cribbs Causeway offer seven testing rooms, free hearing assessments, digital retinal photography, a dedicated contact lens area and showcasing more than 1,200 frames, the store offers the very best in optical and audiology care. Customer service is something the team prides itself on and every person that walks through the door is made to feel welcome. Visit the Specsavers website",
+    "about_fr": "Les informations de ce magasin du niveau bas seront ajoutees bientot.",
+    "about_ja": "この下階店舗の情報は近日中に追加されます。",
+    "learnMore": "https://www.mallcribbs.com/stores/specsavers/",
+    "logo": "https://www.mallcribbs.com/media/gfnjfohf/specsaver-logo.gif?v=1daa7a83bbf7b80",
+    "image": "https://www.mallcribbs.com/media/5ugegmkd/specsavers.png?width=502&quality=75&v=1dbcf18e0e413d0"
+  },
+  {
+    "name": "Tiger",
+    "floor": "lower",
+    "categories": [
+      "Home",
+      "Leisure & Hobbies"
+    ],
+    "unit": "TBC",
+    "hours": "9:30 am - 8:00 pm",
+    "about": "Halløj! We are a Danish brand with stores all over the world. We salute diversity and work tirelessly towards ambitious sustainability targets. We are bold and adventurous and believe in living life to the full. We create modern, seasonal items and contemporary, colourful everyday essentials. With us, a richer life doesn't cost a fortune. Visit the Flying Tiger Copenhagen website",
+    "about_fr": "Les informations de ce magasin du niveau bas seront ajoutees bientot.",
+    "about_ja": "この下階店舗の情報は近日中に追加されます。",
+    "learnMore": "https://www.mallcribbs.com/stores/flying-tiger-copenhagen/",
+    "logo": "https://www.mallcribbs.com/media/nrelmjvd/tiger-logo.png?v=1daa7a82d428750",
+    "image": "https://www.mallcribbs.com/media/xcddpi5q/tiger.png?width=502&quality=75&v=1dbcf18ef5ce950"
+  },
+  {
+    "name": "Skechers",
+    "floor": "lower",
+    "categories": [
+      "Footwear"
+    ],
+    "unit": "TBC",
+    "hours": "9:30 am - 8:00 pm",
+    "about": "Skechers, The Comfort Technology Company™, is where you’ll find the best selection of footwear and apparel for men, women and kids. Choose from countless options including the latest athletic, casual and fashion trends as well as stylish sandals and boots—and our collections offer a range of innovative features like Skechers Air-Cooled Memory Foam® insoles, Skechers Hands Free Slip-in Technology™ and Skechers Arch Fit Technology™ for added comfort. Plus, you’ll find our range of slip-resistant work footwear for men and women, along with accessories to complete your look. And Skechers also offers all the cool, fun, playful and lighted designs that boys and girls love. There’s a perfect style for you and your entire family…only at Skechers Visit the Skechers website",
+    "about_fr": "Les informations de ce magasin du niveau bas seront ajoutees bientot.",
+    "about_ja": "この下階店舗の情報は近日中に追加されます。",
+    "learnMore": "https://www.mallcribbs.com/stores/skechers/",
+    "logo": "https://www.mallcribbs.com/media/latlt0vr/skechers-logo.jpg?v=1daa7a840461510",
+    "image": "https://www.mallcribbs.com/media/u2mluybg/skechers.png?width=502&quality=75&v=1dbcf18dadef090"
+  },
+  {
+    "name": "Waterstones",
+    "floor": "lower",
+    "categories": [
+      "Leisure & Hobbies"
+    ],
+    "unit": "TBC",
+    "hours": "9:30 am - 8:00 pm",
+    "about": "We pride ourselves on providing our customers with the best range of books on the high street, from best-sellers to revision guides. Let our fiction and children's sections whisk you away to a land of enchantment, while our history and travel sections will inspire and our cookery section will leave your mouth watering. We also sell stationary & gifts, games and trading cards. There is something for everyone. We are also host to a number of exciting in-store book events and signings. Come and meet our dedicated and friendly team of booksellers who will use their years of experience to find you that next perfect read. Visit the Waterstones website",
+    "about_fr": "Les informations de ce magasin du niveau bas seront ajoutees bientot.",
+    "about_ja": "この下階店舗の情報は近日中に追加されます。",
+    "learnMore": "https://www.mallcribbs.com/stores/waterstones/",
+    "logo": "https://www.mallcribbs.com/media/fslnk4g0/waterstones-logo.gif?v=1daa7a83510f8e0",
+    "image": "https://www.mallcribbs.com/media/tyimbzif/waterstones-store.jpg?width=502&quality=75&v=1daa7a83ff1b380"
+  },
+  {
+    "name": "Watchlab",
+    "floor": "lower",
+    "categories": [
+      "Health & Beauty",
+      "Jewellery & Accessories",
+      "Services"
+    ],
+    "unit": "TBC",
+    "hours": "9:30 am - 8:00 pm",
+    "about": "Watch repairs from the UK’s leading watch repair specialist which has branches throughout the UK. All watch repairs undertaken with most jobs completed the same day. Battery and reseal on brands such as Tag Heuer uniquely in around just one hour. Head Office Authorised Service Centre for Omega, Rado & Longines. Free advice, assessment and free estimates. Part of the Aurum Group of companies (Goldsmiths, Watches of Switzerland and Mappin & Webb) Visit The Watch Lab website",
+    "about_fr": "Les informations de ce magasin du niveau bas seront ajoutees bientot.",
+    "about_ja": "この下階店舗の情報は近日中に追加されます。",
+    "learnMore": "https://www.mallcribbs.com/stores/the-watch-lab/",
+    "logo": "https://www.mallcribbs.com/media/hndoqk43/the-watch-lab-logo.jpg?v=1daa7a82ddc2f40",
+    "image": "https://www.mallcribbs.com/media/d1hhxidq/the-watch-lab.png?width=502&quality=75&v=1dbcf18e9359810"
+  },
+  {
+    "name": "New Look",
+    "floor": "lower",
+    "categories": [
+      "Jewellery & Accessories",
+      "Kids",
+      "Fashion"
+    ],
+    "unit": "TBC",
+    "hours": "9:30 am - 8:00 pm",
+    "about": "Since our first store opened its doors in 1969, we’ve grown into one of the largest womenswear retailers in the UK. Always on trend and always in style, New Look ethos is that everyone can enjoy the latest fashion, no matter what your age, shape or size. Find the most up to date fashion trends for women and teens, and fabulous ranges of accessories and footwear help complete any look. Visit the New Look website",
+    "about_fr": "Les informations de ce magasin du niveau bas seront ajoutees bientot.",
+    "about_ja": "この下階店舗の情報は近日中に追加されます。",
+    "learnMore": "https://www.mallcribbs.com/stores/new-look/",
+    "logo": "https://www.mallcribbs.com/media/tsiagdlo/new-look.png?v=1db005ebae22430",
+    "image": "https://www.mallcribbs.com/media/znyh04ky/new-look.png?width=502&quality=75&v=1dbcf18cdeeb6e0"
+  },
+  {
+    "name": "H&M (Lower)",
+    "floor": "lower",
+    "categories": [
+      "Jewellery & Accessories",
+      "Kids",
+      "Fashion"
+    ],
+    "unit": "TBC",
+    "hours": "9:30 am - 8:00 pm",
+    "about": "H&M offers a wide range of fashion using many different concepts - from updated classics and basics to clothes that reflect the very latest international trends. In addition, we sell underwear, sportswear, accessories and cosmetics. In simple terms, fashion for everyone - and always at the best price. Visit The H&M website",
+    "about_fr": "Les informations de ce magasin du niveau bas seront ajoutees bientot.",
+    "about_ja": "この下階店舗の情報は近日中に追加されます。",
+    "learnMore": "https://www.mallcribbs.com/stores/hm/",
+    "logo": "assets/logos/H&M logo.png",
+    "image": "assets/headers/H&M header.webp"
+  },
+  {
+    "name": "H Beauty",
+    "floor": "lower",
+    "categories": [
+      "Food & Drink",
+      "Health & Beauty",
+      "Services",
+      "Leisure & Hobbies"
+    ],
+    "unit": "TBC",
+    "hours": "9:30 am - 8:00 pm",
+    "about": "Harrods is bringing more magic, innovation, and theatre to the beauty market through our H Beauty standalone stores. With H beauty, we now meet a demand from our beauty customers for experiential retail that allows them to engage with and learn more about the beauty products they are purchasing while enjoying a fun and creative retail environment. H beauty now extends our Harrods beauty offering, beyond the Knightsbridge store to new customers with sites in Lakeside, Milton Keynes, Edinburgh and two more sites planned, the next being right here in Cribbs Causeway. Visit The H Beauty website",
+    "about_fr": "Les informations de ce magasin du niveau bas seront ajoutees bientot.",
+    "about_ja": "この下階店舗の情報は近日中に追加されます。",
+    "learnMore": "https://www.mallcribbs.com/stores/h-beauty/",
+    "logo": "https://www.mallcribbs.com/media/zajjnp5w/h-beauty-logo.png?v=1daa7a83c7dc270",
+    "image": "https://www.mallcribbs.com/media/1qkdgkjp/h-beauty.png?width=502&quality=75&v=1dbcf18bb7fa0f0"
+  },
+  {
+    "name": "Superdry",
+    "floor": "lower",
+    "categories": [
+      "Fashion"
+    ],
+    "unit": "TBC",
+    "hours": "9:30 am - 8:00 pm",
+    "about": "Fusing iconic vintage Americana and high-impact Japanese graphic imagery with a British twist, Superdry is a global lifestyle brand designed for attitude not age. Each piece allows you to wear it in your own way and tell your own story. Authentic vintage washes, high-quality fabrics and iconic hand drawn graphics combine to create future classics that make you look and feel amazing. Click and Collect available in store. Student Discount: 10% off Visit the Superdry website",
+    "about_fr": "Les informations de ce magasin du niveau bas seront ajoutees bientot.",
+    "about_ja": "この下階店舗の情報は近日中に追加されます。",
+    "learnMore": "https://www.mallcribbs.com/stores/superdry/",
+    "logo": "https://www.mallcribbs.com/media/4ardwlvr/superdry-logo.png?v=1daa7a82e280550",
+    "image": "https://www.mallcribbs.com/media/0btfovre/superdry.png?width=502&quality=75&v=1dbcf18e412e590"
+  },
+  {
+    "name": "Clarendon Fine Art",
+    "floor": "lower",
+    "categories": [
+      "Leisure & Hobbies"
+    ],
+    "unit": "TBC",
+    "hours": "9:30 am - 8:00 pm",
+    "about": "Beautifully designed and with a definite aura of luxury about it, Clarendon Fine Art is the perfect environment in which to select the artwork of your choice, whether you are buying your first ever collectable Limited Edition or expanding an existing collection of Original Paintings. Clarendon Fine Art represents a phenomenal portfolio of fine artists, ranging from top international names and award winners such as Fabian Perez, Doug Hyde, Jack Vettriano and Sherree Valentine Daines to the most exceptional new talents including Samantha Ellis, Barry Hilton and Kerry Darlington. We are continually sourcing new artists from around the world to ensure that our gallery walls remain fresh, cutting edge and exciting. Call the gallery or pop in to register with us to receive invitations to celebrity artist appearances, exhibitions, champagne receptions, private views, and launch parties! Visit Clarendon Fine Art website",
+    "about_fr": "Les informations de ce magasin du niveau bas seront ajoutees bientot.",
+    "about_ja": "この下階店舗の情報は近日中に追加されます。",
+    "learnMore": "https://www.mallcribbs.com/stores/clarendon-fine-art/",
+    "logo": "https://www.mallcribbs.com/media/rtogvm0o/edited-logos.png?v=1db4d4a8cd639d0",
+    "image": "https://www.mallcribbs.com/media/5bbjrhzn/img_5140.jpeg?width=502&quality=75&v=1dc36c24baf3080"
+  },
+  {
+    "name": "Dune London",
+    "floor": "lower",
+    "categories": [
+      "Footwear"
+    ],
+    "unit": "TBC",
+    "hours": "9:30 am - 8:00 pm",
+    "about": "Renowned for their cool London designs, great quality and attention to detail, Dune London champion building outfits from the foundations up and celebrating shoes for the sartorial saviours they are. Visit The Dune website",
+    "about_fr": "Les informations de ce magasin du niveau bas seront ajoutees bientot.",
+    "about_ja": "この下階店舗の情報は近日中に追加されます。",
+    "learnMore": "https://www.mallcribbs.com/stores/dune-london/",
+    "logo": "https://www.mallcribbs.com/media/boijua1j/dune-logo.jpg?v=1daa7a829d1a380",
+    "image": "https://www.mallcribbs.com/media/vcxc0auz/dune.png?width=502&quality=75&v=1dbcf18b082f9e0"
+  },
+  {
+    "name": "Timberland",
+    "floor": "lower",
+    "categories": [
+      "Footwear",
+      "Kids",
+      "Fashion"
+    ],
+    "unit": "TBC",
+    "hours": "9:30 am - 8:00 pm",
+    "about": "Timberland at The Mall Cribbs Causeway stock rugged, outdoor-tested, environmentally-conscious footwear, clothes and products for men, women and kids.",
+    "about_fr": "Les informations de ce magasin du niveau bas seront ajoutees bientot.",
+    "about_ja": "この下階店舗の情報は近日中に追加されます。",
+    "learnMore": "https://www.mallcribbs.com/stores/timberland/",
+    "logo": "https://www.mallcribbs.com/media/o0ddcuod/timberland-logo.gif?v=1daa7a831543f00",
+    "image": "https://www.mallcribbs.com/media/iiihpo0t/timberland-store.jpg?width=502&quality=75&v=1daa7a83c368040"
+  },
+  {
+    "name": "Build A Bear",
+    "floor": "lower",
+    "categories": [
+      "Kids",
+      "Leisure & Hobbies"
+    ],
+    "unit": "TBC",
+    "hours": "9:30 am - 8:00 pm",
+    "about": "At Build-A-Bear Workshop, it’s the most fun you’ll ever make! Choose from all kinds of furry friends, add lots of stuffing and make a wish on a heart. Personalize your furry friend by adding scents, sounds, outfits and accessories. You can even celeBEARate any special occasion by having a party with us - with prices starting from £125! Book now at buildabear.co.uk/birthday Visit The Build a bear website",
+    "about_fr": "Les informations de ce magasin du niveau bas seront ajoutees bientot.",
+    "about_ja": "この下階店舗の情報は近日中に追加されます。",
+    "learnMore": "https://www.mallcribbs.com/stores/build-a-bear-workshop/",
+    "logo": "https://www.mallcribbs.com/media/rc1hfb5s/build-a-bear-logo.jpg?v=1daa7a836a04b70",
+    "image": "https://www.mallcribbs.com/media/0x1pxqwg/build-a-bear.png?width=502&quality=75&v=1dbcf18a3ecc710"
+  }
+]

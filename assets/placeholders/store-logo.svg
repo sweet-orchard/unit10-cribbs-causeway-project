@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Store logo placeholder">
+  <rect width="512" height="512" fill="#0f172a"/>
+  <rect x="40" y="40" width="432" height="432" rx="28" fill="#003a70"/>
+  <text x="256" y="235" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="44" font-weight="700">Cribbs</text>
+  <text x="256" y="290" text-anchor="middle" fill="#c5a059" font-family="Arial, sans-serif" font-size="34" font-weight="700">Store</text>
+</svg>
