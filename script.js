@@ -1182,13 +1182,7 @@ function selectStore(name) {
   updateSelectedStoreDetails();
   announceStatus(`${translateStoreName(store.name, state.language)} selected.`);
 
-  const heroImg = document.getElementById("storeHeroImage");
-  if (heroImg && store.image) {
-    heroImg.src = store.image;
-    heroImg.alt =
-      store.imageAlt ||
-      `Header image for ${translateStoreName(store.name, state.language)}`;
-  }
+  updateDetailHeaderImage(store);
   updateDetailLogo(store);
   document.getElementById("storeLocationDetail").textContent =
     getTranslatedLocation(store);
@@ -1260,6 +1254,7 @@ function updateSelectedStoreDetails() {
   if (locationEl) {
     locationEl.textContent = getTranslatedLocation(store);
   }
+  updateDetailHeaderImage(store);
   updateDetailLogo(store);
 }
 
@@ -1303,8 +1298,23 @@ function updateDetailLogo(store) {
   } else {
     badge.classList.remove("has-image");
     img.removeAttribute("src");
-    img.alt = "";
+    img.alt = `${name} logo`;
   }
+}
+
+function updateDetailHeaderImage(store) {
+  const heroImg = document.getElementById("storeHeroImage");
+  if (!heroImg || !store) return;
+  const name = translateStoreName(store.name, state.language) || store.name || "Store";
+  const imageSrc =
+    store.image && String(store.image).trim()
+      ? store.image
+      : "assets/placeholders/store-header.svg";
+  heroImg.src = imageSrc;
+  heroImg.alt =
+    store.imageAlt && String(store.imageAlt).trim()
+      ? store.imageAlt
+      : `Header image for ${name}`;
 }
 
 document.getElementById("searchInput").addEventListener("input", (e) => {
